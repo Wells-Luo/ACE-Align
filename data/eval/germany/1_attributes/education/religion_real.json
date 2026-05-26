@@ -1,0 +1,3138 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2722419928825623,
+      "2": 0.6690391459074734,
+      "3": 0.05693950177935943,
+      "4": 0.0017793594306049821
+    },
+    "sample_count": 562,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.17988929889298894,
+      "2": 0.7140221402214022,
+      "3": 0.09317343173431736,
+      "4": 0.012915129151291511
+    },
+    "sample_count": 1084,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.25932504440497334,
+      "2": 0.458259325044405,
+      "3": 0.2131438721136767,
+      "4": 0.028419182948490232,
+      "5": 0.02841918294849023,
+      "6": 0.0053285968028419185,
+      "7": 0.007104795737122558
+    },
+    "sample_count": 563,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3270270270270271,
+      "2": 0.4099099099099099,
+      "3": 0.1837837837837838,
+      "4": 0.03513513513513514,
+      "5": 0.036036036036036036,
+      "6": 0.006306306306306306,
+      "7": 0.0018018018018018018
+    },
+    "sample_count": 1110,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3359375,
+      "2": 0.365234375,
+      "3": 0.19921875,
+      "4": 0.099609375
+    },
+    "sample_count": 512,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5020283975659229,
+      "2": 0.27281947261663286,
+      "3": 0.13793103448275865,
+      "4": 0.0872210953346856
+    },
+    "sample_count": 986,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11553030303030302,
+      "2": 0.05303030303030303,
+      "3": 0.12500000000000003,
+      "4": 0.7064393939393939
+    },
+    "sample_count": 528,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.15297741273100615,
+      "2": 0.06160164271047228,
+      "3": 0.10164271047227927,
+      "4": 0.6837782340862423
+    },
+    "sample_count": 974,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2125693160813309,
+      "2": 0.17744916820702406,
+      "3": 0.2532347504621072,
+      "4": 0.3567467652495379
+    },
+    "sample_count": 541,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2890855457227139,
+      "2": 0.14454277286135692,
+      "3": 0.22615535889872174,
+      "4": 0.3402163225172075
+    },
+    "sample_count": 1017,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.015734265734265732,
+      "2": 0.045454545454545456,
+      "3": 0.1381118881118881,
+      "4": 0.23076923076923075,
+      "5": 0.5699300699300699
+    },
+    "sample_count": 572,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.046028880866425995,
+      "2": 0.07851985559566788,
+      "3": 0.16606498194945846,
+      "4": 0.24458483754512636,
+      "5": 0.4648014440433213
+    },
+    "sample_count": 1108,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.037102473498233215,
+      "2": 0.36042402826855124,
+      "3": 0.4381625441696113,
+      "4": 0.12014134275618374,
+      "5": 0.044169611307420496
+    },
+    "sample_count": 566,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.029878618113912236,
+      "2": 0.23529411764705882,
+      "3": 0.41549953314659194,
+      "4": 0.2296918767507003,
+      "5": 0.08963585434173671
+    },
+    "sample_count": 1071,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.026455026455026454,
+      "2": 0.26631393298059963,
+      "3": 0.4620811287477954,
+      "4": 0.20458553791887124,
+      "5": 0.04056437389770723
+    },
+    "sample_count": 567,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.019867549668874173,
+      "2": 0.25165562913907286,
+      "3": 0.5014191106906338,
+      "4": 0.19299905392620623,
+      "5": 0.03405865657521287
+    },
+    "sample_count": 1057,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.01834862385321101,
+      "2": 0.22568807339449543,
+      "3": 0.3596330275229358,
+      "4": 0.25321100917431194,
+      "5": 0.14311926605504588
+    },
+    "sample_count": 545,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.029411764705882353,
+      "2": 0.15,
+      "3": 0.338235294117647,
+      "4": 0.29411764705882354,
+      "5": 0.18823529411764703
+    },
+    "sample_count": 1020,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.13227513227513227,
+      "2": 0.4991181657848324,
+      "3": 0.2698412698412698,
+      "4": 0.07760141093474426,
+      "5": 0.021164021164021163
+    },
+    "sample_count": 567,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06906077348066299,
+      "2": 0.3692449355432781,
+      "3": 0.3683241252302026,
+      "4": 0.14640883977900554,
+      "5": 0.04696132596685083
+    },
+    "sample_count": 1086,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06205673758865249,
+      "2": 0.4113475177304964,
+      "3": 0.39893617021276595,
+      "4": 0.10815602836879432,
+      "5": 0.01950354609929078
+    },
+    "sample_count": 564,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07424381301558203,
+      "2": 0.4243813015582034,
+      "3": 0.37305224564619616,
+      "4": 0.10449129239230064,
+      "5": 0.023831347387717687
+    },
+    "sample_count": 1091,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.6007130124777184,
+      "2": 0.22638146167557935,
+      "3": 0.08199643493761141,
+      "4": 0.05704099821746881,
+      "5": 0.03386809269162211
+    },
+    "sample_count": 561,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.6238185255198487,
+      "2": 0.22022684310018903,
+      "3": 0.08412098298676748,
+      "4": 0.03686200378071834,
+      "5": 0.03497164461247637
+    },
+    "sample_count": 1058,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.03374777975133215,
+      "2": 0.09236234458259325,
+      "3": 0.18650088809946713,
+      "4": 0.27353463587921845,
+      "5": 0.413854351687389
+    },
+    "sample_count": 563,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.03768115942028986,
+      "2": 0.12367149758454107,
+      "3": 0.23574879227053136,
+      "4": 0.26859903381642514,
+      "5": 0.3342995169082125
+    },
+    "sample_count": 1035,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.27935943060498225,
+      "2": 0.40213523131672596,
+      "3": 0.17081850533807832,
+      "4": 0.12811387900355872,
+      "5": 0.019572953736654804
+    },
+    "sample_count": 562,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3396404919583728,
+      "2": 0.42289498580889306,
+      "3": 0.1333964049195837,
+      "4": 0.08230842005676443,
+      "5": 0.021759697256386004
+    },
+    "sample_count": 1057,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2925531914893617,
+      "2": 0.4592198581560284,
+      "3": 0.1347517730496454,
+      "4": 0.09042553191489362,
+      "5": 0.02304964539007092
+    },
+    "sample_count": 564,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3763233878729548,
+      "2": 0.4157844080846968,
+      "3": 0.12223291626564005,
+      "4": 0.06544754571703561,
+      "5": 0.02021174205967276
+    },
+    "sample_count": 1039,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.09756097560975607,
+      "2": 0.34756097560975613,
+      "3": 0.524390243902439,
+      "4": 0.02845528455284553,
+      "5": 0.0020325203252032522
+    },
+    "sample_count": 492,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11608093716719915,
+      "2": 0.3961661341853036,
+      "3": 0.43343982960596383,
+      "4": 0.043663471778487756,
+      "5": 0.010649627263045794
+    },
+    "sample_count": 939,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.46153846153846156,
+      "2": 0.43112701252236135,
+      "3": 0.08586762075134168,
+      "4": 0.021466905187835422
+    },
+    "sample_count": 559,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.46138807429130013,
+      "2": 0.3841642228739003,
+      "3": 0.1104594330400782,
+      "4": 0.0439882697947214
+    },
+    "sample_count": 1023,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.05871559633027523,
+      "2": 0.181651376146789,
+      "3": 0.3798165137614679,
+      "4": 0.3798165137614679
+    },
+    "sample_count": 545,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.04065827686350436,
+      "2": 0.10164569215876092,
+      "3": 0.36205227492739595,
+      "4": 0.4956437560503389
+    },
+    "sample_count": 1033,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.049723756906077346,
+      "2": 0.1694290976058932,
+      "3": 0.3848987108655617,
+      "4": 0.3959484346224678
+    },
+    "sample_count": 543,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.028741328047571853,
+      "2": 0.09811694747274528,
+      "3": 0.37661050545094155,
+      "4": 0.49653121902874137
+    },
+    "sample_count": 1009,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2752613240418118,
+      "2": 0.13763066202090593,
+      "3": 0.20557491289198604,
+      "4": 0.0627177700348432,
+      "5": 0.16202090592334495,
+      "6": 0.15679442508710803
+    },
+    "sample_count": 574,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2547085201793722,
+      "2": 0.13542600896860985,
+      "3": 0.1838565022421525,
+      "4": 0.0905829596412556,
+      "5": 0.14708520179372198,
+      "6": 0.18834080717488788
+    },
+    "sample_count": 1115,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.32929292929292925,
+      "2": 0.21212121212121213,
+      "3": 0.06060606060606061,
+      "4": 0.397979797979798
+    },
+    "sample_count": 495,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2983539094650206,
+      "2": 0.19341563786008228,
+      "3": 0.07304526748971193,
+      "4": 0.43518518518518523
+    },
+    "sample_count": 972,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1477272727272727,
+      "2": 0.2481060606060606,
+      "3": 0.25,
+      "4": 0.35416666666666663
+    },
+    "sample_count": 528,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.18825910931174086,
+      "2": 0.22975708502024295,
+      "3": 0.24595141700404857,
+      "4": 0.3360323886639676
+    },
+    "sample_count": 988,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1160541586073501,
+      "2": 0.13926499032882012,
+      "3": 0.26305609284332687,
+      "4": 0.48162475822050294
+    },
+    "sample_count": 517,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.15500000000000003,
+      "2": 0.20800000000000002,
+      "3": 0.252,
+      "4": 0.385
+    },
+    "sample_count": 1000,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06525911708253358,
+      "2": 0.05758157389635317,
+      "3": 0.29558541266794625,
+      "4": 0.5815738963531669
+    },
+    "sample_count": 521,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.08924949290060852,
+      "2": 0.11054766734279918,
+      "3": 0.3113590263691684,
+      "4": 0.48884381338742394
+    },
+    "sample_count": 986,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.17105263157894735,
+      "2": 0.3026315789473685,
+      "3": 0.25375939849624063,
+      "4": 0.2725563909774436
+    },
+    "sample_count": 532,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2468415937803693,
+      "2": 0.3654033041788144,
+      "3": 0.1797862001943635,
+      "4": 0.20796890184645284
+    },
+    "sample_count": 1029,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.05394990366088632,
+      "2": 0.09826589595375723,
+      "3": 0.24470134874759153,
+      "4": 0.6030828516377649
+    },
+    "sample_count": 519,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.077079107505071,
+      "2": 0.1845841784989858,
+      "3": 0.2839756592292089,
+      "4": 0.45436105476673433
+    },
+    "sample_count": 986,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.09560229445506693,
+      "2": 0.1586998087954111,
+      "3": 0.11281070745697896,
+      "4": 0.19311663479923516,
+      "5": 0.4397705544933078
+    },
+    "sample_count": 523,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.09917355371900827,
+      "2": 0.17045454545454547,
+      "3": 0.1487603305785124,
+      "4": 0.1931818181818182,
+      "5": 0.3884297520661157
+    },
+    "sample_count": 968,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.02131438721136767,
+      "2": 0.05683836589698046,
+      "3": 0.04795737122557726,
+      "4": 0.4458259325044405,
+      "5": 0.42806394316163415
+    },
+    "sample_count": 563,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.04730368968779565,
+      "2": 0.12015137180700095,
+      "3": 0.11920529801324503,
+      "4": 0.40775780510879855,
+      "5": 0.3055818353831599
+    },
+    "sample_count": 1057,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.04735883424408015,
+      "2": 0.052823315118397086,
+      "3": 0.12568306010928962,
+      "4": 0.2185792349726776,
+      "5": 0.5555555555555556
+    },
+    "sample_count": 549,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.057059961315280475,
+      "2": 0.08413926499032882,
+      "3": 0.13636363636363638,
+      "4": 0.23210831721470015,
+      "5": 0.49032882011605416
+    },
+    "sample_count": 1034,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.016791044776119403,
+      "2": 0.055970149253731345,
+      "3": 0.12873134328358207,
+      "4": 0.33208955223880593,
+      "5": 0.46641791044776115
+    },
+    "sample_count": 536,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.01606425702811245,
+      "2": 0.05923694779116465,
+      "3": 0.143574297188755,
+      "4": 0.3323293172690763,
+      "5": 0.44879518072289154
+    },
+    "sample_count": 996,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3869801084990958,
+      "2": 0.4701627486437613,
+      "3": 0.06148282097649186,
+      "4": 0.054249547920433995,
+      "5": 0.027124773960216998
+    },
+    "sample_count": 553,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.39543726235741444,
+      "2": 0.4334600760456274,
+      "3": 0.09695817490494295,
+      "4": 0.0370722433460076,
+      "5": 0.03707224334600761
+    },
+    "sample_count": 1052,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.125703564727955,
+      "2": 0.300187617260788,
+      "3": 0.15947467166979362,
+      "4": 0.11257035647279551,
+      "5": 0.3020637898686679
+    },
+    "sample_count": 533,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.17623762376237626,
+      "2": 0.27524752475247527,
+      "3": 0.14653465346534655,
+      "4": 0.1089108910891089,
+      "5": 0.2930693069306931
+    },
+    "sample_count": 1010,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.4095940959409594,
+      "2": 0.3505535055350553,
+      "3": 0.23616236162361623,
+      "4": 0.003690036900369004
+    },
+    "sample_count": 542,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3356504468718967,
+      "2": 0.4260178748758689,
+      "3": 0.23535253227408146,
+      "4": 0.002979145978152929
+    },
+    "sample_count": 1007,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.19776119402985076,
+      "2": 0.10261194029850745,
+      "3": 0.1809701492537313,
+      "4": 0.1958955223880597,
+      "5": 0.061567164179104475,
+      "6": 0.059701492537313425,
+      "7": 0.07649253731343283,
+      "8": 0.10634328358208954,
+      "9": 0.018656716417910446
+    },
+    "sample_count": 536,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.22689938398357293,
+      "2": 0.09445585215605751,
+      "3": 0.17145790554414786,
+      "4": 0.14989733059548258,
+      "5": 0.055441478439425054,
+      "6": 0.07392197125256673,
+      "7": 0.08008213552361396,
+      "8": 0.12320328542094457,
+      "9": 0.024640657084188913
+    },
+    "sample_count": 974,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.27360308285163776,
+      "2": 0.13102119460500963,
+      "3": 0.1791907514450867,
+      "4": 0.13294797687861268,
+      "5": 0.06551059730250482,
+      "6": 0.04624277456647399,
+      "7": 0.06551059730250482,
+      "8": 0.08863198458574181,
+      "9": 0.017341040462427744
+    },
+    "sample_count": 519,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3124324324324324,
+      "2": 0.11567567567567566,
+      "3": 0.17189189189189188,
+      "4": 0.1210810810810811,
+      "5": 0.05081081081081081,
+      "6": 0.04540540540540541,
+      "7": 0.07135135135135136,
+      "8": 0.09945945945945946,
+      "9": 0.011891891891891894
+    },
+    "sample_count": 925,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.21119133574007218,
+      "2": 0.0631768953068592,
+      "3": 0.14079422382671478,
+      "4": 0.148014440433213,
+      "5": 0.09205776173285198,
+      "6": 0.08483754512635379,
+      "7": 0.11371841155234656,
+      "8": 0.11191335740072202,
+      "9": 0.03429602888086643
+    },
+    "sample_count": 554,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.22899353647276083,
+      "2": 0.059095106186518934,
+      "3": 0.10710987996306555,
+      "4": 0.12742382271468145,
+      "5": 0.07940904893813482,
+      "6": 0.09602954755309324,
+      "7": 0.11265004616805172,
+      "8": 0.16066481994459836,
+      "9": 0.02862419205909511
+    },
+    "sample_count": 1083,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.43356643356643354,
+      "2": 0.16433566433566432,
+      "3": 0.1888111888111888,
+      "4": 0.14335664335664336,
+      "5": 0.027972027972027972,
+      "6": 0.005244755244755244,
+      "7": 0.01748251748251748,
+      "8": 0.013986013986013984,
+      "9": 0.005244755244755244
+    },
+    "sample_count": 572,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5183199285075961,
+      "2": 0.1447721179624665,
+      "3": 0.14745308310991956,
+      "4": 0.1161751563896336,
+      "5": 0.025915996425379804,
+      "6": 0.016979445933869526,
+      "7": 0.012511170688114387,
+      "8": 0.013404825737265418,
+      "9": 0.004468275245755138
+    },
+    "sample_count": 1119,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3245614035087719,
+      "2": 0.6754385964912281
+    },
+    "sample_count": 570,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2721575649059982,
+      "2": 0.7278424350940018
+    },
+    "sample_count": 1117,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.19190140845070425,
+      "2": 0.8080985915492956
+    },
+    "sample_count": 568,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.226988382484361,
+      "2": 0.773011617515639
+    },
+    "sample_count": 1119,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.8080279232111693,
+      "2": 0.11518324607329843,
+      "3": 0.04886561954624782,
+      "4": 0.020942408376963356,
+      "5": 0.006980802792321116
+    },
+    "sample_count": 573,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.8202146690518783,
+      "2": 0.10017889087656531,
+      "3": 0.052772808586762074,
+      "4": 0.024150268336314847,
+      "5": 0.0026833631484794273
+    },
+    "sample_count": 1118,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.0070921985815602835,
+      "2": 0.044326241134751775,
+      "3": 0.2677304964539007,
+      "4": 0.10992907801418438,
+      "5": 0.11347517730496454,
+      "6": 0.15070921985815602,
+      "7": 0.30673758865248224
+    },
+    "sample_count": 564,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.010027347310847768,
+      "2": 0.08842297174111212,
+      "3": 0.2388331814038286,
+      "4": 0.13035551504102097,
+      "5": 0.11485870556061986,
+      "6": 0.12488605287146765,
+      "7": 0.292616226071103
+    },
+    "sample_count": 1097,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11937377690802348,
+      "2": 0.21135029354207435,
+      "3": 0.14677103718199608,
+      "4": 0.522504892367906
+    },
+    "sample_count": 511,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.13255567338282076,
+      "2": 0.23329798515376457,
+      "3": 0.16755037115588545,
+      "4": 0.4665959703075292
+    },
+    "sample_count": 943,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10557768924302788,
+      "2": 0.45418326693227085,
+      "3": 0.2729083665338645,
+      "4": 0.099601593625498,
+      "5": 0.06772908366533864
+    },
+    "sample_count": 502,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10427528675703858,
+      "2": 0.3868613138686131,
+      "3": 0.2711157455683003,
+      "4": 0.11991657977059436,
+      "5": 0.1178310740354536
+    },
+    "sample_count": 959,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3308550185873606,
+      "2": 0.5650557620817844,
+      "3": 0.057620817843866176,
+      "4": 0.01486988847583643,
+      "5": 0.031598513011152414
+    },
+    "sample_count": 538,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.33333333333333337,
+      "2": 0.48607108549471667,
+      "3": 0.08165225744476466,
+      "4": 0.03650336215177714,
+      "5": 0.06243996157540827
+    },
+    "sample_count": 1041,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1685823754789272,
+      "2": 0.41762452107279696,
+      "3": 0.24521072796934865,
+      "4": 0.10727969348659003,
+      "5": 0.06130268199233716
+    },
+    "sample_count": 522,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.18390804597701146,
+      "2": 0.3625914315569488,
+      "3": 0.2121212121212121,
+      "4": 0.14838035527690702,
+      "5": 0.09299895506792058
+    },
+    "sample_count": 957,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1651031894934334,
+      "2": 0.39962476547842396,
+      "3": 0.26266416510318946,
+      "4": 0.11819887429643526,
+      "5": 0.054409005628517824
+    },
+    "sample_count": 533,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.15415415415415415,
+      "2": 0.36836836836836834,
+      "3": 0.27727727727727725,
+      "4": 0.14514514514514515,
+      "5": 0.05505505505505505
+    },
+    "sample_count": 999,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.014760147601476013,
+      "2": 0.08118081180811809,
+      "3": 0.16051660516605168,
+      "4": 0.42804428044280446,
+      "5": 0.3154981549815498
+    },
+    "sample_count": 542,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.02421796165489405,
+      "2": 0.10292633703329969,
+      "3": 0.2250252270433905,
+      "4": 0.3834510595358224,
+      "5": 0.26437941473259335
+    },
+    "sample_count": 991,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07782101167315175,
+      "2": 0.2645914396887159,
+      "3": 0.3385214007782101,
+      "4": 0.23929961089494162,
+      "5": 0.07976653696498054
+    },
+    "sample_count": 514,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06768558951965065,
+      "2": 0.2783842794759825,
+      "3": 0.32423580786026207,
+      "4": 0.24454148471615725,
+      "5": 0.0851528384279476
+    },
+    "sample_count": 916,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.015209125475285171,
+      "2": 0.058935361216730035,
+      "3": 0.11787072243346007,
+      "4": 0.5893536121673003,
+      "5": 0.21863117870722434
+    },
+    "sample_count": 526,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.03630705394190871,
+      "2": 0.13278008298755187,
+      "3": 0.15352697095435686,
+      "4": 0.5020746887966805,
+      "5": 0.17531120331950206
+    },
+    "sample_count": 964,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.16605839416058396,
+      "2": 0.47810218978102187,
+      "3": 0.3467153284671533,
+      "4": 0.0072992700729927005,
+      "5": 0.0018248175182481751
+    },
+    "sample_count": 548,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.25367286973555336,
+      "2": 0.40058765915768857,
+      "3": 0.33398628795298724,
+      "4": 0.011753183153770812,
+      "5": 0.0
+    },
+    "sample_count": 1021,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.0503731343283582,
+      "2": 0.20149253731343283,
+      "3": 0.4906716417910448,
+      "4": 0.21268656716417908,
+      "5": 0.04477611940298507
+    },
+    "sample_count": 536,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06444906444906445,
+      "2": 0.14241164241164242,
+      "3": 0.4698544698544699,
+      "4": 0.22765072765072766,
+      "5": 0.09563409563409564
+    },
+    "sample_count": 962,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07246376811594203,
+      "2": 0.2774327122153209,
+      "3": 0.6045548654244306,
+      "4": 0.041407867494824016,
+      "5": 0.004140786749482402
+    },
+    "sample_count": 483,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07151370679380215,
+      "2": 0.19904648390941598,
+      "3": 0.6114421930870083,
+      "4": 0.06912991656734208,
+      "5": 0.04886769964243146
+    },
+    "sample_count": 839,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11359026369168358,
+      "2": 0.35091277890466527,
+      "3": 0.513184584178499,
+      "4": 0.02028397565922921,
+      "5": 0.002028397565922921
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10151691948658109,
+      "2": 0.25787631271878647,
+      "3": 0.5402567094515752,
+      "4": 0.058343057176196034,
+      "5": 0.042007001166861145
+    },
+    "sample_count": 857,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07293666026871401,
+      "2": 0.3128598848368522,
+      "3": 0.5623800383877159,
+      "4": 0.04990403071017274,
+      "5": 0.0019193857965451055
+    },
+    "sample_count": 521,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06966292134831462,
+      "2": 0.2247191011235955,
+      "3": 0.6146067415730337,
+      "4": 0.0595505617977528,
+      "5": 0.031460674157303366
+    },
+    "sample_count": 890,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.12825278810408922,
+      "2": 0.3382899628252788,
+      "3": 0.48884758364312264,
+      "4": 0.03531598513011152,
+      "5": 0.009293680297397768
+    },
+    "sample_count": 538,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11122994652406415,
+      "2": 0.2566844919786096,
+      "3": 0.560427807486631,
+      "4": 0.04278074866310161,
+      "5": 0.028877005347593583
+    },
+    "sample_count": 935,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "In general, would you say your health is…",
+    "category": "religion",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11908931698774079,
+      "2": 0.29422066549912435,
+      "3": 0.38528896672504376,
+      "4": 0.16637478108581435,
+      "5": 0.03502626970227671
+    },
+    "sample_count": 571,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "In general, would you say your health is…",
+    "category": "religion",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.08146821844225603,
+      "2": 0.21575649059982097,
+      "3": 0.4180841539838854,
+      "4": 0.22202327663384064,
+      "5": 0.06266786034019695
+    },
+    "sample_count": 1117,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  }
+]

@@ -1,0 +1,3438 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.09217391304347824,
+      "2": 0.30434782608695654,
+      "3": 0.40695652173913044,
+      "4": 0.09913043478260872,
+      "5": 0.06260869565217392,
+      "6": 0.026086956521739126,
+      "7": 0.008695652173913044
+    },
+    "sample_count": 575,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0530451866404715,
+      "2": 0.3339882121807465,
+      "3": 0.418467583497053,
+      "4": 0.10805500982318271,
+      "5": 0.06483300589390963,
+      "6": 0.015717092337917484,
+      "7": 0.005893909626719056
+    },
+    "sample_count": 509,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.07216494845360824,
+      "2": 0.3591065292096219,
+      "3": 0.41752577319587625,
+      "4": 0.11168384879725085,
+      "5": 0.03951890034364261
+    },
+    "sample_count": 582,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.029585798816568046,
+      "2": 0.3471400394477318,
+      "3": 0.4674556213017752,
+      "4": 0.13214990138067062,
+      "5": 0.023668639053254434
+    },
+    "sample_count": 507,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.09913043478260869,
+      "2": 0.15826086956521737,
+      "3": 0.23130434782608697,
+      "4": 0.2765217391304348,
+      "5": 0.23478260869565218
+    },
+    "sample_count": 575,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08151093439363817,
+      "2": 0.15904572564612326,
+      "3": 0.2147117296222664,
+      "4": 0.24652087475149104,
+      "5": 0.29821073558648115
+    },
+    "sample_count": 503,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.059033989266547404,
+      "2": 0.34883720930232553,
+      "3": 0.30590339892665463,
+      "4": 0.24865831842576028,
+      "5": 0.037567084078711996
+    },
+    "sample_count": 559,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04703476482617587,
+      "2": 0.21881390593047034,
+      "3": 0.34969325153374237,
+      "4": 0.31083844580777104,
+      "5": 0.0736196319018405
+    },
+    "sample_count": 489,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03197158081705151,
+      "2": 0.10834813499111902,
+      "3": 0.09413854351687388,
+      "4": 0.4849023090586146,
+      "5": 0.2806394316163411
+    },
+    "sample_count": 563,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0280561122244489,
+      "2": 0.08216432865731463,
+      "3": 0.07615230460921843,
+      "4": 0.48897795591182364,
+      "5": 0.32464929859719444
+    },
+    "sample_count": 499,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08626760563380281,
+      "2": 0.34330985915492956,
+      "3": 0.22887323943661975,
+      "4": 0.2957746478873239,
+      "5": 0.04577464788732393
+    },
+    "sample_count": 568,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.10997963340122198,
+      "2": 0.30753564154786156,
+      "3": 0.23828920570264764,
+      "4": 0.2932790224032586,
+      "5": 0.05091649694501018
+    },
+    "sample_count": 491,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0584070796460177,
+      "2": 0.3008849557522124,
+      "3": 0.21946902654867256,
+      "4": 0.231858407079646,
+      "5": 0.1893805309734513
+    },
+    "sample_count": 565,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.132,
+      "2": 0.336,
+      "3": 0.19,
+      "4": 0.194,
+      "5": 0.14800000000000002
+    },
+    "sample_count": 500,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0456140350877193,
+      "2": 0.24736842105263157,
+      "3": 0.14385964912280702,
+      "4": 0.3754385964912281,
+      "5": 0.187719298245614
+    },
+    "sample_count": 570,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08870967741935484,
+      "2": 0.2923387096774193,
+      "3": 0.13709677419354838,
+      "4": 0.32661290322580644,
+      "5": 0.15524193548387097
+    },
+    "sample_count": 496,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.05924596050269299,
+      "2": 0.30879712746858173,
+      "3": 0.2585278276481149,
+      "4": 0.2836624775583482,
+      "5": 0.0897666068222621
+    },
+    "sample_count": 557,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.07272727272727274,
+      "2": 0.35757575757575755,
+      "3": 0.22424242424242427,
+      "4": 0.24646464646464644,
+      "5": 0.09898989898989898
+    },
+    "sample_count": 495,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.46247818499127397,
+      "2": 0.2722513089005235,
+      "3": 0.23211169284467714,
+      "4": 0.029668411867364748,
+      "5": 0.0034904013961605585
+    },
+    "sample_count": 573,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5039525691699605,
+      "2": 0.308300395256917,
+      "3": 0.1758893280632411,
+      "4": 0.007905138339920948,
+      "5": 0.003952569169960474
+    },
+    "sample_count": 506,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.055944055944055944,
+      "2": 0.18706293706293708,
+      "3": 0.5611888111888111,
+      "4": 0.14860139860139862,
+      "5": 0.0472027972027972
+    },
+    "sample_count": 572,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03665987780040733,
+      "2": 0.23014256619144605,
+      "3": 0.5295315682281059,
+      "4": 0.17718940936863545,
+      "5": 0.026476578411405296
+    },
+    "sample_count": 491,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.018018018018018014,
+      "2": 0.10090090090090091,
+      "3": 0.8054054054054054,
+      "4": 0.06486486486486487,
+      "5": 0.010810810810810811
+    },
+    "sample_count": 555,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.012422360248447204,
+      "2": 0.07246376811594203,
+      "3": 0.8012422360248448,
+      "4": 0.09730848861283643,
+      "5": 0.016563146997929608
+    },
+    "sample_count": 483,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.13733075435203093,
+      "2": 0.26885880077369445,
+      "3": 0.39071566731141194,
+      "4": 0.15473887814313345,
+      "5": 0.04835589941972921
+    },
+    "sample_count": 517,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1655328798185941,
+      "2": 0.3219954648526077,
+      "3": 0.3764172335600907,
+      "4": 0.10430839002267574,
+      "5": 0.031746031746031744
+    },
+    "sample_count": 441,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.10896309314586995,
+      "2": 0.4586994727592267,
+      "3": 0.22671353251318102,
+      "4": 0.15289982425307558,
+      "5": 0.05272407732864675
+    },
+    "sample_count": 569,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08982035928143713,
+      "2": 0.43313373253493015,
+      "3": 0.27944111776447106,
+      "4": 0.16766467065868262,
+      "5": 0.029940119760479045
+    },
+    "sample_count": 501,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.10720562390158174,
+      "2": 0.5588752196836555,
+      "3": 0.24077328646748683,
+      "4": 0.08260105448154659,
+      "5": 0.01054481546572935
+    },
+    "sample_count": 569,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.06813627254509018,
+      "2": 0.6112224448897796,
+      "3": 0.22645290581162325,
+      "4": 0.0841683366733467,
+      "5": 0.01002004008016032
+    },
+    "sample_count": 499,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08007117437722418,
+      "2": 0.5355871886120996,
+      "3": 0.28113879003558717,
+      "4": 0.07829181494661921,
+      "5": 0.02491103202846975
+    },
+    "sample_count": 562,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.10365853658536585,
+      "2": 0.5508130081300814,
+      "3": 0.23983739837398377,
+      "4": 0.0894308943089431,
+      "5": 0.016260162601626015
+    },
+    "sample_count": 492,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.11209964412811389,
+      "2": 0.3879003558718861,
+      "3": 0.28825622775800713,
+      "4": 0.16548042704626337,
+      "5": 0.046263345195729534
+    },
+    "sample_count": 562,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.10843373493975905,
+      "2": 0.45582329317269077,
+      "3": 0.19879518072289154,
+      "4": 0.1927710843373494,
+      "5": 0.04417670682730924
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04270462633451958,
+      "2": 0.12277580071174378,
+      "3": 0.37010676156583633,
+      "4": 0.35409252669039143,
+      "5": 0.1103202846975089
+    },
+    "sample_count": 562,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04056795131845842,
+      "2": 0.06490872210953347,
+      "3": 0.37931034482758624,
+      "4": 0.32860040567951326,
+      "5": 0.18661257606490872
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.16117850953206242,
+      "2": 0.6187175043327556,
+      "3": 0.14904679376083188,
+      "4": 0.06239168110918544,
+      "5": 0.008665511265164644
+    },
+    "sample_count": 577,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1669941060903733,
+      "2": 0.6483300589390962,
+      "3": 0.13163064833005894,
+      "4": 0.04715127701375245,
+      "5": 0.005893909626719058
+    },
+    "sample_count": 509,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04642857142857143,
+      "2": 0.2,
+      "3": 0.3160714285714286,
+      "4": 0.38392857142857134,
+      "5": 0.053571428571428575
+    },
+    "sample_count": 560,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.02424242424242424,
+      "2": 0.21414141414141416,
+      "3": 0.2585858585858586,
+      "4": 0.43030303030303035,
+      "5": 0.07272727272727272
+    },
+    "sample_count": 495,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.029982363315696647,
+      "2": 0.11992945326278659,
+      "3": 0.2998236331569665,
+      "4": 0.41798941798941797,
+      "5": 0.13227513227513227
+    },
+    "sample_count": 567,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.018292682926829267,
+      "2": 0.11178861788617886,
+      "3": 0.25,
+      "4": 0.4532520325203252,
+      "5": 0.16666666666666669
+    },
+    "sample_count": 492,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.028462998102466792,
+      "2": 0.022770398481973434,
+      "3": 0.060721062618595834,
+      "4": 0.17647058823529416,
+      "5": 0.3472485768500949,
+      "6": 0.364326375711575
+    },
+    "sample_count": 527,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.033730158730158735,
+      "2": 0.011904761904761904,
+      "3": 0.0873015873015873,
+      "4": 0.2658730158730158,
+      "5": 0.4365079365079365,
+      "6": 0.16468253968253968
+    },
+    "sample_count": 504,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.32437619961612285,
+      "2": 0.22648752399232244,
+      "3": 0.2687140115163148,
+      "4": 0.13243761996161227,
+      "5": 0.04798464491362763
+    },
+    "sample_count": 521,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15643564356435646,
+      "2": 0.20990099009900992,
+      "3": 0.38811881188118813,
+      "4": 0.16633663366336635,
+      "5": 0.07920792079207921
+    },
+    "sample_count": 505,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4412331406551059,
+      "2": 0.21965317919075145,
+      "3": 0.22736030828516374,
+      "4": 0.07514450867052024,
+      "5": 0.03660886319845857
+    },
+    "sample_count": 519,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.30815109343936387,
+      "2": 0.2703777335984095,
+      "3": 0.2664015904572565,
+      "4": 0.1073558648111332,
+      "5": 0.04771371769383698
+    },
+    "sample_count": 503,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3186180422264875,
+      "2": 0.2226487523992322,
+      "3": 0.2783109404990403,
+      "4": 0.12476007677543184,
+      "5": 0.05566218809980806
+    },
+    "sample_count": 521,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.12698412698412698,
+      "2": 0.26388888888888884,
+      "3": 0.369047619047619,
+      "4": 0.1626984126984127,
+      "5": 0.07738095238095238
+    },
+    "sample_count": 504,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.008113590263691683,
+      "2": 0.23529411764705882,
+      "3": 0.4726166328600405,
+      "4": 0.21703853955375252,
+      "5": 0.06693711967545639
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.032454361054766734,
+      "2": 0.3752535496957404,
+      "3": 0.4239350912778905,
+      "4": 0.1257606490872211,
+      "5": 0.04259634888438134
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03877551020408163,
+      "2": 0.4183673469387755,
+      "3": 0.33469387755102037,
+      "4": 0.15918367346938775,
+      "5": 0.048979591836734684
+    },
+    "sample_count": 490,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04158004158004158,
+      "2": 0.44490644490644493,
+      "3": 0.33471933471933474,
+      "4": 0.1288981288981289,
+      "5": 0.0498960498960499
+    },
+    "sample_count": 481,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.024074074074074074,
+      "2": 0.4148148148148148,
+      "3": 0.26851851851851855,
+      "4": 0.24999999999999997,
+      "5": 0.0425925925925926
+    },
+    "sample_count": 540,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.02994011976047904,
+      "2": 0.47704590818363274,
+      "3": 0.26347305389221554,
+      "4": 0.18163672654690616,
+      "5": 0.04790419161676646
+    },
+    "sample_count": 501,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.020408163265306124,
+      "2": 0.3228200371057513,
+      "3": 0.3024118738404452,
+      "4": 0.2949907235621521,
+      "5": 0.059369202226345084
+    },
+    "sample_count": 539,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.02208835341365462,
+      "2": 0.30120481927710846,
+      "3": 0.321285140562249,
+      "4": 0.285140562248996,
+      "5": 0.07028112449799197
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.19999999999999998,
+      "2": 0.4878504672897196,
+      "3": 0.22616822429906547,
+      "4": 0.0691588785046729,
+      "5": 0.016822429906542057
+    },
+    "sample_count": 535,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.20606060606060606,
+      "2": 0.43838383838383843,
+      "3": 0.16969696969696968,
+      "4": 0.1777777777777778,
+      "5": 0.00808080808080808
+    },
+    "sample_count": 495,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.024475524475524476,
+      "2": 0.040209790209790215,
+      "3": 0.11363636363636365,
+      "4": 0.3566433566433567,
+      "5": 0.46503496503496505
+    },
+    "sample_count": 572,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0594059405940594,
+      "2": 0.04554455445544555,
+      "3": 0.06930693069306931,
+      "4": 0.24950495049504948,
+      "5": 0.5762376237623763
+    },
+    "sample_count": 505,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.026455026455026454,
+      "2": 0.06349206349206349,
+      "3": 0.14991181657848324,
+      "4": 0.3492063492063492,
+      "5": 0.4109347442680776
+    },
+    "sample_count": 567,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.019880715705765408,
+      "2": 0.04970178926441352,
+      "3": 0.12127236580516898,
+      "4": 0.3101391650099404,
+      "5": 0.49900596421471166
+    },
+    "sample_count": 503,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3749999999999999,
+      "2": 0.21875,
+      "3": 0.2326388888888889,
+      "4": 0.09374999999999999,
+      "5": 0.07986111111111109
+    },
+    "sample_count": 576,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4538310412573674,
+      "2": 0.25736738703339884,
+      "3": 0.19646365422396858,
+      "4": 0.060903732809430254,
+      "5": 0.03143418467583497
+    },
+    "sample_count": 509,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.11418685121107265,
+      "2": 0.16435986159169547,
+      "3": 0.38408304498269896,
+      "4": 0.21453287197231832,
+      "5": 0.12283737024221451
+    },
+    "sample_count": 578,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.16046966731898238,
+      "2": 0.29549902152641877,
+      "3": 0.30919765166340507,
+      "4": 0.14481409001956946,
+      "5": 0.09001956947162426
+    },
+    "sample_count": 511,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3125,
+      "2": 0.2743055555555555,
+      "3": 0.29340277777777773,
+      "4": 0.07118055555555555,
+      "5": 0.04861111111111112
+    },
+    "sample_count": 576,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.27218934911242604,
+      "2": 0.3530571992110454,
+      "3": 0.27613412228796846,
+      "4": 0.0650887573964497,
+      "5": 0.03353057199211046
+    },
+    "sample_count": 507,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4191304347826087,
+      "2": 0.22086956521739132,
+      "3": 0.2278260869565217,
+      "4": 0.0765217391304348,
+      "5": 0.05565217391304349
+    },
+    "sample_count": 575,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3359840954274353,
+      "2": 0.30616302186878724,
+      "3": 0.2524850894632207,
+      "4": 0.07753479125248508,
+      "5": 0.027833001988071565
+    },
+    "sample_count": 503,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5087719298245614,
+      "2": 0.231578947368421,
+      "3": 0.16315789473684209,
+      "4": 0.056140350877192984,
+      "5": 0.04035087719298246
+    },
+    "sample_count": 570,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4851485148514852,
+      "2": 0.29900990099009905,
+      "3": 0.15247524752475247,
+      "4": 0.03762376237623763,
+      "5": 0.025742574257425745
+    },
+    "sample_count": 505,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.12920353982300883,
+      "2": 0.28672566371681424,
+      "3": 0.4247787610619469,
+      "4": 0.12566371681415928,
+      "5": 0.033628318584070796
+    },
+    "sample_count": 565,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.13745019920318724,
+      "2": 0.3784860557768924,
+      "3": 0.3605577689243028,
+      "4": 0.10159362549800796,
+      "5": 0.021912350597609563
+    },
+    "sample_count": 502,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.7122807017543861,
+      "2": 0.12105263157894736,
+      "3": 0.11403508771929824,
+      "4": 0.03859649122807017,
+      "5": 0.014035087719298244
+    },
+    "sample_count": 570,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.7168316831683169,
+      "2": 0.13267326732673268,
+      "3": 0.10891089108910892,
+      "4": 0.027722772277227723,
+      "5": 0.013861386138613862
+    },
+    "sample_count": 505,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.11991434689507496,
+      "2": 0.880085653104925
+    },
+    "sample_count": 467,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.11166253101736973,
+      "2": 0.8883374689826302
+    },
+    "sample_count": 403,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08733624454148471,
+      "2": 0.9126637554585153
+    },
+    "sample_count": 458,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.13715710723192023,
+      "2": 0.8628428927680797
+    },
+    "sample_count": 401,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.24137931034482757,
+      "2": 0.7586206896551725
+    },
+    "sample_count": 464,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.22139303482587067,
+      "2": 0.7786069651741295
+    },
+    "sample_count": 402,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2770870337477797,
+      "2": 0.38365896980461817,
+      "3": 0.2557726465364121,
+      "4": 0.0728241563055062,
+      "5": 0.010657193605683835
+    },
+    "sample_count": 563,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1956087824351297,
+      "2": 0.49700598802395207,
+      "3": 0.23153692614770455,
+      "4": 0.06786427145708582,
+      "5": 0.007984031936127744
+    },
+    "sample_count": 501,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.06956521739130436,
+      "2": 0.21913043478260869,
+      "3": 0.44000000000000006,
+      "4": 0.12173913043478261,
+      "5": 0.09739130434782611,
+      "6": 0.034782608695652174,
+      "7": 0.017391304347826087
+    },
+    "sample_count": 575,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.019762845849802372,
+      "2": 0.233201581027668,
+      "3": 0.44861660079051385,
+      "4": 0.09486166007905138,
+      "5": 0.1482213438735178,
+      "6": 0.04940711462450593,
+      "7": 0.005928853754940711
+    },
+    "sample_count": 506,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.25309734513274335,
+      "2": 0.3628318584070797,
+      "3": 0.25486725663716814,
+      "4": 0.0584070796460177,
+      "5": 0.049557522123893805,
+      "6": 0.01415929203539823,
+      "7": 0.007079646017699115
+    },
+    "sample_count": 565,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15492957746478875,
+      "2": 0.40643863179074446,
+      "3": 0.33199195171026163,
+      "4": 0.04024144869215292,
+      "5": 0.03621730382293762,
+      "6": 0.018108651911468814,
+      "7": 0.012072434607645875
+    },
+    "sample_count": 497,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.16326530612244902,
+      "2": 0.2806122448979592,
+      "3": 0.3214285714285714,
+      "4": 0.18367346938775508,
+      "5": 0.04081632653061225,
+      "6": 0.0,
+      "7": 0.01020408163265306
+    },
+    "sample_count": 196,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15131578947368418,
+      "2": 0.3355263157894737,
+      "3": 0.3421052631578948,
+      "4": 0.11842105263157893,
+      "5": 0.02631578947368421,
+      "6": 0.0,
+      "7": 0.02631578947368421
+    },
+    "sample_count": 152,
+    "aggregated_from": 7,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5138888888888888,
+      "2": 0.41666666666666663,
+      "3": 0.024305555555555556,
+      "4": 0.017361111111111112,
+      "5": 0.022569444444444448,
+      "6": 0.005208333333333333,
+      "7": 0.0
+    },
+    "sample_count": 576,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.7278106508875739,
+      "2": 0.23865877712031558,
+      "3": 0.021696252465483238,
+      "4": 0.00591715976331361,
+      "5": 0.00591715976331361,
+      "6": 0.0,
+      "7": 0.0
+    },
+    "sample_count": 507,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5408695652173913,
+      "2": 0.26260869565217393,
+      "3": 0.10434782608695652,
+      "4": 0.06956521739130436,
+      "5": 0.022608695652173917
+    },
+    "sample_count": 575,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5559921414538309,
+      "2": 0.2829076620825147,
+      "3": 0.12180746561886051,
+      "4": 0.03339882121807465,
+      "5": 0.005893909626719057
+    },
+    "sample_count": 509,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.09876543209876543,
+      "2": 0.13227513227513227,
+      "3": 0.2222222222222222,
+      "4": 0.3386243386243386,
+      "5": 0.20811287477954143
+    },
+    "sample_count": 567,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.05776892430278885,
+      "2": 0.1294820717131474,
+      "3": 0.21912350597609556,
+      "4": 0.42031872509960155,
+      "5": 0.17330677290836655
+    },
+    "sample_count": 502,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0017605633802816902,
+      "2": 0.017605633802816902,
+      "3": 0.06866197183098591,
+      "4": 0.25880281690140844,
+      "5": 0.653169014084507
+    },
+    "sample_count": 568,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.001976284584980237,
+      "2": 0.007905138339920948,
+      "3": 0.037549407114624504,
+      "4": 0.22727272727272727,
+      "5": 0.725296442687747
+    },
+    "sample_count": 506,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.05729166666666668,
+      "2": 0.30729166666666674,
+      "3": 0.4045138888888888,
+      "4": 0.17013888888888887,
+      "5": 0.060763888888888895
+    },
+    "sample_count": 576,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.09411764705882353,
+      "2": 0.31176470588235294,
+      "3": 0.4098039215686274,
+      "4": 0.1372549019607843,
+      "5": 0.047058823529411764
+    },
+    "sample_count": 510,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4195804195804196,
+      "2": 0.5804195804195804
+    },
+    "sample_count": 572,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.36706349206349204,
+      "2": 0.6329365079365079
+    },
+    "sample_count": 504,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3607142857142857,
+      "2": 0.3660714285714286,
+      "3": 0.15892857142857142,
+      "4": 0.11428571428571428
+    },
+    "sample_count": 560,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.44624746450304265,
+      "2": 0.334685598377282,
+      "3": 0.12373225152129817,
+      "4": 0.09533468559837728
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.42706502636203864,
+      "2": 0.39191564147627417,
+      "3": 0.10193321616871706,
+      "4": 0.07908611599297012
+    },
+    "sample_count": 569,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5261044176706828,
+      "2": 0.2991967871485944,
+      "3": 0.10441767068273095,
+      "4": 0.07028112449799197
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.36155202821869487,
+      "2": 0.37742504409171074,
+      "3": 0.13932980599647266,
+      "4": 0.12169312169312169
+    },
+    "sample_count": 567,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.40963855421686746,
+      "2": 0.3534136546184739,
+      "3": 0.1184738955823293,
+      "4": 0.11847389558232932
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5305410122164048,
+      "2": 0.3315881326352531,
+      "3": 0.07329842931937172,
+      "4": 0.06457242582897033
+    },
+    "sample_count": 573,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5964214711729623,
+      "2": 0.29224652087475145,
+      "3": 0.0536779324055666,
+      "4": 0.05765407554671968
+    },
+    "sample_count": 503,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.48154657293497366,
+      "2": 0.3567662565905097,
+      "3": 0.08611599297012304,
+      "4": 0.07557117750439368
+    },
+    "sample_count": 569,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5680000000000001,
+      "2": 0.298,
+      "3": 0.060000000000000005,
+      "4": 0.07400000000000001
+    },
+    "sample_count": 500,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.6287215411558668,
+      "2": 0.3134851138353765,
+      "3": 0.028021015761821366,
+      "4": 0.0297723292469352
+    },
+    "sample_count": 571,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.65,
+      "2": 0.266,
+      "3": 0.054,
+      "4": 0.03
+    },
+    "sample_count": 500,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4833625218914185,
+      "2": 0.38879159369527144,
+      "3": 0.07705779334500876,
+      "4": 0.050788091068301226
+    },
+    "sample_count": 571,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5262096774193549,
+      "2": 0.34072580645161293,
+      "3": 0.07661290322580645,
+      "4": 0.05645161290322581
+    },
+    "sample_count": 496,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.6951219512195121,
+      "2": 0.23519163763066203,
+      "3": 0.041811846689895474,
+      "4": 0.027874564459930314
+    },
+    "sample_count": 574,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.6452905811623247,
+      "2": 0.2344689378757515,
+      "3": 0.08016032064128256,
+      "4": 0.04008016032064128
+    },
+    "sample_count": 499,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2705061082024433,
+      "2": 0.21291448516579406,
+      "3": 0.3298429319371728,
+      "4": 0.11692844677137872,
+      "5": 0.06980802792321117
+    },
+    "sample_count": 573,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.20000000000000004,
+      "2": 0.238,
+      "3": 0.312,
+      "4": 0.14200000000000002,
+      "5": 0.10800000000000001
+    },
+    "sample_count": 500,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.28646748681898065,
+      "2": 0.20562390158172228,
+      "3": 0.19332161687170474,
+      "4": 0.13181019332161686,
+      "5": 0.18277680140597538
+    },
+    "sample_count": 569,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.30200000000000005,
+      "2": 0.20600000000000002,
+      "3": 0.17200000000000001,
+      "4": 0.11,
+      "5": 0.21000000000000002
+    },
+    "sample_count": 500,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  }
+]

@@ -1,0 +1,3438 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1893617021276596,
+      "2": 0.34255319148936164,
+      "3": 0.3436170212765957,
+      "4": 0.0723404255319149,
+      "5": 0.040425531914893606,
+      "6": 0.010638297872340425,
+      "7": 0.0010638297872340426
+    },
+    "sample_count": 940,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.16969696969696968,
+      "2": 0.3248484848484848,
+      "3": 0.3975757575757576,
+      "4": 0.0606060606060606,
+      "5": 0.035151515151515156,
+      "6": 0.009696969696969697,
+      "7": 0.0024242424242424242
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.15021459227467812,
+      "2": 0.2349785407725322,
+      "3": 0.47854077253218885,
+      "4": 0.11266094420600857,
+      "5": 0.023605150214592276
+    },
+    "sample_count": 932,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.142156862745098,
+      "2": 0.24387254901960786,
+      "3": 0.48529411764705876,
+      "4": 0.12009803921568629,
+      "5": 0.00857843137254902
+    },
+    "sample_count": 816,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.18756698821007503,
+      "2": 0.2679528403001072,
+      "3": 0.16077170418006428,
+      "4": 0.17041800643086819,
+      "5": 0.2132904608788853
+    },
+    "sample_count": 933,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.14459295261239372,
+      "2": 0.2575941676792224,
+      "3": 0.16524908869987848,
+      "4": 0.18712029161603888,
+      "5": 0.2454434993924666
+    },
+    "sample_count": 823,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.10352187833511205,
+      "2": 0.4012806830309498,
+      "3": 0.2518676627534685,
+      "4": 0.20064034151547488,
+      "5": 0.04268943436499466
+    },
+    "sample_count": 937,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.10583941605839414,
+      "2": 0.45742092457420924,
+      "3": 0.20924574209245742,
+      "4": 0.18856447688564476,
+      "5": 0.0389294403892944
+    },
+    "sample_count": 822,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1925531914893617,
+      "2": 0.45106382978723397,
+      "3": 0.14574468085106385,
+      "4": 0.14680851063829786,
+      "5": 0.06382978723404255
+    },
+    "sample_count": 940,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.15048543689320387,
+      "2": 0.48058252427184456,
+      "3": 0.1565533980582524,
+      "4": 0.17718446601941745,
+      "5": 0.03519417475728155
+    },
+    "sample_count": 824,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06766917293233084,
+      "2": 0.3104189044038668,
+      "3": 0.3200859291084855,
+      "4": 0.24274973147153597,
+      "5": 0.05907626208378088
+    },
+    "sample_count": 931,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06829268292682926,
+      "2": 0.33048780487804885,
+      "3": 0.2853658536585366,
+      "4": 0.26707317073170733,
+      "5": 0.04878048780487805
+    },
+    "sample_count": 820,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.07922912205567452,
+      "2": 0.22483940042826553,
+      "3": 0.15845824411134904,
+      "4": 0.1777301927194861,
+      "5": 0.35974304068522484
+    },
+    "sample_count": 934,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06837606837606838,
+      "2": 0.2271062271062271,
+      "3": 0.15140415140415137,
+      "4": 0.19658119658119658,
+      "5": 0.3565323565323565
+    },
+    "sample_count": 819,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.12247071352502663,
+      "2": 0.37167199148029817,
+      "3": 0.17252396166134185,
+      "4": 0.23322683706070285,
+      "5": 0.10010649627263045
+    },
+    "sample_count": 939,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11057108140947751,
+      "2": 0.4034021871202917,
+      "3": 0.16646415552855406,
+      "4": 0.23450789793438637,
+      "5": 0.08505467800729039
+    },
+    "sample_count": 823,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.0873269435569755,
+      "2": 0.2971246006389776,
+      "3": 0.21299254526091588,
+      "4": 0.308839190628328,
+      "5": 0.09371671991480297
+    },
+    "sample_count": 939,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.07926829268292683,
+      "2": 0.3195121951219512,
+      "3": 0.19024390243902442,
+      "4": 0.3146341463414634,
+      "5": 0.09634146341463415
+    },
+    "sample_count": 820,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.42872340425531924,
+      "2": 0.3595744680851064,
+      "3": 0.13085106382978726,
+      "4": 0.056382978723404246,
+      "5": 0.024468085106382983
+    },
+    "sample_count": 940,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.3909866017052375,
+      "2": 0.3349573690621193,
+      "3": 0.15834348355663824,
+      "4": 0.09135200974421438,
+      "5": 0.024360535931790495
+    },
+    "sample_count": 821,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.220682302771855,
+      "2": 0.3017057569296375,
+      "3": 0.3443496801705757,
+      "4": 0.09381663113006397,
+      "5": 0.039445628997867806
+    },
+    "sample_count": 938,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.19343065693430656,
+      "2": 0.3260340632603407,
+      "3": 0.3467153284671533,
+      "4": 0.10948905109489052,
+      "5": 0.024330900243309
+    },
+    "sample_count": 822,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.0685224839400428,
+      "2": 0.19271948608137046,
+      "3": 0.6852248394004282,
+      "4": 0.042826552462526764,
+      "5": 0.010706638115631693
+    },
+    "sample_count": 934,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06699147381242387,
+      "2": 0.19732034104750307,
+      "3": 0.6760048721071863,
+      "4": 0.04872107186358099,
+      "5": 0.010962241169305725
+    },
+    "sample_count": 821,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11840688912809473,
+      "2": 0.25834230355220666,
+      "3": 0.44348762109795475,
+      "4": 0.14316469321851452,
+      "5": 0.036598493003229274
+    },
+    "sample_count": 929,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.13161131611316113,
+      "2": 0.27306273062730624,
+      "3": 0.40221402214022145,
+      "4": 0.1635916359163592,
+      "5": 0.029520295202952032
+    },
+    "sample_count": 813,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1446808510638298,
+      "2": 0.4787234042553191,
+      "3": 0.1648936170212766,
+      "4": 0.1691489361702128,
+      "5": 0.04255319148936171
+    },
+    "sample_count": 940,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.15450121654501214,
+      "2": 0.5182481751824817,
+      "3": 0.13503649635036497,
+      "4": 0.15328467153284672,
+      "5": 0.038929440389294405
+    },
+    "sample_count": 822,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.12593383137673425,
+      "2": 0.4674493062966915,
+      "3": 0.2177161152614728,
+      "4": 0.1515474919957311,
+      "5": 0.037353255069370324
+    },
+    "sample_count": 937,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.12773722627737227,
+      "2": 0.5048661800486618,
+      "3": 0.19829683698296835,
+      "4": 0.15085158150851583,
+      "5": 0.01824817518248175
+    },
+    "sample_count": 822,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1283422459893048,
+      "2": 0.40106951871657753,
+      "3": 0.2427807486631016,
+      "4": 0.18502673796791447,
+      "5": 0.04278074866310161
+    },
+    "sample_count": 935,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11383108935128519,
+      "2": 0.4112607099143207,
+      "3": 0.23378212974296209,
+      "4": 0.19583843329253367,
+      "5": 0.04528763769889841
+    },
+    "sample_count": 817,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.14392324093816627,
+      "2": 0.3795309168443497,
+      "3": 0.21215351812366737,
+      "4": 0.18017057569296374,
+      "5": 0.08422174840085288
+    },
+    "sample_count": 938,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.13851761846901578,
+      "2": 0.42648845686512765,
+      "3": 0.2029161603888214,
+      "4": 0.17739975698663424,
+      "5": 0.054678007290400975
+    },
+    "sample_count": 823,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09793253536452665,
+      "2": 0.26332970620239393,
+      "3": 0.3057671381936888,
+      "4": 0.19368879216539717,
+      "5": 0.13928182807399347
+    },
+    "sample_count": 919,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.08014796547472255,
+      "2": 0.2712700369913687,
+      "3": 0.3082614056720098,
+      "4": 0.21948212083847102,
+      "5": 0.12083847102342785
+    },
+    "sample_count": 811,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.2074468085106383,
+      "2": 0.4904255319148936,
+      "3": 0.2340425531914894,
+      "4": 0.05851063829787234,
+      "5": 0.009574468085106381
+    },
+    "sample_count": 940,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.17639902676399025,
+      "2": 0.5498783454987834,
+      "3": 0.18491484184914844,
+      "4": 0.08272506082725062,
+      "5": 0.00608272506082725
+    },
+    "sample_count": 822,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.056989247311827966,
+      "2": 0.3365591397849462,
+      "3": 0.3494623655913978,
+      "4": 0.22688172043010751,
+      "5": 0.030107526881720432
+    },
+    "sample_count": 930,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.0480295566502463,
+      "2": 0.34236453201970446,
+      "3": 0.33620689655172414,
+      "4": 0.24261083743842363,
+      "5": 0.03078817733990148
+    },
+    "sample_count": 812,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09411764705882351,
+      "2": 0.27593582887700535,
+      "3": 0.3304812834224599,
+      "4": 0.23850267379679146,
+      "5": 0.06096256684491978
+    },
+    "sample_count": 935,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.08679706601466992,
+      "2": 0.265281173594132,
+      "3": 0.3227383863080685,
+      "4": 0.26650366748166254,
+      "5": 0.05867970660146699
+    },
+    "sample_count": 818,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.2653721682847896,
+      "2": 0.13106796116504854,
+      "3": 0.2508090614886731,
+      "4": 0.1423948220064725,
+      "5": 0.05825242718446603,
+      "6": 0.15210355987055013
+    },
+    "sample_count": 618,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.24363636363636362,
+      "2": 0.14727272727272728,
+      "3": 0.24727272727272728,
+      "4": 0.11636363636363638,
+      "5": 0.054545454545454536,
+      "6": 0.1909090909090909
+    },
+    "sample_count": 550,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.16747181964573268,
+      "2": 0.3752012882447665,
+      "3": 0.26892109500805156,
+      "4": 0.1706924315619968,
+      "5": 0.0177133655394525
+    },
+    "sample_count": 621,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.20620437956204374,
+      "2": 0.36313868613138683,
+      "3": 0.24270072992700734,
+      "4": 0.1624087591240876,
+      "5": 0.025547445255474456
+    },
+    "sample_count": 548,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.22168284789644013,
+      "2": 0.35436893203883496,
+      "3": 0.26375404530744334,
+      "4": 0.1326860841423948,
+      "5": 0.02750809061488673
+    },
+    "sample_count": 618,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.2998171846435101,
+      "2": 0.3382084095063986,
+      "3": 0.2522851919561243,
+      "4": 0.09872029250457036,
+      "5": 0.010968921389396709
+    },
+    "sample_count": 547,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.17684887459807075,
+      "2": 0.3102893890675241,
+      "3": 0.22829581993569134,
+      "4": 0.24437299035369775,
+      "5": 0.040192926045016085
+    },
+    "sample_count": 622,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.18579234972677597,
+      "2": 0.29508196721311475,
+      "3": 0.2641165755919854,
+      "4": 0.20765027322404372,
+      "5": 0.04735883424408014
+    },
+    "sample_count": 549,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.08319738988580752,
+      "2": 0.4127243066884176,
+      "3": 0.2381729200652528,
+      "4": 0.21370309951060357,
+      "5": 0.052202283849918436
+    },
+    "sample_count": 613,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.08703703703703704,
+      "2": 0.4222222222222222,
+      "3": 0.2722222222222222,
+      "4": 0.1851851851851852,
+      "5": 0.03333333333333333
+    },
+    "sample_count": 540,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11764705882352941,
+      "2": 0.5473856209150328,
+      "3": 0.22058823529411764,
+      "4": 0.09803921568627451,
+      "5": 0.016339869281045753
+    },
+    "sample_count": 612,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1229050279329609,
+      "2": 0.4972067039106145,
+      "3": 0.27001862197392923,
+      "4": 0.09869646182495345,
+      "5": 0.0111731843575419
+    },
+    "sample_count": 537,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11946902654867257,
+      "2": 0.506637168141593,
+      "3": 0.25,
+      "4": 0.10619469026548674,
+      "5": 0.01769911504424779
+    },
+    "sample_count": 904,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.13788819875776395,
+      "2": 0.5180124223602485,
+      "3": 0.208695652173913,
+      "4": 0.11304347826086956,
+      "5": 0.02236024844720497
+    },
+    "sample_count": 805,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11928651059085843,
+      "2": 0.46265328874024525,
+      "3": 0.2976588628762542,
+      "4": 0.10144927536231883,
+      "5": 0.0189520624303233
+    },
+    "sample_count": 897,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11400247831474597,
+      "2": 0.506815365551425,
+      "3": 0.25154894671623296,
+      "4": 0.1115241635687732,
+      "5": 0.016109045848822796
+    },
+    "sample_count": 807,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09253065774804904,
+      "2": 0.3734671125975474,
+      "3": 0.3857302118171683,
+      "4": 0.1282051282051282,
+      "5": 0.020066889632107024
+    },
+    "sample_count": 897,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09701492537313434,
+      "2": 0.417910447761194,
+      "3": 0.31840796019900497,
+      "4": 0.13681592039800997,
+      "5": 0.029850746268656712
+    },
+    "sample_count": 804,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06580366774541532,
+      "2": 0.2157497303128371,
+      "3": 0.18230852211434737,
+      "4": 0.3505933117583603,
+      "5": 0.1855447680690399
+    },
+    "sample_count": 927,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.05412054120541205,
+      "2": 0.22878228782287824,
+      "3": 0.15621156211562118,
+      "4": 0.4243542435424354,
+      "5": 0.13653136531365315
+    },
+    "sample_count": 813,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09913793103448275,
+      "2": 0.25538793103448276,
+      "3": 0.23922413793103448,
+      "4": 0.29418103448275856,
+      "5": 0.11206896551724135
+    },
+    "sample_count": 928,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.07730061349693253,
+      "2": 0.3067484662576687,
+      "3": 0.1950920245398773,
+      "4": 0.33496932515337424,
+      "5": 0.08588957055214726
+    },
+    "sample_count": 815,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.49734325185972367,
+      "2": 0.2879914984059511,
+      "3": 0.15090329436769395,
+      "4": 0.045696068012752396,
+      "5": 0.018065887353878853
+    },
+    "sample_count": 941,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.48481166464155523,
+      "2": 0.29526123936816523,
+      "3": 0.14945321992709598,
+      "4": 0.0583232077764277,
+      "5": 0.012150668286755772
+    },
+    "sample_count": 823,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.41020191285866103,
+      "2": 0.330499468650372,
+      "3": 0.1785334750265675,
+      "4": 0.06801275239107332,
+      "5": 0.012752391073326248
+    },
+    "sample_count": 941,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.4412121212121212,
+      "2": 0.2993939393939394,
+      "3": 0.17696969696969694,
+      "4": 0.07393939393939394,
+      "5": 0.008484848484848484
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.4680170575692963,
+      "2": 0.30810234541577824,
+      "3": 0.1673773987206823,
+      "4": 0.04797441364605544,
+      "5": 0.008528784648187633
+    },
+    "sample_count": 938,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.42666666666666664,
+      "2": 0.33454545454545453,
+      "3": 0.17333333333333334,
+      "4": 0.06060606060606061,
+      "5": 0.0048484848484848485
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7914893617021277,
+      "2": 0.12872340425531914,
+      "3": 0.06382978723404256,
+      "4": 0.011702127659574468,
+      "5": 0.00425531914893617
+    },
+    "sample_count": 940,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7212121212121212,
+      "2": 0.1709090909090909,
+      "3": 0.07393939393939393,
+      "4": 0.030303030303030304,
+      "5": 0.0036363636363636364
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7502656748140275,
+      "2": 0.15196599362380447,
+      "3": 0.07863974495217853,
+      "4": 0.013815090329436768,
+      "5": 0.005313496280552603
+    },
+    "sample_count": 941,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6767554479418887,
+      "2": 0.20217917675544797,
+      "3": 0.09079903147699758,
+      "4": 0.02300242130750605,
+      "5": 0.007263922518159807
+    },
+    "sample_count": 826,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6224598930481283,
+      "2": 0.24491978609625664,
+      "3": 0.08770053475935828,
+      "4": 0.038502673796791446,
+      "5": 0.006417112299465241
+    },
+    "sample_count": 935,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7229064039408868,
+      "2": 0.19950738916256155,
+      "3": 0.055418719211822655,
+      "4": 0.019704433497536943,
+      "5": 0.0024630541871921187
+    },
+    "sample_count": 812,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6843817787418656,
+      "2": 0.2082429501084599,
+      "3": 0.08459869848156183,
+      "4": 0.017353579175704993,
+      "5": 0.005422993492407809
+    },
+    "sample_count": 922,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7758186397984886,
+      "2": 0.15113350125944583,
+      "3": 0.054156171284634756,
+      "4": 0.017632241813602016,
+      "5": 0.0012594458438287153
+    },
+    "sample_count": 794,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.15441176470588233,
+      "2": 0.8455882352941178
+    },
+    "sample_count": 544,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.12834978843441464,
+      "2": 0.8716502115655854
+    },
+    "sample_count": 709,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.10661764705882353,
+      "2": 0.8933823529411764
+    },
+    "sample_count": 544,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09295774647887323,
+      "2": 0.9070422535211267
+    },
+    "sample_count": 710,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.15441176470588233,
+      "2": 0.8455882352941175
+    },
+    "sample_count": 544,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.13783403656821377,
+      "2": 0.8621659634317862
+    },
+    "sample_count": 711,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09207708779443255,
+      "2": 0.3886509635974304,
+      "3": 0.36081370449678796,
+      "4": 0.12419700214132763,
+      "5": 0.034261241970021415
+    },
+    "sample_count": 934,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.08888888888888889,
+      "2": 0.29753086419753083,
+      "3": 0.43827160493827166,
+      "4": 0.13580246913580246,
+      "5": 0.03950617283950617
+    },
+    "sample_count": 810,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.07700534759358289,
+      "2": 0.22245989304812835,
+      "3": 0.453475935828877,
+      "4": 0.11978609625668449,
+      "5": 0.07700534759358288,
+      "6": 0.04278074866310161,
+      "7": 0.0074866310160427805
+    },
+    "sample_count": 935,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.07936507936507936,
+      "2": 0.1843711843711844,
+      "3": 0.47008547008547,
+      "4": 0.1391941391941392,
+      "5": 0.09279609279609279,
+      "6": 0.0293040293040293,
+      "7": 0.004884004884004884
+    },
+    "sample_count": 819,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.10616438356164383,
+      "2": 0.297945205479452,
+      "3": 0.42694063926940634,
+      "4": 0.09931506849315068,
+      "5": 0.05251141552511415,
+      "6": 0.012557077625570776,
+      "7": 0.0045662100456621
+    },
+    "sample_count": 876,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09905020352781548,
+      "2": 0.2618724559023067,
+      "3": 0.4233378561736772,
+      "4": 0.13297150610583444,
+      "5": 0.0610583446404342,
+      "6": 0.01492537313432836,
+      "7": 0.006784260515603799
+    },
+    "sample_count": 737,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06770098730606487,
+      "2": 0.23413258110014104,
+      "3": 0.3540197461212976,
+      "4": 0.20028208744710857,
+      "5": 0.0691114245416079,
+      "6": 0.04372355430183357,
+      "7": 0.031029619181946404
+    },
+    "sample_count": 709,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.051546391752577324,
+      "2": 0.21993127147766323,
+      "3": 0.352233676975945,
+      "4": 0.2268041237113402,
+      "5": 0.061855670103092786,
+      "6": 0.04295532646048111,
+      "7": 0.04467353951890035
+    },
+    "sample_count": 582,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6677454153182308,
+      "2": 0.14455231930960089,
+      "3": 0.09277238403451996,
+      "4": 0.05609492988133766,
+      "5": 0.02912621359223301,
+      "6": 0.007551240560949299,
+      "7": 0.0021574973031283713
+    },
+    "sample_count": 927,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6773006134969324,
+      "2": 0.11533742331288345,
+      "3": 0.12638036809815953,
+      "4": 0.05766871165644171,
+      "5": 0.02085889570552147,
+      "6": 0.00245398773006135,
+      "7": 0.0
+    },
+    "sample_count": 815,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5338345864661653,
+      "2": 0.2781954887218045,
+      "3": 0.08378088077336197,
+      "4": 0.09237379162191192,
+      "5": 0.011815252416756176
+    },
+    "sample_count": 931,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.47008547008547014,
+      "2": 0.30158730158730157,
+      "3": 0.11599511599511601,
+      "4": 0.10378510378510379,
+      "5": 0.008547008547008548
+    },
+    "sample_count": 819,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.19148936170212766,
+      "2": 0.2074468085106383,
+      "3": 0.15106382978723404,
+      "4": 0.21808510638297873,
+      "5": 0.2319148936170213
+    },
+    "sample_count": 940,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1878787878787879,
+      "2": 0.26545454545454544,
+      "3": 0.12121212121212123,
+      "4": 0.21939393939393942,
+      "5": 0.20606060606060608
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.012752391073326246,
+      "2": 0.07545164718384696,
+      "3": 0.07545164718384696,
+      "4": 0.31243358129649307,
+      "5": 0.5239107332624867
+    },
+    "sample_count": 941,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.010895883777239709,
+      "2": 0.07869249394673124,
+      "3": 0.08353510895883776,
+      "4": 0.43341404358353514,
+      "5": 0.3934624697336562
+    },
+    "sample_count": 826,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1689691817215728,
+      "2": 0.24654622741764082,
+      "3": 0.2964930924548353,
+      "4": 0.27098831030818277,
+      "5": 0.01700318809776833
+    },
+    "sample_count": 941,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1866666666666667,
+      "2": 0.22909090909090912,
+      "3": 0.32,
+      "4": 0.2521212121212121,
+      "5": 0.012121212121212123
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.20333333333333334,
+      "2": 0.7966666666666666
+    },
+    "sample_count": 900,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.13927227101631118,
+      "2": 0.8607277289836888
+    },
+    "sample_count": 797,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.2886266094420601,
+      "2": 0.38304721030042915,
+      "3": 0.18562231759656653,
+      "4": 0.14270386266094418
+    },
+    "sample_count": 932,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.2780487804878049,
+      "2": 0.42073170731707316,
+      "3": 0.1609756097560976,
+      "4": 0.1402439024390244
+    },
+    "sample_count": 820,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.4077253218884121,
+      "2": 0.42167381974248924,
+      "3": 0.11373390557939912,
+      "4": 0.056866952789699575
+    },
+    "sample_count": 932,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.3900364520048603,
+      "2": 0.4690157958687728,
+      "3": 0.08140947752126368,
+      "4": 0.05953827460510328
+    },
+    "sample_count": 823,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.36373390557939916,
+      "2": 0.40772532188841204,
+      "3": 0.15879828326180254,
+      "4": 0.06974248927038626
+    },
+    "sample_count": 932,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.33008526187576126,
+      "2": 0.44945188794153473,
+      "3": 0.15347137637028016,
+      "4": 0.06699147381242387
+    },
+    "sample_count": 821,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5714285714285714,
+      "2": 0.38805970149253727,
+      "3": 0.027718550106609802,
+      "4": 0.01279317697228145
+    },
+    "sample_count": 938,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5563636363636364,
+      "2": 0.4024242424242424,
+      "3": 0.03393939393939394,
+      "4": 0.007272727272727273
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.4415862808145767,
+      "2": 0.4394426580921758,
+      "3": 0.09110396570203644,
+      "4": 0.02786709539121115
+    },
+    "sample_count": 933,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.4514563106796116,
+      "2": 0.45388349514563103,
+      "3": 0.06674757281553398,
+      "4": 0.027912621359223296
+    },
+    "sample_count": 824,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6057385759829969,
+      "2": 0.3645058448459086,
+      "3": 0.022316684378320933,
+      "4": 0.007438894792773645
+    },
+    "sample_count": 941,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5648484848484849,
+      "2": 0.39515151515151514,
+      "3": 0.027878787878787878,
+      "4": 0.012121212121212121
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5218317358892439,
+      "2": 0.3780617678381257,
+      "3": 0.07454739084132056,
+      "4": 0.025559105431309903
+    },
+    "sample_count": 939,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.4981773997569866,
+      "2": 0.4143377885783719,
+      "3": 0.0643985419198056,
+      "4": 0.023086269744835963
+    },
+    "sample_count": 823,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5117521367521368,
+      "2": 0.38354700854700857,
+      "3": 0.08119658119658119,
+      "4": 0.023504273504273504
+    },
+    "sample_count": 936,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5169902912621359,
+      "2": 0.3944174757281553,
+      "3": 0.0691747572815534,
+      "4": 0.019417475728155338
+    },
+    "sample_count": 824,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.15901814300960512,
+      "2": 0.40021344717182505,
+      "3": 0.29562433297758806,
+      "4": 0.11632870864461045,
+      "5": 0.0288153681963714
+    },
+    "sample_count": 937,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.12454212454212454,
+      "2": 0.41758241758241754,
+      "3": 0.29792429792429787,
+      "4": 0.1318681318681319,
+      "5": 0.028083028083028084
+    },
+    "sample_count": 819,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.16115261472785483,
+      "2": 0.3489861259338313,
+      "3": 0.3500533617929562,
+      "4": 0.11953041622198506,
+      "5": 0.020277481323372464
+    },
+    "sample_count": 937,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.14129110840438489,
+      "2": 0.3922046285018271,
+      "3": 0.3105968331303289,
+      "4": 0.13154689403166872,
+      "5": 0.024360535931790498
+    },
+    "sample_count": 821,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  }
+]

@@ -1,0 +1,3438 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.19885900570497145,
+      "2": 0.280358598207009,
+      "3": 0.26976365118174406,
+      "4": 0.1621841890790546,
+      "5": 0.05786471067644662,
+      "6": 0.022004889975550123,
+      "7": 0.008964955175224124
+    },
+    "sample_count": 1227,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.1660377358490566,
+      "2": 0.27169811320754716,
+      "3": 0.26037735849056604,
+      "4": 0.19999999999999998,
+      "5": 0.06415094339622641,
+      "6": 0.026415094339622643,
+      "7": 0.011320754716981133
+    },
+    "sample_count": 265,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.17387755102040814,
+      "2": 0.35020408163265304,
+      "3": 0.32897959183673464,
+      "4": 0.11183673469387756,
+      "5": 0.03510204081632653
+    },
+    "sample_count": 1225,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.14393939393939392,
+      "2": 0.35984848484848486,
+      "3": 0.31060606060606055,
+      "4": 0.14015151515151514,
+      "5": 0.04545454545454544
+    },
+    "sample_count": 264,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.15204678362573099,
+      "2": 0.3609022556390977,
+      "3": 0.23809523809523808,
+      "4": 0.15121136173767752,
+      "5": 0.09774436090225563
+    },
+    "sample_count": 1197,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.17120622568093385,
+      "2": 0.33463035019455256,
+      "3": 0.19066147859922178,
+      "4": 0.16731517509727625,
+      "5": 0.13618677042801558
+    },
+    "sample_count": 257,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.17232808616404308,
+      "2": 0.31980115990057995,
+      "3": 0.24192212096106047,
+      "4": 0.15907207953603977,
+      "5": 0.1068765534382767
+    },
+    "sample_count": 1207,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.12547528517110265,
+      "2": 0.2661596958174905,
+      "3": 0.2775665399239544,
+      "4": 0.20532319391634982,
+      "5": 0.12547528517110265
+    },
+    "sample_count": 263,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.13003355704697986,
+      "2": 0.2634228187919463,
+      "3": 0.2776845637583893,
+      "4": 0.17365771812080535,
+      "5": 0.15520134228187918
+    },
+    "sample_count": 1192,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.10305343511450384,
+      "2": 0.22519083969465647,
+      "3": 0.2480916030534351,
+      "4": 0.22519083969465647,
+      "5": 0.1984732824427481
+    },
+    "sample_count": 262,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.18468085106382978,
+      "2": 0.25531914893617025,
+      "3": 0.2757446808510639,
+      "4": 0.14723404255319145,
+      "5": 0.13702127659574467
+    },
+    "sample_count": 1175,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.17692307692307693,
+      "2": 0.24615384615384614,
+      "3": 0.23461538461538461,
+      "4": 0.1576923076923077,
+      "5": 0.1846153846153846
+    },
+    "sample_count": 260,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.10849453322119429,
+      "2": 0.33978132884777124,
+      "3": 0.27922624053826745,
+      "4": 0.17661900756938603,
+      "5": 0.09587888982338098
+    },
+    "sample_count": 1189,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.11240310077519379,
+      "2": 0.28682170542635665,
+      "3": 0.29844961240310075,
+      "4": 0.2248062015503876,
+      "5": 0.07751937984496125
+    },
+    "sample_count": 258,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.21929101401483922,
+      "2": 0.29843363561417974,
+      "3": 0.23000824402308323,
+      "4": 0.1508656224237428,
+      "5": 0.101401483924155
+    },
+    "sample_count": 1213,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.2988505747126437,
+      "2": 0.2567049808429119,
+      "3": 0.18007662835249044,
+      "4": 0.16091954022988506,
+      "5": 0.10344827586206896
+    },
+    "sample_count": 261,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.14646464646464646,
+      "2": 0.29713804713804715,
+      "3": 0.25925925925925924,
+      "4": 0.15404040404040403,
+      "5": 0.1430976430976431
+    },
+    "sample_count": 1188,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.20152091254752852,
+      "2": 0.27756653992395436,
+      "3": 0.2509505703422053,
+      "4": 0.12927756653992398,
+      "5": 0.14068441064638781
+    },
+    "sample_count": 263,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3663366336633663,
+      "2": 0.35726072607260734,
+      "3": 0.17326732673267328,
+      "4": 0.07508250825082509,
+      "5": 0.028052805280528052
+    },
+    "sample_count": 1212,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.4150943396226415,
+      "2": 0.32452830188679244,
+      "3": 0.15471698113207547,
+      "4": 0.07547169811320756,
+      "5": 0.03018867924528302
+    },
+    "sample_count": 265,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.19458128078817735,
+      "2": 0.27586206896551724,
+      "3": 0.3333333333333333,
+      "4": 0.1527093596059113,
+      "5": 0.04351395730706076
+    },
+    "sample_count": 1218,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.19548872180451127,
+      "2": 0.2556390977443609,
+      "3": 0.2894736842105263,
+      "4": 0.20300751879699247,
+      "5": 0.05639097744360902
+    },
+    "sample_count": 266,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.22551440329218111,
+      "2": 0.2921810699588478,
+      "3": 0.3292181069958848,
+      "4": 0.09465020576131687,
+      "5": 0.05843621399176955
+    },
+    "sample_count": 1215,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3053435114503817,
+      "2": 0.2442748091603053,
+      "3": 0.3282442748091603,
+      "4": 0.07633587786259541,
+      "5": 0.045801526717557245
+    },
+    "sample_count": 262,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.24547101449275358,
+      "2": 0.33242753623188404,
+      "3": 0.28532608695652173,
+      "4": 0.09239130434782607,
+      "5": 0.04438405797101449
+    },
+    "sample_count": 1104,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.2890625,
+      "2": 0.328125,
+      "3": 0.21875,
+      "4": 0.109375,
+      "5": 0.0546875
+    },
+    "sample_count": 256,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3022295623451693,
+      "2": 0.3550784475639967,
+      "3": 0.2097440132122213,
+      "4": 0.09083402146985964,
+      "5": 0.0421139554087531
+    },
+    "sample_count": 1211,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3712121212121211,
+      "2": 0.356060606060606,
+      "3": 0.13636363636363635,
+      "4": 0.08333333333333333,
+      "5": 0.053030303030303025
+    },
+    "sample_count": 264,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.2973640856672158,
+      "2": 0.33525535420098845,
+      "3": 0.22570016474464583,
+      "4": 0.10296540362438221,
+      "5": 0.03871499176276771
+    },
+    "sample_count": 1214,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3088803088803089,
+      "2": 0.3822393822393822,
+      "3": 0.18918918918918917,
+      "4": 0.10038610038610041,
+      "5": 0.019305019305019305
+    },
+    "sample_count": 259,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.22880658436213994,
+      "2": 0.3925925925925926,
+      "3": 0.22633744855967078,
+      "4": 0.09876543209876543,
+      "5": 0.053497942386831275
+    },
+    "sample_count": 1215,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.24334600760456274,
+      "2": 0.3688212927756654,
+      "3": 0.2813688212927757,
+      "4": 0.08365019011406843,
+      "5": 0.02281368821292775
+    },
+    "sample_count": 263,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.24937027707808562,
+      "2": 0.31066330814441645,
+      "3": 0.23005877413937867,
+      "4": 0.1343408900083963,
+      "5": 0.07556675062972291
+    },
+    "sample_count": 1191,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.22813688212927755,
+      "2": 0.3003802281368821,
+      "3": 0.16349809885931557,
+      "4": 0.18631178707224338,
+      "5": 0.12167300380228135
+    },
+    "sample_count": 263,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.22783761391880697,
+      "2": 0.33057166528583265,
+      "3": 0.19469759734879866,
+      "4": 0.13338856669428334,
+      "5": 0.11350455675227838
+    },
+    "sample_count": 1207,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.21886792452830187,
+      "2": 0.2528301886792453,
+      "3": 0.1962264150943396,
+      "4": 0.1811320754716981,
+      "5": 0.1509433962264151
+    },
+    "sample_count": 265,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.2518457752255947,
+      "2": 0.3634126333059885,
+      "3": 0.2739950779327317,
+      "4": 0.0771123872026251,
+      "5": 0.033634126333059886
+    },
+    "sample_count": 1219,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.28089887640449435,
+      "2": 0.3970037453183521,
+      "3": 0.2247191011235955,
+      "4": 0.07116104868913858,
+      "5": 0.02621722846441947
+    },
+    "sample_count": 267,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.15390946502057612,
+      "2": 0.31522633744855966,
+      "3": 0.2551440329218107,
+      "4": 0.22139917695473252,
+      "5": 0.054320987654320994
+    },
+    "sample_count": 1215,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.08880308880308879,
+      "2": 0.305019305019305,
+      "3": 0.2277992277992278,
+      "4": 0.3011583011583012,
+      "5": 0.07722007722007723
+    },
+    "sample_count": 259,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.35814722911497104,
+      "2": 0.3217535153019024,
+      "3": 0.18941273779983456,
+      "4": 0.08767576509511996,
+      "5": 0.04301075268817205
+    },
+    "sample_count": 1209,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.39846743295019155,
+      "2": 0.29885057471264365,
+      "3": 0.2068965517241379,
+      "4": 0.04980842911877395,
+      "5": 0.04597701149425288
+    },
+    "sample_count": 261,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.15744274809160305,
+      "2": 0.2337786259541985,
+      "3": 0.11641221374045801,
+      "4": 0.1316793893129771,
+      "5": 0.13454198473282442,
+      "6": 0.22614503816793896
+    },
+    "sample_count": 1048,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.06639004149377593,
+      "2": 0.11618257261410787,
+      "3": 0.06639004149377593,
+      "4": 0.14937759336099585,
+      "5": 0.21161825726141079,
+      "6": 0.3900414937759336
+    },
+    "sample_count": 241,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.402081362346263,
+      "2": 0.3292336802270577,
+      "3": 0.16367076631977295,
+      "4": 0.06054872280037843,
+      "5": 0.044465468306527915
+    },
+    "sample_count": 1057,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.4553191489361702,
+      "2": 0.2893617021276596,
+      "3": 0.1531914893617021,
+      "4": 0.06382978723404255,
+      "5": 0.03829787234042553
+    },
+    "sample_count": 235,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.37728585178055823,
+      "2": 0.2646775745909528,
+      "3": 0.26371511068334935,
+      "4": 0.06737247353224254,
+      "5": 0.026948989412897015
+    },
+    "sample_count": 1039,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.4978723404255319,
+      "2": 0.19574468085106386,
+      "3": 0.17872340425531916,
+      "4": 0.0851063829787234,
+      "5": 0.0425531914893617
+    },
+    "sample_count": 235,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.37609329446064144,
+      "2": 0.30515063168124396,
+      "3": 0.19533527696793004,
+      "4": 0.05247813411078717,
+      "5": 0.07094266277939747
+    },
+    "sample_count": 1029,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5175438596491228,
+      "2": 0.20175438596491224,
+      "3": 0.15789473684210525,
+      "4": 0.08333333333333333,
+      "5": 0.039473684210526314
+    },
+    "sample_count": 228,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.1554993678887484,
+      "2": 0.3413400758533502,
+      "3": 0.34007585335018964,
+      "4": 0.1125158027812895,
+      "5": 0.05056890012642225
+    },
+    "sample_count": 791,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.1987577639751553,
+      "2": 0.3416149068322981,
+      "3": 0.28571428571428575,
+      "4": 0.15527950310559008,
+      "5": 0.018633540372670808
+    },
+    "sample_count": 161,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.11838790931989923,
+      "2": 0.4005037783375315,
+      "3": 0.2758186397984887,
+      "4": 0.12720403022670027,
+      "5": 0.07808564231738035
+    },
+    "sample_count": 794,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.12138728323699421,
+      "2": 0.3815028901734103,
+      "3": 0.32369942196531787,
+      "4": 0.10982658959537572,
+      "5": 0.06358381502890173
+    },
+    "sample_count": 173,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.23062200956937798,
+      "2": 0.42392344497607654,
+      "3": 0.24880382775119614,
+      "4": 0.058373205741626785,
+      "5": 0.03827751196172249
+    },
+    "sample_count": 1045,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.23684210526315785,
+      "2": 0.38596491228070173,
+      "3": 0.2807017543859649,
+      "4": 0.07894736842105263,
+      "5": 0.017543859649122806
+    },
+    "sample_count": 228,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.20459290187891443,
+      "2": 0.3736951983298539,
+      "3": 0.2860125260960334,
+      "4": 0.1002087682672234,
+      "5": 0.03549060542797495
+    },
+    "sample_count": 958,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.20754716981132074,
+      "2": 0.3113207547169811,
+      "3": 0.35377358490566035,
+      "4": 0.11320754716981132,
+      "5": 0.014150943396226415
+    },
+    "sample_count": 212,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.1431492842535787,
+      "2": 0.3210633946830266,
+      "3": 0.3384458077709611,
+      "4": 0.12167689161554192,
+      "5": 0.07566462167689161
+    },
+    "sample_count": 978,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.17446808510638298,
+      "2": 0.1872340425531915,
+      "3": 0.4340425531914893,
+      "4": 0.15319148936170213,
+      "5": 0.05106382978723404
+    },
+    "sample_count": 235,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.10683760683760683,
+      "2": 0.20683760683760685,
+      "3": 0.2615384615384615,
+      "4": 0.1700854700854701,
+      "5": 0.2547008547008547
+    },
+    "sample_count": 1170,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.10424710424710426,
+      "2": 0.21621621621621623,
+      "3": 0.2393822393822394,
+      "4": 0.138996138996139,
+      "5": 0.3011583011583011
+    },
+    "sample_count": 259,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.1179001721170396,
+      "2": 0.25903614457831325,
+      "3": 0.24010327022375214,
+      "4": 0.16351118760757313,
+      "5": 0.21944922547332185
+    },
+    "sample_count": 1162,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.2,
+      "2": 0.20384615384615384,
+      "3": 0.1769230769230769,
+      "4": 0.20384615384615384,
+      "5": 0.2153846153846154
+    },
+    "sample_count": 260,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.24353628023352794,
+      "2": 0.34862385321100914,
+      "3": 0.25771476230191825,
+      "4": 0.11342785654712259,
+      "5": 0.03669724770642202
+    },
+    "sample_count": 1199,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.35338345864661647,
+      "2": 0.2932330827067669,
+      "3": 0.21052631578947367,
+      "4": 0.10902255639097744,
+      "5": 0.03383458646616541
+    },
+    "sample_count": 266,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.303921568627451,
+      "2": 0.3137254901960784,
+      "3": 0.27859477124183,
+      "4": 0.08251633986928104,
+      "5": 0.021241830065359478
+    },
+    "sample_count": 1224,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.34456928838951306,
+      "2": 0.34456928838951306,
+      "3": 0.25842696629213485,
+      "4": 0.0299625468164794,
+      "5": 0.02247191011235955
+    },
+    "sample_count": 267,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.32450331125827814,
+      "2": 0.32698675496688734,
+      "3": 0.2417218543046358,
+      "4": 0.08692052980132449,
+      "5": 0.019867549668874173
+    },
+    "sample_count": 1208,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.46212121212121215,
+      "2": 0.2803030303030303,
+      "3": 0.1553030303030303,
+      "4": 0.06818181818181818,
+      "5": 0.03409090909090909
+    },
+    "sample_count": 264,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.36340206185567003,
+      "2": 0.288659793814433,
+      "3": 0.21219931271477663,
+      "4": 0.09965635738831613,
+      "5": 0.03608247422680413
+    },
+    "sample_count": 1164,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.481060606060606,
+      "2": 0.24621212121212122,
+      "3": 0.14393939393939392,
+      "4": 0.09848484848484848,
+      "5": 0.030303030303030304
+    },
+    "sample_count": 264,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3898012100259291,
+      "2": 0.3197925669835782,
+      "3": 0.1832324978392394,
+      "4": 0.05531547104580811,
+      "5": 0.05185825410544512
+    },
+    "sample_count": 1157,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5,
+      "2": 0.24806201550387597,
+      "3": 0.13565891472868216,
+      "4": 0.07364341085271317,
+      "5": 0.04263565891472868
+    },
+    "sample_count": 258,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.19950535861500407,
+      "2": 0.3380049464138499,
+      "3": 0.32728771640560594,
+      "4": 0.08656224237427866,
+      "5": 0.048639736191261336
+    },
+    "sample_count": 1213,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.24719101123595502,
+      "2": 0.2883895131086142,
+      "3": 0.3632958801498127,
+      "4": 0.059925093632958795,
+      "5": 0.04119850187265917
+    },
+    "sample_count": 267,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3338926174496644,
+      "2": 0.337248322147651,
+      "3": 0.2080536912751678,
+      "4": 0.08473154362416106,
+      "5": 0.0360738255033557
+    },
+    "sample_count": 1192,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.4541984732824427,
+      "2": 0.2748091603053435,
+      "3": 0.20229007633587784,
+      "4": 0.038167938931297704,
+      "5": 0.030534351145038163
+    },
+    "sample_count": 262,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.29188712522045857,
+      "2": 0.7081128747795413
+    },
+    "sample_count": 1134,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3111111111111111,
+      "2": 0.6888888888888889
+    },
+    "sample_count": 225,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.2538531278331822,
+      "2": 0.7461468721668179
+    },
+    "sample_count": 1103,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.20444444444444446,
+      "2": 0.7955555555555555
+    },
+    "sample_count": 225,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.2416591523895401,
+      "2": 0.7583408476104598
+    },
+    "sample_count": 1109,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.1565217391304348,
+      "2": 0.8434782608695652
+    },
+    "sample_count": 230,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.31583264971287944,
+      "2": 0.3478260869565217,
+      "3": 0.2280557834290402,
+      "4": 0.06152584085315832,
+      "5": 0.04675963904840034
+    },
+    "sample_count": 1219,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3422053231939162,
+      "2": 0.37262357414448666,
+      "3": 0.17870722433460076,
+      "4": 0.05703422053231939,
+      "5": 0.0494296577946768
+    },
+    "sample_count": 263,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.17720465890183026,
+      "2": 0.30865224625623955,
+      "3": 0.24708818635607321,
+      "4": 0.14143094841930115,
+      "5": 0.09484193011647254,
+      "6": 0.015806988352745424,
+      "7": 0.01497504159733777
+    },
+    "sample_count": 1202,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.22093023255813954,
+      "2": 0.3372093023255814,
+      "3": 0.23255813953488372,
+      "4": 0.10465116279069767,
+      "5": 0.06976744186046513,
+      "6": 0.027131782945736434,
+      "7": 0.007751937984496124
+    },
+    "sample_count": 258,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.22723404255319146,
+      "2": 0.3208510638297872,
+      "3": 0.2323404255319149,
+      "4": 0.13361702127659572,
+      "5": 0.05021276595744681,
+      "6": 0.02468085106382979,
+      "7": 0.011063829787234043
+    },
+    "sample_count": 1175,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.33333333333333337,
+      "2": 0.24166666666666667,
+      "3": 0.23333333333333336,
+      "4": 0.09166666666666666,
+      "5": 0.0375,
+      "6": 0.04583333333333332,
+      "7": 0.016666666666666666
+    },
+    "sample_count": 240,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.24491869918699186,
+      "2": 0.28353658536585363,
+      "3": 0.22865853658536583,
+      "4": 0.13109756097560976,
+      "5": 0.04776422764227642,
+      "6": 0.04878048780487805,
+      "7": 0.015243902439024388
+    },
+    "sample_count": 984,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.16201117318435754,
+      "2": 0.2737430167597765,
+      "3": 0.2905027932960893,
+      "4": 0.18435754189944134,
+      "5": 0.0782122905027933,
+      "6": 0.011173184357541898,
+      "7": 0.0
+    },
+    "sample_count": 179,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.6646603611349956,
+      "2": 0.20206362854686152,
+      "3": 0.10920034393809114,
+      "4": 0.012897678417884778,
+      "5": 0.003439380911435941,
+      "6": 0.006878761822871883,
+      "7": 0.0008598452278589854
+    },
+    "sample_count": 1163,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.6901960784313725,
+      "2": 0.1803921568627451,
+      "3": 0.10196078431372549,
+      "4": 0.0196078431372549,
+      "5": 0.00784313725490196,
+      "6": 0.0,
+      "7": 0.0
+    },
+    "sample_count": 255,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.7372384937238493,
+      "2": 0.17656903765690377,
+      "3": 0.06276150627615062,
+      "4": 0.013389121338912133,
+      "5": 0.0100418410041841
+    },
+    "sample_count": 1195,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.7760617760617762,
+      "2": 0.138996138996139,
+      "3": 0.06177606177606177,
+      "4": 0.015444015444015443,
+      "5": 0.007722007722007721
+    },
+    "sample_count": 259,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.35989717223650386,
+      "2": 0.18080548414738648,
+      "3": 0.17395029991431019,
+      "4": 0.13367609254498714,
+      "5": 0.15167095115681234
+    },
+    "sample_count": 1167,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.33460076045627374,
+      "2": 0.11406844106463877,
+      "3": 0.2129277566539924,
+      "4": 0.09125475285171103,
+      "5": 0.24714828897338403
+    },
+    "sample_count": 263,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.11063829787234042,
+      "2": 0.18893617021276596,
+      "3": 0.20425531914893616,
+      "4": 0.21021276595744678,
+      "5": 0.2859574468085106
+    },
+    "sample_count": 1175,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.08429118773946359,
+      "2": 0.14942528735632182,
+      "3": 0.2222222222222222,
+      "4": 0.1992337164750958,
+      "5": 0.3448275862068965
+    },
+    "sample_count": 261,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.2070957095709571,
+      "2": 0.3828382838283828,
+      "3": 0.20379537953795385,
+      "4": 0.16996699669966997,
+      "5": 0.0363036303630363
+    },
+    "sample_count": 1212,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.303030303030303,
+      "2": 0.35227272727272724,
+      "3": 0.16666666666666669,
+      "4": 0.1477272727272727,
+      "5": 0.030303030303030304
+    },
+    "sample_count": 264,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.14133986928104575,
+      "2": 0.8586601307189543
+    },
+    "sample_count": 1224,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.14015151515151514,
+      "2": 0.8598484848484851
+    },
+    "sample_count": 264,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.4316987740805604,
+      "2": 0.318739054290718,
+      "3": 0.17338003502626972,
+      "4": 0.07618213660245182
+    },
+    "sample_count": 1142,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.44664031620553357,
+      "2": 0.28063241106719367,
+      "3": 0.21739130434782608,
+      "4": 0.05533596837944664
+    },
+    "sample_count": 253,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.422360248447205,
+      "2": 0.3966282165039929,
+      "3": 0.13930789707187222,
+      "4": 0.04170363797692991
+    },
+    "sample_count": 1127,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.4593495934959349,
+      "2": 0.3170731707317074,
+      "3": 0.1138211382113821,
+      "4": 0.10975609756097558
+    },
+    "sample_count": 246,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5479094076655052,
+      "2": 0.2857142857142857,
+      "3": 0.12282229965156795,
+      "4": 0.04355400696864112
+    },
+    "sample_count": 1148,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.498069498069498,
+      "2": 0.2277992277992278,
+      "3": 0.22393822393822393,
+      "4": 0.05019305019305019
+    },
+    "sample_count": 259,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5752595155709342,
+      "2": 0.27595155709342556,
+      "3": 0.11332179930795847,
+      "4": 0.03546712802768166
+    },
+    "sample_count": 1156,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5877862595419846,
+      "2": 0.23282442748091603,
+      "3": 0.09541984732824428,
+      "4": 0.08396946564885496
+    },
+    "sample_count": 262,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5248041775456919,
+      "2": 0.268059181897302,
+      "3": 0.14186248912097477,
+      "4": 0.06527415143603132
+    },
+    "sample_count": 1149,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5490196078431372,
+      "2": 0.23137254901960785,
+      "3": 0.15294117647058822,
+      "4": 0.06666666666666667
+    },
+    "sample_count": 255,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5743415463041631,
+      "2": 0.27867459643160575,
+      "3": 0.10280373831775702,
+      "4": 0.04418011894647408
+    },
+    "sample_count": 1177,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.6,
+      "2": 0.25000000000000006,
+      "3": 0.0923076923076923,
+      "4": 0.057692307692307696
+    },
+    "sample_count": 260,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5016528925619834,
+      "2": 0.3297520661157025,
+      "3": 0.12479338842975206,
+      "4": 0.043801652892561986
+    },
+    "sample_count": 1210,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5465116279069768,
+      "2": 0.3023255813953488,
+      "3": 0.10852713178294573,
+      "4": 0.04263565891472868
+    },
+    "sample_count": 258,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.5353191489361703,
+      "2": 0.2970212765957447,
+      "3": 0.1225531914893617,
+      "4": 0.04510638297872341
+    },
+    "sample_count": 1175,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.597609561752988,
+      "2": 0.22310756972111553,
+      "3": 0.13545816733067728,
+      "4": 0.043824701195219126
+    },
+    "sample_count": 251,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3319362950544845,
+      "2": 0.4199497066219614,
+      "3": 0.19865884325230512,
+      "4": 0.03269069572506287,
+      "5": 0.016764459346186082
+    },
+    "sample_count": 1193,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.38167938931297707,
+      "2": 0.3549618320610687,
+      "3": 0.18320610687022904,
+      "4": 0.03816793893129771,
+      "5": 0.04198473282442748
+    },
+    "sample_count": 262,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3322231473771857,
+      "2": 0.3946711074104913,
+      "3": 0.19650291423813487,
+      "4": 0.0607826810990841,
+      "5": 0.015820149875104078
+    },
+    "sample_count": 1201,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "India"
+    },
+    "p_real": {
+      "1": 0.3929961089494164,
+      "2": 0.3385214007782101,
+      "3": 0.19066147859922183,
+      "4": 0.042801556420233464,
+      "5": 0.03501945525291829
+    },
+    "sample_count": 257,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  }
+]

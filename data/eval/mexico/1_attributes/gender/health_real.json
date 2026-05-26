@@ -1,0 +1,3170 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.1573033707865169,
+      "2": 0.3910112359550562,
+      "3": 0.21348314606741575,
+      "4": 0.17752808988764043,
+      "5": 0.029213483146067417,
+      "6": 0.02247191011235955,
+      "7": 0.008988764044943821
+    },
+    "sample_count": 445,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.1411290322580645,
+      "2": 0.4354838709677419,
+      "3": 0.1935483870967742,
+      "4": 0.17943548387096772,
+      "5": 0.020161290322580645,
+      "6": 0.02016129032258064,
+      "7": 0.010080645161290322
+    },
+    "sample_count": 496,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.06981981981981981,
+      "2": 0.20270270270270271,
+      "3": 0.39414414414414406,
+      "4": 0.21171171171171171,
+      "5": 0.12162162162162161
+    },
+    "sample_count": 444,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.08316430020283976,
+      "2": 0.18458417849898578,
+      "3": 0.34077079107505076,
+      "4": 0.2494929006085193,
+      "5": 0.1419878296146045
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.09523809523809523,
+      "2": 0.22222222222222224,
+      "3": 0.15873015873015878,
+      "4": 0.17687074829931973,
+      "5": 0.3469387755102041
+    },
+    "sample_count": 441,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.13157894736842102,
+      "2": 0.22672064777327935,
+      "3": 0.08097165991902834,
+      "4": 0.19635627530364372,
+      "5": 0.3643724696356275
+    },
+    "sample_count": 494,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.07449209932279909,
+      "2": 0.2866817155756208,
+      "3": 0.1918735891647855,
+      "4": 0.3747178329571106,
+      "5": 0.07223476297968397
+    },
+    "sample_count": 443,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.07056451612903225,
+      "2": 0.2056451612903226,
+      "3": 0.20362903225806447,
+      "4": 0.42741935483870974,
+      "5": 0.09274193548387095
+    },
+    "sample_count": 496,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.0425055928411633,
+      "2": 0.1655480984340045,
+      "3": 0.10514541387024609,
+      "4": 0.44071588366890385,
+      "5": 0.24608501118568232
+    },
+    "sample_count": 447,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.064,
+      "2": 0.134,
+      "3": 0.062,
+      "4": 0.48200000000000004,
+      "5": 0.258
+    },
+    "sample_count": 500,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.1910112359550562,
+      "2": 0.39775280898876403,
+      "3": 0.22247191011235962,
+      "4": 0.12134831460674156,
+      "5": 0.06741573033707865
+    },
+    "sample_count": 445,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.27911646586345384,
+      "2": 0.3654618473895582,
+      "3": 0.1646586345381526,
+      "4": 0.142570281124498,
+      "5": 0.048192771084337345
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.08391608391608392,
+      "2": 0.1888111888111888,
+      "3": 0.12354312354312354,
+      "4": 0.20979020979020974,
+      "5": 0.3939393939393939
+    },
+    "sample_count": 429,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.05744680851063831,
+      "2": 0.17446808510638298,
+      "3": 0.1468085106382979,
+      "4": 0.2212765957446809,
+      "5": 0.4
+    },
+    "sample_count": 470,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.1896162528216704,
+      "2": 0.3927765237020316,
+      "3": 0.12189616252821671,
+      "4": 0.23476297968397292,
+      "5": 0.060948081264108354
+    },
+    "sample_count": 443,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.19635627530364375,
+      "2": 0.4048582995951418,
+      "3": 0.14372469635627527,
+      "4": 0.1862348178137652,
+      "5": 0.0688259109311741
+    },
+    "sample_count": 494,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.10068649885583525,
+      "2": 0.3775743707093821,
+      "3": 0.2311212814645309,
+      "4": 0.21967963386727687,
+      "5": 0.07093821510297484
+    },
+    "sample_count": 437,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.1127049180327869,
+      "2": 0.3770491803278688,
+      "3": 0.19877049180327874,
+      "4": 0.2418032786885246,
+      "5": 0.06967213114754098
+    },
+    "sample_count": 488,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.6912751677852348,
+      "2": 0.22371364653243847,
+      "3": 0.06487695749440715,
+      "4": 0.006711409395973154,
+      "5": 0.013422818791946307
+    },
+    "sample_count": 447,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.7034068136272545,
+      "2": 0.20841683366733466,
+      "3": 0.06012024048096192,
+      "4": 0.022044088176352707,
+      "5": 0.0060120240480961915
+    },
+    "sample_count": 499,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.14253897550111358,
+      "2": 0.3919821826280624,
+      "3": 0.3028953229398664,
+      "4": 0.0868596881959911,
+      "5": 0.0757238307349666
+    },
+    "sample_count": 449,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.12877263581488935,
+      "2": 0.37223340040241454,
+      "3": 0.2696177062374246,
+      "4": 0.15090543259557346,
+      "5": 0.07847082494969819
+    },
+    "sample_count": 497,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.16222222222222218,
+      "2": 0.31777777777777777,
+      "3": 0.4422222222222222,
+      "4": 0.05777777777777778,
+      "5": 0.02
+    },
+    "sample_count": 450,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.1325301204819277,
+      "2": 0.31526104417670686,
+      "3": 0.4497991967871487,
+      "4": 0.07630522088353414,
+      "5": 0.02610441767068273
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.15945330296127563,
+      "2": 0.27790432801822323,
+      "3": 0.2779043280182232,
+      "4": 0.18906605922551253,
+      "5": 0.09567198177676539
+    },
+    "sample_count": 439,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.18275154004106778,
+      "2": 0.22587268993839835,
+      "3": 0.26488706365503073,
+      "4": 0.188911704312115,
+      "5": 0.13757700205338808
+    },
+    "sample_count": 487,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.1714922048997773,
+      "2": 0.3897550111358574,
+      "3": 0.21826280623608013,
+      "4": 0.17594654788418707,
+      "5": 0.044543429844097995
+    },
+    "sample_count": 449,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.13793103448275862,
+      "2": 0.3651115618661257,
+      "3": 0.2210953346855984,
+      "4": 0.23529411764705885,
+      "5": 0.04056795131845842
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.16071428571428573,
+      "2": 0.4754464285714286,
+      "3": 0.2008928571428571,
+      "4": 0.13392857142857142,
+      "5": 0.02901785714285714
+    },
+    "sample_count": 448,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.15384615384615385,
+      "2": 0.45748987854251016,
+      "3": 0.20445344129554657,
+      "4": 0.16599190283400805,
+      "5": 0.018218623481781375
+    },
+    "sample_count": 494,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.12217194570135748,
+      "2": 0.3552036199095022,
+      "3": 0.251131221719457,
+      "4": 0.23755656108597284,
+      "5": 0.033936651583710405
+    },
+    "sample_count": 442,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.12371134020618556,
+      "2": 0.37113402061855666,
+      "3": 0.21443298969072164,
+      "4": 0.25773195876288657,
+      "5": 0.032989690721649485
+    },
+    "sample_count": 485,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.14125560538116594,
+      "2": 0.21973094170403593,
+      "3": 0.17488789237668162,
+      "4": 0.3318385650224216,
+      "5": 0.13228699551569506
+    },
+    "sample_count": 446,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.13963039014373718,
+      "2": 0.2895277207392196,
+      "3": 0.1704312114989733,
+      "4": 0.3223819301848049,
+      "5": 0.07802874743326488
+    },
+    "sample_count": 487,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.08830548926014319,
+      "2": 0.2816229116945107,
+      "3": 0.29594272076372313,
+      "4": 0.19570405727923623,
+      "5": 0.1384248210023866
+    },
+    "sample_count": 419,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.0891304347826087,
+      "2": 0.27826086956521734,
+      "3": 0.2956521739130435,
+      "4": 0.1934782608695652,
+      "5": 0.14347826086956522
+    },
+    "sample_count": 460,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.09777777777777778,
+      "2": 0.5488888888888889,
+      "3": 0.22666666666666663,
+      "4": 0.10666666666666667,
+      "5": 0.02
+    },
+    "sample_count": 450,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.10101010101010101,
+      "2": 0.5090909090909091,
+      "3": 0.23232323232323235,
+      "4": 0.1353535353535354,
+      "5": 0.022222222222222223
+    },
+    "sample_count": 495,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.08035714285714286,
+      "2": 0.4464285714285714,
+      "3": 0.2566964285714285,
+      "4": 0.19419642857142855,
+      "5": 0.02232142857142857
+    },
+    "sample_count": 448,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.08651911468812877,
+      "2": 0.4285714285714286,
+      "3": 0.27162977867203225,
+      "4": 0.19114688128772636,
+      "5": 0.022132796780684104
+    },
+    "sample_count": 497,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.19819819819819823,
+      "2": 0.29954954954954954,
+      "3": 0.3018018018018018,
+      "4": 0.1756756756756757,
+      "5": 0.02477477477477477
+    },
+    "sample_count": 444,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.1906693711967546,
+      "2": 0.283975659229209,
+      "3": 0.3184584178498986,
+      "4": 0.16632860040567954,
+      "5": 0.040567951318458424
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.15384615384615385,
+      "2": 0.07925407925407926,
+      "3": 0.12121212121212122,
+      "4": 0.1794871794871795,
+      "5": 0.2937062937062937,
+      "6": 0.1724941724941725
+    },
+    "sample_count": 429,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.15319148936170213,
+      "2": 0.05319148936170212,
+      "3": 0.10851063829787234,
+      "4": 0.1765957446808511,
+      "5": 0.3170212765957447,
+      "6": 0.19148936170212766
+    },
+    "sample_count": 470,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.10623556581986142,
+      "2": 0.32332563510392615,
+      "3": 0.33487297921478054,
+      "4": 0.15242494226327943,
+      "5": 0.0831408775981524
+    },
+    "sample_count": 433,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.1368421052631579,
+      "2": 0.2757894736842105,
+      "3": 0.3136842105263158,
+      "4": 0.16631578947368422,
+      "5": 0.10736842105263157
+    },
+    "sample_count": 475,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.2037037037037037,
+      "2": 0.31250000000000006,
+      "3": 0.30092592592592593,
+      "4": 0.1342592592592593,
+      "5": 0.048611111111111105
+    },
+    "sample_count": 432,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.21894736842105264,
+      "2": 0.28421052631578947,
+      "3": 0.2863157894736842,
+      "4": 0.1410526315789474,
+      "5": 0.06947368421052631
+    },
+    "sample_count": 475,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.3518518518518519,
+      "2": 0.30092592592592593,
+      "3": 0.24768518518518523,
+      "4": 0.08333333333333333,
+      "5": 0.016203703703703703
+    },
+    "sample_count": 432,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.38105263157894737,
+      "2": 0.2926315789473684,
+      "3": 0.22736842105263155,
+      "4": 0.07578947368421052,
+      "5": 0.023157894736842106
+    },
+    "sample_count": 475,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.05980861244019139,
+      "2": 0.40430622009569384,
+      "3": 0.2894736842105263,
+      "4": 0.20334928229665072,
+      "5": 0.04306220095693779
+    },
+    "sample_count": 418,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.0687361419068736,
+      "2": 0.37915742793791574,
+      "3": 0.2727272727272727,
+      "4": 0.24390243902439024,
+      "5": 0.03547671840354767
+    },
+    "sample_count": 451,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.06987951807228916,
+      "2": 0.46746987951807234,
+      "3": 0.2722891566265061,
+      "4": 0.14457831325301201,
+      "5": 0.04578313253012048
+    },
+    "sample_count": 415,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.06345733041575492,
+      "2": 0.5054704595185996,
+      "3": 0.21444201312910285,
+      "4": 0.19256017505470457,
+      "5": 0.024070021881838075
+    },
+    "sample_count": 457,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.06407322654462243,
+      "2": 0.39588100686498856,
+      "3": 0.1945080091533181,
+      "4": 0.2540045766590389,
+      "5": 0.09153318077803205
+    },
+    "sample_count": 437,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.06597938144329897,
+      "2": 0.32164948453608244,
+      "3": 0.14432989690721648,
+      "4": 0.33195876288659787,
+      "5": 0.1360824742268041
+    },
+    "sample_count": 485,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.06451612903225806,
+      "2": 0.36405529953917043,
+      "3": 0.2557603686635944,
+      "4": 0.23732718894009214,
+      "5": 0.0783410138248848
+    },
+    "sample_count": 434,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.05186721991701245,
+      "2": 0.3174273858921161,
+      "3": 0.23651452282157678,
+      "4": 0.29460580912863066,
+      "5": 0.09958506224066391
+    },
+    "sample_count": 482,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.15509259259259262,
+      "2": 0.3634259259259259,
+      "3": 0.2731481481481482,
+      "4": 0.16435185185185186,
+      "5": 0.04398148148148148
+    },
+    "sample_count": 432,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.17916666666666667,
+      "2": 0.3583333333333333,
+      "3": 0.22916666666666666,
+      "4": 0.18333333333333332,
+      "5": 0.05
+    },
+    "sample_count": 480,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.06334841628959277,
+      "2": 0.13122171945701358,
+      "3": 0.16968325791855204,
+      "4": 0.43891402714932126,
+      "5": 0.19683257918552038
+    },
+    "sample_count": 442,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.06924643584521387,
+      "2": 0.13645621181262732,
+      "3": 0.1629327902240326,
+      "4": 0.45417515274949083,
+      "5": 0.17718940936863548
+    },
+    "sample_count": 491,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.04357798165137615,
+      "2": 0.1146788990825688,
+      "3": 0.18577981651376146,
+      "4": 0.42889908256880727,
+      "5": 0.22706422018348627
+    },
+    "sample_count": 436,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.04583333333333333,
+      "2": 0.13124999999999998,
+      "3": 0.2041666666666667,
+      "4": 0.43749999999999994,
+      "5": 0.18125000000000002
+    },
+    "sample_count": 480,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.20945945945945948,
+      "2": 0.3806306306306306,
+      "3": 0.31756756756756754,
+      "4": 0.0518018018018018,
+      "5": 0.040540540540540536
+    },
+    "sample_count": 444,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.23076923076923075,
+      "2": 0.32995951417004055,
+      "3": 0.3441295546558704,
+      "4": 0.06477732793522267,
+      "5": 0.03036437246963563
+    },
+    "sample_count": 494,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.11685393258426965,
+      "2": 0.3752808988764045,
+      "3": 0.3640449438202248,
+      "4": 0.11011235955056177,
+      "5": 0.033707865168539325
+    },
+    "sample_count": 445,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.11895161290322581,
+      "2": 0.35685483870967744,
+      "3": 0.3649193548387097,
+      "4": 0.10887096774193548,
+      "5": 0.05040322580645162
+    },
+    "sample_count": 496,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.3085585585585585,
+      "2": 0.35360360360360354,
+      "3": 0.2387387387387388,
+      "4": 0.06531531531531531,
+      "5": 0.03378378378378378
+    },
+    "sample_count": 444,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.2686868686868687,
+      "2": 0.4080808080808081,
+      "3": 0.2404040404040404,
+      "4": 0.05454545454545454,
+      "5": 0.02828282828282828
+    },
+    "sample_count": 495,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.5395033860045146,
+      "2": 0.24830699774266365,
+      "3": 0.1399548532731377,
+      "4": 0.04514672686230249,
+      "5": 0.027088036117381493
+    },
+    "sample_count": 443,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.49598393574297195,
+      "2": 0.2911646586345382,
+      "3": 0.1506024096385542,
+      "4": 0.042168674698795185,
+      "5": 0.020080321285140562
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.47297297297297297,
+      "2": 0.29954954954954954,
+      "3": 0.15765765765765768,
+      "4": 0.036036036036036036,
+      "5": 0.03378378378378378
+    },
+    "sample_count": 444,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.43286573146292584,
+      "2": 0.3026052104208417,
+      "3": 0.18436873747494992,
+      "4": 0.04408817635270541,
+      "5": 0.036072144288577156
+    },
+    "sample_count": 499,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.09619686800894857,
+      "2": 0.37136465324384793,
+      "3": 0.3803131991051454,
+      "4": 0.12304250559284118,
+      "5": 0.029082774049217
+    },
+    "sample_count": 447,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.0707070707070707,
+      "2": 0.34141414141414145,
+      "3": 0.39191919191919194,
+      "4": 0.1454545454545455,
+      "5": 0.0505050505050505
+    },
+    "sample_count": 495,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.5337995337995338,
+      "2": 0.27039627039627034,
+      "3": 0.1351981351981352,
+      "4": 0.030303030303030304,
+      "5": 0.0303030303030303
+    },
+    "sample_count": 429,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.4927536231884058,
+      "2": 0.27122153209109734,
+      "3": 0.1656314699792961,
+      "4": 0.045548654244306416,
+      "5": 0.024844720496894408
+    },
+    "sample_count": 483,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.3197674418604652,
+      "2": 0.680232558139535
+    },
+    "sample_count": 344,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.3292079207920792,
+      "2": 0.6707920792079208
+    },
+    "sample_count": 404,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.30555555555555547,
+      "2": 0.6944444444444444
+    },
+    "sample_count": 360,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.29234338747099764,
+      "2": 0.7076566125290022
+    },
+    "sample_count": 431,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.28611111111111104,
+      "2": 0.7138888888888888
+    },
+    "sample_count": 360,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.3420427553444181,
+      "2": 0.657957244655582
+    },
+    "sample_count": 421,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.15081206496519722,
+      "2": 0.41995359628770307,
+      "3": 0.19025522041763343,
+      "4": 0.12296983758700696,
+      "5": 0.11600928074245939
+    },
+    "sample_count": 431,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.12809917355371903,
+      "2": 0.45661157024793386,
+      "3": 0.1714876033057851,
+      "4": 0.14462809917355368,
+      "5": 0.09917355371900827
+    },
+    "sample_count": 484,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.047732696897374714,
+      "2": 0.2410501193317422,
+      "3": 0.13842482100238662,
+      "4": 0.31503579952267297,
+      "5": 0.14319809069212408,
+      "6": 0.04057279236276849,
+      "7": 0.07398568019093077
+    },
+    "sample_count": 419,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.06479481641468683,
+      "2": 0.1922246220302376,
+      "3": 0.12311015118790497,
+      "4": 0.3088552915766739,
+      "5": 0.183585313174946,
+      "6": 0.05831533477321814,
+      "7": 0.06911447084233262
+    },
+    "sample_count": 463,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.09195402298850575,
+      "2": 0.31264367816091954,
+      "3": 0.2827586206896551,
+      "4": 0.22298850574712642,
+      "5": 0.052873563218390804,
+      "6": 0.029885057471264367,
+      "7": 0.006896551724137931
+    },
+    "sample_count": 435,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.12678936605316976,
+      "2": 0.29243353783231085,
+      "3": 0.2597137014314928,
+      "4": 0.18609406952965238,
+      "5": 0.07975460122699386,
+      "6": 0.044989775051124746,
+      "7": 0.010224948875255624
+    },
+    "sample_count": 489,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.07142857142857142,
+      "2": 0.30476190476190473,
+      "3": 0.24285714285714285,
+      "4": 0.30476190476190473,
+      "5": 0.01904761904761905,
+      "6": 0.02380952380952381,
+      "7": 0.03333333333333333
+    },
+    "sample_count": 210,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.08,
+      "2": 0.244,
+      "3": 0.296,
+      "4": 0.276,
+      "5": 0.044,
+      "6": 0.044,
+      "7": 0.016
+    },
+    "sample_count": 250,
+    "aggregated_from": 7,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.47991071428571425,
+      "2": 0.18749999999999997,
+      "3": 0.21428571428571427,
+      "4": 0.044642857142857144,
+      "5": 0.0625,
+      "6": 0.006696428571428572,
+      "7": 0.004464285714285714
+    },
+    "sample_count": 448,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.6346938775510205,
+      "2": 0.16326530612244897,
+      "3": 0.14693877551020407,
+      "4": 0.022448979591836733,
+      "5": 0.0326530612244898,
+      "6": 0.0,
+      "7": 0.0
+    },
+    "sample_count": 490,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.3636363636363637,
+      "2": 0.36136363636363633,
+      "3": 0.21136363636363634,
+      "4": 0.06136363636363637,
+      "5": 0.0022727272727272726
+    },
+    "sample_count": 440,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.5760649087221095,
+      "2": 0.29411764705882354,
+      "3": 0.09939148073022312,
+      "4": 0.02636916835699797,
+      "5": 0.004056795131845843
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.21621621621621623,
+      "2": 0.19594594594594594,
+      "3": 0.22747747747747749,
+      "4": 0.22072072072072074,
+      "5": 0.13963963963963966
+    },
+    "sample_count": 444,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.25,
+      "2": 0.20766129032258066,
+      "3": 0.2157258064516129,
+      "4": 0.21370967741935482,
+      "5": 0.11290322580645161
+    },
+    "sample_count": 496,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.013605442176870748,
+      "2": 0.07936507936507936,
+      "3": 0.21541950113378688,
+      "4": 0.44217687074829937,
+      "5": 0.24943310657596374
+    },
+    "sample_count": 441,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.012195121951219513,
+      "2": 0.07926829268292683,
+      "3": 0.24593495934959347,
+      "4": 0.3963414634146341,
+      "5": 0.266260162601626
+    },
+    "sample_count": 492,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.0824053452115813,
+      "2": 0.26726057906458794,
+      "3": 0.4387527839643652,
+      "4": 0.19376391982182622,
+      "5": 0.017817371937639197
+    },
+    "sample_count": 449,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.056680161943319846,
+      "2": 0.2793522267206478,
+      "3": 0.3866396761133603,
+      "4": 0.2631578947368421,
+      "5": 0.014170040485829958
+    },
+    "sample_count": 494,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.21577726218097448,
+      "2": 0.7842227378190257
+    },
+    "sample_count": 431,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.20770877944325478,
+      "2": 0.7922912205567452
+    },
+    "sample_count": 467,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.3227272727272727,
+      "2": 0.284090909090909,
+      "3": 0.14772727272727268,
+      "4": 0.24545454545454545
+    },
+    "sample_count": 440,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.2653061224489796,
+      "2": 0.3020408163265306,
+      "3": 0.20408163265306123,
+      "4": 0.22857142857142856
+    },
+    "sample_count": 490,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.363431151241535,
+      "2": 0.3069977426636569,
+      "3": 0.17381489841986453,
+      "4": 0.15575620767494355
+    },
+    "sample_count": 443,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.32388663967611336,
+      "2": 0.34817813765182193,
+      "3": 0.16194331983805668,
+      "4": 0.16599190283400808
+    },
+    "sample_count": 494,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.3280542986425339,
+      "2": 0.19004524886877833,
+      "3": 0.17647058823529413,
+      "4": 0.30542986425339363
+    },
+    "sample_count": 442,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.2868852459016393,
+      "2": 0.23565573770491802,
+      "3": 0.19262295081967215,
+      "4": 0.28483606557377045
+    },
+    "sample_count": 488,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.574610244988864,
+      "2": 0.2717149220489978,
+      "3": 0.0868596881959911,
+      "4": 0.066815144766147
+    },
+    "sample_count": 449,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.5587044534412955,
+      "2": 0.2975708502024292,
+      "3": 0.08502024291497977,
+      "4": 0.058704453441295545
+    },
+    "sample_count": 494,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.5444191343963554,
+      "2": 0.25740318906605925,
+      "3": 0.1070615034168565,
+      "4": 0.09111617312072894
+    },
+    "sample_count": 439,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Mexico"
+    },
+    "p_real": {
+      "1": 0.4848484848484849,
+      "2": 0.3131313131313132,
+      "3": 0.11313131313131314,
+      "4": 0.08888888888888889
+    },
+    "sample_count": 495,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  }
+]

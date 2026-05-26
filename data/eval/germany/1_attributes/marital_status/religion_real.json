@@ -1,0 +1,3138 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.24439701173959447,
+      "2": 0.7097118463180363,
+      "3": 0.04268943436499466,
+      "4": 0.0032017075773745998
+    },
+    "sample_count": 937,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.16784203102961917,
+      "2": 0.6840620592383638,
+      "3": 0.1311706629055007,
+      "4": 0.01692524682651622
+    },
+    "sample_count": 709,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.32312565997888065,
+      "2": 0.4456177402323125,
+      "3": 0.18585005279831046,
+      "4": 0.017951425554382262,
+      "5": 0.026399155227032737,
+      "6": 0.0010559662090813093,
+      "7": 0.0
+    },
+    "sample_count": 947,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2796143250688705,
+      "2": 0.40082644628099173,
+      "3": 0.20385674931129477,
+      "4": 0.05234159779614325,
+      "5": 0.04269972451790634,
+      "6": 0.012396694214876033,
+      "7": 0.008264462809917356
+    },
+    "sample_count": 726,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.461447212336892,
+      "2": 0.32028469750889677,
+      "3": 0.1542111506524318,
+      "4": 0.06405693950177936
+    },
+    "sample_count": 843,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.42442748091603044,
+      "2": 0.28396946564885495,
+      "3": 0.1648854961832061,
+      "4": 0.1267175572519084
+    },
+    "sample_count": 655,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.16148325358851673,
+      "2": 0.06937799043062201,
+      "3": 0.11842105263157894,
+      "4": 0.6507177033492823
+    },
+    "sample_count": 836,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1126126126126126,
+      "2": 0.04504504504504504,
+      "3": 0.09909909909909909,
+      "4": 0.7432432432432432
+    },
+    "sample_count": 666,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2658227848101266,
+      "2": 0.16570771001150753,
+      "3": 0.23705408515535098,
+      "4": 0.33141542002301494
+    },
+    "sample_count": 869,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2583454281567489,
+      "2": 0.1436865021770682,
+      "3": 0.23367198838896952,
+      "4": 0.3642960812772134
+    },
+    "sample_count": 689,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.045310853530031614,
+      "2": 0.0737618545837724,
+      "3": 0.1475237091675448,
+      "4": 0.22760800842992623,
+      "5": 0.505795574288725
+    },
+    "sample_count": 949,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.023255813953488372,
+      "2": 0.058823529411764705,
+      "3": 0.16826265389876885,
+      "4": 0.2558139534883721,
+      "5": 0.49384404924760605
+    },
+    "sample_count": 731,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.038751345532831,
+      "2": 0.29278794402583425,
+      "3": 0.4155005382131324,
+      "4": 0.19052744886975242,
+      "5": 0.062432723358449946
+    },
+    "sample_count": 929,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.02401129943502825,
+      "2": 0.2598870056497175,
+      "3": 0.4336158192090395,
+      "4": 0.19350282485875706,
+      "5": 0.08898305084745763
+    },
+    "sample_count": 708,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.02396514161220044,
+      "2": 0.2745098039215686,
+      "3": 0.47821350762527226,
+      "4": 0.196078431372549,
+      "5": 0.027233115468409588
+    },
+    "sample_count": 918,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.019830028328611894,
+      "2": 0.23371104815864022,
+      "3": 0.5,
+      "4": 0.19830028328611898,
+      "5": 0.0481586402266289
+    },
+    "sample_count": 706,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.027180067950169872,
+      "2": 0.20611551528878824,
+      "3": 0.3737259343148358,
+      "4": 0.2536806342015855,
+      "5": 0.1392978482446206
+    },
+    "sample_count": 883,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.023460410557184747,
+      "2": 0.1378299120234604,
+      "3": 0.30938416422287385,
+      "4": 0.313782991202346,
+      "5": 0.21554252199413487
+    },
+    "sample_count": 682,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.09569892473118279,
+      "2": 0.43655913978494626,
+      "3": 0.3279569892473118,
+      "4": 0.1139784946236559,
+      "5": 0.025806451612903226
+    },
+    "sample_count": 930,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.08437067773167357,
+      "2": 0.38450899031811897,
+      "3": 0.343015214384509,
+      "4": 0.1341632088520055,
+      "5": 0.05394190871369295
+    },
+    "sample_count": 723,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06330472103004291,
+      "2": 0.4270386266094421,
+      "3": 0.38733905579399147,
+      "4": 0.10407725321888413,
+      "5": 0.018240343347639486
+    },
+    "sample_count": 932,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07883817427385892,
+      "2": 0.41078838174273863,
+      "3": 0.37482710926694335,
+      "4": 0.10788381742738588,
+      "5": 0.027662517289073305
+    },
+    "sample_count": 723,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.6320960698689956,
+      "2": 0.21179039301310043,
+      "3": 0.08296943231441048,
+      "4": 0.03711790393013101,
+      "5": 0.036026200873362446
+    },
+    "sample_count": 916,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5945945945945946,
+      "2": 0.23613086770981506,
+      "3": 0.08392603129445234,
+      "4": 0.052631578947368425,
+      "5": 0.032716927453769556
+    },
+    "sample_count": 703,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.03761061946902655,
+      "2": 0.12168141592920353,
+      "3": 0.23451327433628316,
+      "4": 0.27544247787610615,
+      "5": 0.3307522123893805
+    },
+    "sample_count": 904,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.034582132564841495,
+      "2": 0.10086455331412104,
+      "3": 0.19740634005763688,
+      "4": 0.2636887608069164,
+      "5": 0.4034582132564842
+    },
+    "sample_count": 694,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3096280087527353,
+      "2": 0.4201312910284463,
+      "3": 0.14113785557986872,
+      "4": 0.11269146608315099,
+      "5": 0.01641137855579869
+    },
+    "sample_count": 914,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.33049645390070925,
+      "2": 0.40992907801418443,
+      "3": 0.15319148936170213,
+      "4": 0.07943262411347517,
+      "5": 0.026950354609929075
+    },
+    "sample_count": 705,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3307522123893806,
+      "2": 0.44911504424778764,
+      "3": 0.12942477876106195,
+      "4": 0.07300884955752211,
+      "5": 0.017699115044247787
+    },
+    "sample_count": 904,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.36766809728183114,
+      "2": 0.40772532188841204,
+      "3": 0.12303290414878398,
+      "4": 0.07582260371959942,
+      "5": 0.02575107296137339
+    },
+    "sample_count": 699,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.089873417721519,
+      "2": 0.36835443037974686,
+      "3": 0.5012658227848101,
+      "4": 0.035443037974683546,
+      "5": 0.005063291139240506
+    },
+    "sample_count": 790,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1341653666146646,
+      "2": 0.3931357254290172,
+      "3": 0.41965678627145087,
+      "4": 0.0421216848673947,
+      "5": 0.0109204368174727
+    },
+    "sample_count": 641,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.43340857787810383,
+      "2": 0.44130925507900676,
+      "3": 0.0981941309255079,
+      "4": 0.02708803611738149
+    },
+    "sample_count": 886,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.49712643678160917,
+      "2": 0.34913793103448276,
+      "3": 0.10632183908045977,
+      "4": 0.04741379310344827
+    },
+    "sample_count": 696,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.034909909909909914,
+      "2": 0.11148648648648649,
+      "3": 0.38063063063063063,
+      "4": 0.47297297297297297
+    },
+    "sample_count": 888,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06231884057971015,
+      "2": 0.15217391304347827,
+      "3": 0.3521739130434782,
+      "4": 0.43333333333333335
+    },
+    "sample_count": 690,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.02517162471395881,
+      "2": 0.10411899313501145,
+      "3": 0.38558352402745993,
+      "4": 0.4851258581235698
+    },
+    "sample_count": 874,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.05014749262536873,
+      "2": 0.1474926253687316,
+      "3": 0.37168141592920356,
+      "4": 0.43067846607669613
+    },
+    "sample_count": 678,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.23764458464773922,
+      "2": 0.12302839116719243,
+      "3": 0.18086225026288122,
+      "4": 0.08622502628811775,
+      "5": 0.16929547844374343,
+      "6": 0.20294426919032593
+    },
+    "sample_count": 951,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2926829268292683,
+      "2": 0.15311653116531165,
+      "3": 0.20460704607046068,
+      "4": 0.07452574525745258,
+      "5": 0.13008130081300814,
+      "6": 0.14498644986449866
+    },
+    "sample_count": 738,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2797546012269939,
+      "2": 0.18282208588957055,
+      "3": 0.07607361963190183,
+      "4": 0.46134969325153374
+    },
+    "sample_count": 815,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3450920245398773,
+      "2": 0.22085889570552145,
+      "3": 0.05981595092024539,
+      "4": 0.37423312883435583
+    },
+    "sample_count": 652,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.17790697674418604,
+      "2": 0.213953488372093,
+      "3": 0.25813953488372093,
+      "4": 0.35
+    },
+    "sample_count": 860,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.16920731707317074,
+      "2": 0.2652439024390244,
+      "3": 0.2332317073170732,
+      "4": 0.3323170731707317
+    },
+    "sample_count": 656,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1530373831775701,
+      "2": 0.1810747663551402,
+      "3": 0.24766355140186913,
+      "4": 0.4182242990654206
+    },
+    "sample_count": 856,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1270801815431165,
+      "2": 0.18910741301059,
+      "3": 0.2662632375189108,
+      "4": 0.4175491679273827
+    },
+    "sample_count": 661,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.08254716981132075,
+      "2": 0.08962264150943396,
+      "3": 0.2971698113207547,
+      "4": 0.5306603773584906
+    },
+    "sample_count": 848,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07890743550834597,
+      "2": 0.09559939301972685,
+      "3": 0.3171471927162367,
+      "4": 0.5083459787556904
+    },
+    "sample_count": 659,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.21177802944507362,
+      "2": 0.3250283125707814,
+      "3": 0.22763306908267272,
+      "4": 0.23556058890147225
+    },
+    "sample_count": 883,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.23303834808259588,
+      "2": 0.3687315634218289,
+      "3": 0.17551622418879056,
+      "4": 0.22271386430678466
+    },
+    "sample_count": 678,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06470588235294118,
+      "2": 0.13411764705882354,
+      "3": 0.28235294117647064,
+      "4": 0.5188235294117647
+    },
+    "sample_count": 850,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07480916030534351,
+      "2": 0.18167938931297709,
+      "3": 0.2549618320610687,
+      "4": 0.4885496183206107
+    },
+    "sample_count": 655,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11282660332541568,
+      "2": 0.169833729216152,
+      "3": 0.13895486935866982,
+      "4": 0.1817102137767221,
+      "5": 0.3966745843230403
+    },
+    "sample_count": 842,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.0785824345146379,
+      "2": 0.16178736517719572,
+      "3": 0.1325115562403698,
+      "4": 0.20801232665639446,
+      "5": 0.4191063174114022
+    },
+    "sample_count": 649,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.043859649122807015,
+      "2": 0.08991228070175439,
+      "3": 0.07236842105263158,
+      "4": 0.4517543859649123,
+      "5": 0.34210526315789475
+    },
+    "sample_count": 912,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.031073446327683614,
+      "2": 0.10875706214689267,
+      "3": 0.1228813559322034,
+      "4": 0.3813559322033898,
+      "5": 0.3559322033898305
+    },
+    "sample_count": 708,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06067415730337078,
+      "2": 0.08314606741573036,
+      "3": 0.14494382022471908,
+      "4": 0.24494382022471908,
+      "5": 0.46629213483146076
+    },
+    "sample_count": 890,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.044733044733044736,
+      "2": 0.060606060606060615,
+      "3": 0.1168831168831169,
+      "4": 0.20490620490620487,
+      "5": 0.572871572871573
+    },
+    "sample_count": 693,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.011627906976744186,
+      "2": 0.06046511627906977,
+      "3": 0.1127906976744186,
+      "4": 0.3302325581395349,
+      "5": 0.4848837209302325
+    },
+    "sample_count": 860,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.022321428571428572,
+      "2": 0.05505952380952381,
+      "3": 0.17113095238095238,
+      "4": 0.33482142857142866,
+      "5": 0.41666666666666674
+    },
+    "sample_count": 672,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3713968957871397,
+      "2": 0.44678492239467854,
+      "3": 0.08647450110864745,
+      "4": 0.0565410199556541,
+      "5": 0.038802660753880266
+    },
+    "sample_count": 902,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.41963015647226176,
+      "2": 0.4452347083926031,
+      "3": 0.0825035561877667,
+      "4": 0.025604551920341397,
+      "5": 0.02702702702702702
+    },
+    "sample_count": 703,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.158675799086758,
+      "2": 0.2922374429223744,
+      "3": 0.14383561643835618,
+      "4": 0.12100456621004566,
+      "5": 0.2842465753424657
+    },
+    "sample_count": 876,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.15892053973013492,
+      "2": 0.2728635682158921,
+      "3": 0.16041979010494753,
+      "4": 0.09595202398800598,
+      "5": 0.3118440779610195
+    },
+    "sample_count": 667,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3390216154721274,
+      "2": 0.43458475540386793,
+      "3": 0.22184300341296925,
+      "4": 0.004550625711035267
+    },
+    "sample_count": 879,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.39104477611940297,
+      "2": 0.3537313432835821,
+      "3": 0.25373134328358216,
+      "4": 0.0014925373134328358
+    },
+    "sample_count": 670,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.20350877192982456,
+      "2": 0.09239766081871345,
+      "3": 0.1847953216374269,
+      "4": 0.16608187134502925,
+      "5": 0.05380116959064327,
+      "6": 0.0760233918128655,
+      "7": 0.07719298245614034,
+      "8": 0.12514619883040937,
+      "9": 0.02105263157894737
+    },
+    "sample_count": 855,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.23358778625954205,
+      "2": 0.10381679389312977,
+      "3": 0.1618320610687023,
+      "4": 0.166412213740458,
+      "5": 0.06259541984732825,
+      "6": 0.05954198473282442,
+      "7": 0.08091603053435113,
+      "8": 0.10687022900763359,
+      "9": 0.02442748091603053
+    },
+    "sample_count": 655,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.29318734793187345,
+      "2": 0.11435523114355231,
+      "3": 0.1642335766423358,
+      "4": 0.13990267639902676,
+      "5": 0.05961070559610705,
+      "6": 0.049878345498783457,
+      "7": 0.06934306569343066,
+      "8": 0.09975669099756691,
+      "9": 0.009732360097323603
+    },
+    "sample_count": 822,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.30546623794212224,
+      "2": 0.1302250803858521,
+      "3": 0.18810289389067525,
+      "4": 0.10610932475884245,
+      "5": 0.05144694533762058,
+      "6": 0.04019292604501607,
+      "7": 0.06913183279742766,
+      "8": 0.090032154340836,
+      "9": 0.019292604501607715
+    },
+    "sample_count": 622,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2156013001083424,
+      "2": 0.05308775731310943,
+      "3": 0.10184182015167931,
+      "4": 0.13542795232936078,
+      "5": 0.09534127843986998,
+      "6": 0.10509209100758396,
+      "7": 0.11592632719393282,
+      "8": 0.15059588299024915,
+      "9": 0.027085590465872156
+    },
+    "sample_count": 923,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.23249299719887956,
+      "2": 0.0700280112044818,
+      "3": 0.14005602240896356,
+      "4": 0.1330532212885154,
+      "5": 0.06862745098039215,
+      "6": 0.07563025210084033,
+      "7": 0.1092436974789916,
+      "8": 0.1358543417366947,
+      "9": 0.0350140056022409
+    },
+    "sample_count": 714,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.4372384937238494,
+      "2": 0.13702928870292885,
+      "3": 0.18410041841004185,
+      "4": 0.1579497907949791,
+      "5": 0.03138075313807531,
+      "6": 0.01569037656903766,
+      "7": 0.011506276150627614,
+      "8": 0.017782426778242676,
+      "9": 0.007322175732217572
+    },
+    "sample_count": 956,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5578231292517006,
+      "2": 0.17006802721088435,
+      "3": 0.13197278911564628,
+      "4": 0.08299319727891157,
+      "5": 0.020408163265306124,
+      "6": 0.009523809523809525,
+      "7": 0.017687074829931974,
+      "8": 0.00816326530612245,
+      "9": 0.001360544217687075
+    },
+    "sample_count": 735,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.29516806722689076,
+      "2": 0.7048319327731093
+    },
+    "sample_count": 952,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.28299319727891153,
+      "2": 0.7170068027210885
+    },
+    "sample_count": 735,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.22584033613445378,
+      "2": 0.7741596638655462
+    },
+    "sample_count": 952,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.20136054421768707,
+      "2": 0.7986394557823129
+    },
+    "sample_count": 735,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.8065194532071503,
+      "2": 0.11251314405888539,
+      "3": 0.05152471083070452,
+      "4": 0.02523659305993691,
+      "5": 0.004206098843322818
+    },
+    "sample_count": 951,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.8283783783783785,
+      "2": 0.09594594594594595,
+      "3": 0.051351351351351354,
+      "4": 0.02027027027027027,
+      "5": 0.004054054054054054
+    },
+    "sample_count": 740,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.011714589989350373,
+      "2": 0.07987220447284345,
+      "3": 0.28647497337593186,
+      "4": 0.12353567625133119,
+      "5": 0.11075612353567625,
+      "6": 0.1299254526091587,
+      "7": 0.2577209797657082
+    },
+    "sample_count": 939,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.00554016620498615,
+      "2": 0.06509695290858726,
+      "3": 0.1994459833795014,
+      "4": 0.12326869806094183,
+      "5": 0.11911357340720223,
+      "6": 0.13850415512465375,
+      "7": 0.34903047091412737
+    },
+    "sample_count": 722,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.14443084455324356,
+      "2": 0.24847001223990206,
+      "3": 0.13953488372093023,
+      "4": 0.46756425948592406
+    },
+    "sample_count": 817,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10675039246467817,
+      "2": 0.19623233908948193,
+      "3": 0.18681318681318682,
+      "4": 0.510204081632653
+    },
+    "sample_count": 637,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11017964071856287,
+      "2": 0.4179640718562874,
+      "3": 0.2658682634730539,
+      "4": 0.11377245508982035,
+      "5": 0.09221556886227546
+    },
+    "sample_count": 835,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.097444089456869,
+      "2": 0.3993610223642172,
+      "3": 0.27955271565495204,
+      "4": 0.11182108626198083,
+      "5": 0.11182108626198084
+    },
+    "sample_count": 626,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.34192825112107617,
+      "2": 0.5190582959641256,
+      "3": 0.06053811659192825,
+      "4": 0.034753363228699555,
+      "5": 0.04372197309417041
+    },
+    "sample_count": 892,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3202328966521107,
+      "2": 0.50509461426492,
+      "3": 0.09024745269286753,
+      "4": 0.02183406113537118,
+      "5": 0.06259097525473072
+    },
+    "sample_count": 687,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.15884476534296027,
+      "2": 0.3682310469314079,
+      "3": 0.23947051744885678,
+      "4": 0.14440433212996392,
+      "5": 0.08904933814681107
+    },
+    "sample_count": 831,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.20370370370370366,
+      "2": 0.39969135802469136,
+      "3": 0.2037037037037037,
+      "4": 0.12037037037037036,
+      "5": 0.07253086419753087
+    },
+    "sample_count": 648,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.15887850467289721,
+      "2": 0.39836448598130847,
+      "3": 0.26869158878504673,
+      "4": 0.125,
+      "5": 0.04906542056074767
+    },
+    "sample_count": 856,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.15680473372781065,
+      "2": 0.35502958579881655,
+      "3": 0.2766272189349112,
+      "4": 0.14940828402366865,
+      "5": 0.062130177514792904
+    },
+    "sample_count": 676,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.022041763341067284,
+      "2": 0.09164733178654291,
+      "3": 0.18561484918793503,
+      "4": 0.419953596287703,
+      "5": 0.2807424593967517
+    },
+    "sample_count": 862,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.019374068554396422,
+      "2": 0.09985096870342772,
+      "3": 0.22354694485842028,
+      "4": 0.3725782414307004,
+      "5": 0.28464977645305517
+    },
+    "sample_count": 671,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.05904522613065327,
+      "2": 0.2550251256281407,
+      "3": 0.3341708542713568,
+      "4": 0.27135678391959805,
+      "5": 0.08040201005025126
+    },
+    "sample_count": 796,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.08675078864353312,
+      "2": 0.29652996845425866,
+      "3": 0.3233438485804417,
+      "4": 0.20662460567823346,
+      "5": 0.08675078864353312
+    },
+    "sample_count": 634,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.025149700598802397,
+      "2": 0.12335329341317365,
+      "3": 0.12455089820359283,
+      "4": 0.5532934131736528,
+      "5": 0.17365269461077842
+    },
+    "sample_count": 835,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.03358778625954199,
+      "2": 0.08549618320610687,
+      "3": 0.1618320610687023,
+      "4": 0.5068702290076336,
+      "5": 0.21221374045801528
+    },
+    "sample_count": 655,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2420814479638009,
+      "2": 0.45248868778280543,
+      "3": 0.29638009049773756,
+      "4": 0.009049773755656108,
+      "5": 0.0
+    },
+    "sample_count": 884,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.19854014598540146,
+      "2": 0.3956204379562044,
+      "3": 0.3927007299270073,
+      "4": 0.01167883211678832,
+      "5": 0.00145985401459854
+    },
+    "sample_count": 685,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06929510155316607,
+      "2": 0.1660692951015532,
+      "3": 0.4671445639187575,
+      "4": 0.22222222222222224,
+      "5": 0.07526881720430109
+    },
+    "sample_count": 837,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.046898638426626324,
+      "2": 0.16036308623298032,
+      "3": 0.4901664145234493,
+      "4": 0.2223903177004539,
+      "5": 0.08018154311649017
+    },
+    "sample_count": 661,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07891156462585035,
+      "2": 0.22857142857142856,
+      "3": 0.5986394557823129,
+      "4": 0.06802721088435373,
+      "5": 0.025850340136054424
+    },
+    "sample_count": 735,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06303236797274277,
+      "2": 0.22657580919931858,
+      "3": 0.6218057921635435,
+      "4": 0.04770017035775127,
+      "5": 0.04088586030664395
+    },
+    "sample_count": 587,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10933333333333335,
+      "2": 0.28666666666666674,
+      "3": 0.5253333333333333,
+      "4": 0.056,
+      "5": 0.022666666666666665
+    },
+    "sample_count": 750,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10166666666666667,
+      "2": 0.2983333333333333,
+      "3": 0.5366666666666667,
+      "4": 0.03,
+      "5": 0.03333333333333333
+    },
+    "sample_count": 600,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07653701380175659,
+      "2": 0.26474278544542035,
+      "3": 0.5884567126725219,
+      "4": 0.06148055207026349,
+      "5": 0.008782936010037642
+    },
+    "sample_count": 797,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06351791530944625,
+      "2": 0.24755700325732896,
+      "3": 0.6042345276872965,
+      "4": 0.04885993485342019,
+      "5": 0.035830618892508145
+    },
+    "sample_count": 614,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11529126213592232,
+      "2": 0.29004854368932037,
+      "3": 0.5351941747572815,
+      "4": 0.04126213592233009,
+      "5": 0.018203883495145626
+    },
+    "sample_count": 824,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1201848998459168,
+      "2": 0.28197226502311246,
+      "3": 0.5331278890600925,
+      "4": 0.03852080123266564,
+      "5": 0.026194144838212634
+    },
+    "sample_count": 649,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "In general, would you say your health is…",
+    "category": "religion",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.08176100628930816,
+      "2": 0.22955974842767293,
+      "3": 0.44025157232704404,
+      "4": 0.2012578616352201,
+      "5": 0.04716981132075472
+    },
+    "sample_count": 954,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "In general, would you say your health is…",
+    "category": "religion",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1103542234332425,
+      "2": 0.2588555858310626,
+      "3": 0.36376021798365127,
+      "4": 0.20572207084468666,
+      "5": 0.06130790190735695
+    },
+    "sample_count": 734,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  }
+]

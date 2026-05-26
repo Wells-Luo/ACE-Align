@@ -1,0 +1,3438 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08307692307692308,
+      "2": 0.3538461538461538,
+      "3": 0.4061538461538461,
+      "4": 0.0846153846153846,
+      "5": 0.049230769230769224,
+      "6": 0.016923076923076923,
+      "7": 0.006153846153846154
+    },
+    "sample_count": 650,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.05990783410138247,
+      "2": 0.2649769585253456,
+      "3": 0.42165898617511527,
+      "4": 0.1313364055299539,
+      "5": 0.08525345622119815,
+      "6": 0.027649769585253458,
+      "7": 0.009216589861751152
+    },
+    "sample_count": 434,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04594180704441041,
+      "2": 0.35528330781010714,
+      "3": 0.45635528330781006,
+      "4": 0.11638591117917305,
+      "5": 0.026033690658499233
+    },
+    "sample_count": 653,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.06192660550458716,
+      "2": 0.3509174311926606,
+      "3": 0.4174311926605504,
+      "4": 0.12844036697247707,
+      "5": 0.04128440366972477
+    },
+    "sample_count": 436,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.09627329192546584,
+      "2": 0.17546583850931677,
+      "3": 0.23913043478260868,
+      "4": 0.2608695652173913,
+      "5": 0.2282608695652174
+    },
+    "sample_count": 644,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08294930875576036,
+      "2": 0.13364055299539168,
+      "3": 0.20046082949308755,
+      "4": 0.26497695852534564,
+      "5": 0.31797235023041476
+    },
+    "sample_count": 434,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0528,
+      "2": 0.3168,
+      "3": 0.328,
+      "4": 0.26560000000000006,
+      "5": 0.036800000000000006
+    },
+    "sample_count": 625,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.054373522458628844,
+      "2": 0.24586288416075652,
+      "3": 0.32387706855791965,
+      "4": 0.29550827423167847,
+      "5": 0.08037825059101654
+    },
+    "sample_count": 423,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.028391167192429026,
+      "2": 0.10725552050473186,
+      "3": 0.08517350157728706,
+      "4": 0.5047318611987381,
+      "5": 0.2744479495268139
+    },
+    "sample_count": 634,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03271028037383178,
+      "2": 0.0794392523364486,
+      "3": 0.08644859813084112,
+      "4": 0.4602803738317756,
+      "5": 0.34112149532710273
+    },
+    "sample_count": 428,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.10078740157480315,
+      "2": 0.3228346456692914,
+      "3": 0.2236220472440945,
+      "4": 0.3118110236220472,
+      "5": 0.04094488188976378
+    },
+    "sample_count": 635,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0919811320754717,
+      "2": 0.33254716981132076,
+      "3": 0.2476415094339623,
+      "4": 0.2688679245283019,
+      "5": 0.05896226415094339
+    },
+    "sample_count": 424,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08749999999999998,
+      "2": 0.325,
+      "3": 0.1953125,
+      "4": 0.22343750000000004,
+      "5": 0.16875
+    },
+    "sample_count": 640,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.10117647058823528,
+      "2": 0.3058823529411765,
+      "3": 0.22117647058823528,
+      "4": 0.2,
+      "5": 0.17176470588235293
+    },
+    "sample_count": 425,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04709576138147567,
+      "2": 0.24960753532182103,
+      "3": 0.13971742543171115,
+      "4": 0.3940345368916798,
+      "5": 0.1695447409733124
+    },
+    "sample_count": 637,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.09324009324009325,
+      "2": 0.29603729603729606,
+      "3": 0.14219114219114218,
+      "4": 0.29137529137529133,
+      "5": 0.17715617715617712
+    },
+    "sample_count": 429,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.036334913112164295,
+      "2": 0.3396524486571879,
+      "3": 0.24644549763033174,
+      "4": 0.282780410742496,
+      "5": 0.09478672985781988
+    },
+    "sample_count": 633,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.10978520286396183,
+      "2": 0.31980906921241053,
+      "3": 0.2362768496420048,
+      "4": 0.24105011933174222,
+      "5": 0.09307875894988066
+    },
+    "sample_count": 419,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4556765163297045,
+      "2": 0.28771384136858486,
+      "3": 0.2348367029548989,
+      "4": 0.01866251944012442,
+      "5": 0.003110419906687403
+    },
+    "sample_count": 643,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5206422018348624,
+      "2": 0.2912844036697248,
+      "3": 0.16284403669724776,
+      "4": 0.020642201834862386,
+      "5": 0.0045871559633027525
+    },
+    "sample_count": 436,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04416403785488958,
+      "2": 0.1829652996845426,
+      "3": 0.5772870662460567,
+      "4": 0.16561514195583596,
+      "5": 0.02996845425867508
+    },
+    "sample_count": 634,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.05128205128205128,
+      "2": 0.2424242424242425,
+      "3": 0.5011655011655011,
+      "4": 0.15617715617715616,
+      "5": 0.048951048951048945
+    },
+    "sample_count": 429,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.011164274322169059,
+      "2": 0.09090909090909091,
+      "3": 0.8309409888357258,
+      "4": 0.06060606060606061,
+      "5": 0.006379585326953748
+    },
+    "sample_count": 627,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.021897810218978103,
+      "2": 0.0827250608272506,
+      "3": 0.7615571776155718,
+      "4": 0.10948905109489052,
+      "5": 0.024330900243309007
+    },
+    "sample_count": 411,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.14134275618374556,
+      "2": 0.2932862190812721,
+      "3": 0.41519434628975266,
+      "4": 0.11660777385159012,
+      "5": 0.03356890459363958
+    },
+    "sample_count": 566,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.16326530612244897,
+      "2": 0.29336734693877553,
+      "3": 0.33928571428571425,
+      "4": 0.15306122448979592,
+      "5": 0.051020408163265314
+    },
+    "sample_count": 392,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08962264150943397,
+      "2": 0.46855345911949686,
+      "3": 0.25471698113207547,
+      "4": 0.15723270440251572,
+      "5": 0.029874213836477988
+    },
+    "sample_count": 636,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1152073732718894,
+      "2": 0.4147465437788018,
+      "3": 0.24654377880184333,
+      "4": 0.16359447004608293,
+      "5": 0.059907834101382486
+    },
+    "sample_count": 434,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.07097791798107256,
+      "2": 0.5867507886435332,
+      "3": 0.2476340694006309,
+      "4": 0.08832807570977919,
+      "5": 0.006309148264984228
+    },
+    "sample_count": 634,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1152073732718894,
+      "2": 0.5783410138248848,
+      "3": 0.21428571428571425,
+      "4": 0.07603686635944701,
+      "5": 0.016129032258064516
+    },
+    "sample_count": 434,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.07655502392344497,
+      "2": 0.5566188197767145,
+      "3": 0.2567783094098884,
+      "4": 0.09569377990430622,
+      "5": 0.014354066985645932
+    },
+    "sample_count": 627,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.11241217798594849,
+      "2": 0.522248243559719,
+      "3": 0.2693208430913349,
+      "4": 0.06557377049180327,
+      "5": 0.030444964871194375
+    },
+    "sample_count": 427,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.09206349206349206,
+      "2": 0.4111111111111111,
+      "3": 0.24603174603174602,
+      "4": 0.20793650793650795,
+      "5": 0.042857142857142864
+    },
+    "sample_count": 630,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.13720930232558137,
+      "2": 0.4325581395348837,
+      "3": 0.2465116279069767,
+      "4": 0.13488372093023254,
+      "5": 0.04883720930232558
+    },
+    "sample_count": 430,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.02527646129541864,
+      "2": 0.09004739336492891,
+      "3": 0.3744075829383886,
+      "4": 0.36018957345971564,
+      "5": 0.15007898894154817
+    },
+    "sample_count": 633,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.06635071090047394,
+      "2": 0.10426540284360189,
+      "3": 0.37440758293838866,
+      "4": 0.3151658767772512,
+      "5": 0.13981042654028436
+    },
+    "sample_count": 422,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.16358024691358022,
+      "2": 0.6450617283950618,
+      "3": 0.13117283950617284,
+      "4": 0.05401234567901234,
+      "5": 0.006172839506172839
+    },
+    "sample_count": 648,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1643835616438356,
+      "2": 0.6141552511415523,
+      "3": 0.1552511415525114,
+      "4": 0.05707762557077625,
+      "5": 0.0091324200913242
+    },
+    "sample_count": 438,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.028616852146263912,
+      "2": 0.21303656597774248,
+      "3": 0.2861685214626391,
+      "4": 0.4101748807631161,
+      "5": 0.06200317965023847
+    },
+    "sample_count": 629,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.046948356807511735,
+      "2": 0.1971830985915493,
+      "3": 0.2934272300469483,
+      "4": 0.39906103286384975,
+      "5": 0.06338028169014086
+    },
+    "sample_count": 426,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.020634920634920638,
+      "2": 0.1111111111111111,
+      "3": 0.2746031746031746,
+      "4": 0.45873015873015877,
+      "5": 0.13492063492063489
+    },
+    "sample_count": 630,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.030303030303030304,
+      "2": 0.12354312354312355,
+      "3": 0.27972027972027974,
+      "4": 0.3986013986013986,
+      "5": 0.16783216783216784
+    },
+    "sample_count": 429,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.030206677265500793,
+      "2": 0.01271860095389507,
+      "3": 0.06518282988871224,
+      "4": 0.21621621621621623,
+      "5": 0.39268680445151033,
+      "6": 0.28298887122416533
+    },
+    "sample_count": 629,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03233830845771144,
+      "2": 0.02487562189054726,
+      "3": 0.08706467661691543,
+      "4": 0.22636815920398007,
+      "5": 0.38805970149253727,
+      "6": 0.24129353233830844
+    },
+    "sample_count": 402,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.25641025641025644,
+      "2": 0.24358974358974358,
+      "3": 0.328525641025641,
+      "4": 0.12820512820512822,
+      "5": 0.04326923076923077
+    },
+    "sample_count": 624,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.21890547263681592,
+      "2": 0.1791044776119403,
+      "3": 0.32587064676616917,
+      "4": 0.18159203980099503,
+      "5": 0.0945273631840796
+    },
+    "sample_count": 402,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4,
+      "2": 0.26612903225806456,
+      "3": 0.22903225806451613,
+      "4": 0.07419354838709677,
+      "5": 0.030645161290322583
+    },
+    "sample_count": 620,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3383084577114428,
+      "2": 0.21144278606965175,
+      "3": 0.2736318407960199,
+      "4": 0.11691542288557215,
+      "5": 0.05970149253731343
+    },
+    "sample_count": 402,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.22705314009661837,
+      "2": 0.24315619967793875,
+      "3": 0.3397745571658615,
+      "4": 0.1352657004830918,
+      "5": 0.05475040257648953
+    },
+    "sample_count": 621,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2202970297029703,
+      "2": 0.24257425742574257,
+      "3": 0.29702970297029707,
+      "4": 0.15594059405940597,
+      "5": 0.08415841584158415
+    },
+    "sample_count": 404,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.019966722129783693,
+      "2": 0.30282861896838603,
+      "3": 0.4642262895174708,
+      "4": 0.1547420965058236,
+      "5": 0.05823627287853577
+    },
+    "sample_count": 601,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.02077922077922078,
+      "2": 0.3090909090909091,
+      "3": 0.4233766233766234,
+      "4": 0.1974025974025974,
+      "5": 0.04935064935064935
+    },
+    "sample_count": 385,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0338409475465313,
+      "2": 0.4297800338409475,
+      "3": 0.34179357021996615,
+      "4": 0.14382402707275802,
+      "5": 0.050761421319796954
+    },
+    "sample_count": 591,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.05,
+      "2": 0.4342105263157895,
+      "3": 0.32368421052631585,
+      "4": 0.14473684210526316,
+      "5": 0.04736842105263158
+    },
+    "sample_count": 380,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0208,
+      "2": 0.45759999999999995,
+      "3": 0.2704,
+      "4": 0.2144,
+      "5": 0.0368
+    },
+    "sample_count": 625,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03605769230769231,
+      "2": 0.4254807692307692,
+      "3": 0.25961538461538464,
+      "4": 0.22115384615384615,
+      "5": 0.057692307692307696
+    },
+    "sample_count": 416,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.011200000000000002,
+      "2": 0.33759999999999996,
+      "3": 0.3168,
+      "4": 0.2752,
+      "5": 0.0592
+    },
+    "sample_count": 625,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03640776699029127,
+      "2": 0.27427184466019416,
+      "3": 0.30339805825242716,
+      "4": 0.3131067961165049,
+      "5": 0.07281553398058252
+    },
+    "sample_count": 412,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.18403908794788276,
+      "2": 0.47557003257328995,
+      "3": 0.2019543973941368,
+      "4": 0.12214983713355049,
+      "5": 0.016286644951140065
+    },
+    "sample_count": 614,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.23076923076923078,
+      "2": 0.44711538461538464,
+      "3": 0.1947115384615385,
+      "4": 0.12019230769230768,
+      "5": 0.007211538461538462
+    },
+    "sample_count": 416,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03565891472868217,
+      "2": 0.046511627906976744,
+      "3": 0.08062015503875969,
+      "4": 0.296124031007752,
+      "5": 0.5410852713178295
+    },
+    "sample_count": 645,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.048611111111111105,
+      "2": 0.037037037037037035,
+      "3": 0.11111111111111109,
+      "4": 0.32175925925925924,
+      "5": 0.4814814814814815
+    },
+    "sample_count": 432,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.018808777429467086,
+      "2": 0.054858934169279006,
+      "3": 0.13793103448275862,
+      "4": 0.32758620689655177,
+      "5": 0.46081504702194365
+    },
+    "sample_count": 638,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03009259259259259,
+      "2": 0.06018518518518519,
+      "3": 0.13425925925925927,
+      "4": 0.33564814814814814,
+      "5": 0.4398148148148148
+    },
+    "sample_count": 432,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.43451463790446837,
+      "2": 0.2480739599383667,
+      "3": 0.214175654853621,
+      "4": 0.06471494607087828,
+      "5": 0.038520801232665644
+    },
+    "sample_count": 649,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.378440366972477,
+      "2": 0.2201834862385321,
+      "3": 0.2178899082568807,
+      "4": 0.09862385321100918,
+      "5": 0.08486238532110092
+    },
+    "sample_count": 436,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.13559322033898305,
+      "2": 0.22958397534668723,
+      "3": 0.36209553158705704,
+      "4": 0.1818181818181818,
+      "5": 0.0909090909090909
+    },
+    "sample_count": 649,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.13636363636363635,
+      "2": 0.22045454545454543,
+      "3": 0.32954545454545453,
+      "4": 0.18181818181818182,
+      "5": 0.1318181818181818
+    },
+    "sample_count": 440,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.31384615384615383,
+      "2": 0.3384615384615385,
+      "3": 0.27076923076923076,
+      "4": 0.04769230769230769,
+      "5": 0.02923076923076923
+    },
+    "sample_count": 650,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2632794457274827,
+      "2": 0.27020785219399535,
+      "3": 0.30715935334872985,
+      "4": 0.09930715935334873,
+      "5": 0.06004618937644342
+    },
+    "sample_count": 433,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4155038759689923,
+      "2": 0.2697674418604651,
+      "3": 0.23410852713178296,
+      "4": 0.05271317829457364,
+      "5": 0.027906976744186046
+    },
+    "sample_count": 645,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3279445727482679,
+      "2": 0.2471131639722864,
+      "3": 0.2471131639722864,
+      "4": 0.11316397228637412,
+      "5": 0.06466512702078522
+    },
+    "sample_count": 433,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5286821705426357,
+      "2": 0.26821705426356585,
+      "3": 0.1565891472868217,
+      "4": 0.023255813953488372,
+      "5": 0.023255813953488372
+    },
+    "sample_count": 645,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4511627906976744,
+      "2": 0.2558139534883721,
+      "3": 0.16046511627906976,
+      "4": 0.08372093023255814,
+      "5": 0.04883720930232558
+    },
+    "sample_count": 430,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.12598425196850394,
+      "2": 0.36062992125984245,
+      "3": 0.38740157480314963,
+      "4": 0.10866141732283464,
+      "5": 0.01732283464566929
+    },
+    "sample_count": 635,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.14351851851851855,
+      "2": 0.2847222222222222,
+      "3": 0.4050925925925926,
+      "4": 0.12268518518518517,
+      "5": 0.04398148148148148
+    },
+    "sample_count": 432,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.7133956386292833,
+      "2": 0.13239875389408098,
+      "3": 0.11682242990654206,
+      "4": 0.02336448598130841,
+      "5": 0.014018691588785048
+    },
+    "sample_count": 642,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.7159353348729792,
+      "2": 0.11778290993071594,
+      "3": 0.10392609699769054,
+      "4": 0.04849884526558892,
+      "5": 0.013856812933025405
+    },
+    "sample_count": 433,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08206106870229007,
+      "2": 0.91793893129771
+    },
+    "sample_count": 524,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.16763005780346824,
+      "2": 0.8323699421965318
+    },
+    "sample_count": 346,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1007751937984496,
+      "2": 0.8992248062015505
+    },
+    "sample_count": 516,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.12536443148688045,
+      "2": 0.8746355685131195
+    },
+    "sample_count": 343,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.22157996146435455,
+      "2": 0.7784200385356455
+    },
+    "sample_count": 519,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.24783861671469737,
+      "2": 0.7521613832853027
+    },
+    "sample_count": 347,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.23712948517940718,
+      "2": 0.45085803432137284,
+      "3": 0.24492979719188768,
+      "4": 0.059282371294851796,
+      "5": 0.0078003120124804995
+    },
+    "sample_count": 641,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.24113475177304966,
+      "2": 0.4160756501182033,
+      "3": 0.24349881796690312,
+      "4": 0.08747044917257685,
+      "5": 0.01182033096926714
+    },
+    "sample_count": 423,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.049535603715170275,
+      "2": 0.22755417956656346,
+      "3": 0.45510835913312686,
+      "4": 0.09133126934984519,
+      "5": 0.12229102167182662,
+      "6": 0.041795665634674926,
+      "7": 0.01238390092879257
+    },
+    "sample_count": 646,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.041379310344827586,
+      "2": 0.22298850574712642,
+      "3": 0.42758620689655175,
+      "4": 0.13563218390804596,
+      "5": 0.11954022988505747,
+      "6": 0.041379310344827586,
+      "7": 0.011494252873563218
+    },
+    "sample_count": 435,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.20879120879120877,
+      "2": 0.40031397174254324,
+      "3": 0.2951334379905809,
+      "4": 0.03453689167974882,
+      "5": 0.03767660910518054,
+      "6": 0.012558869701726844,
+      "7": 0.01098901098901099
+    },
+    "sample_count": 637,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.20470588235294118,
+      "2": 0.35764705882352943,
+      "3": 0.2847058823529412,
+      "4": 0.07294117647058823,
+      "5": 0.05176470588235295,
+      "6": 0.021176470588235293,
+      "7": 0.007058823529411765
+    },
+    "sample_count": 425,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15841584158415845,
+      "2": 0.3366336633663367,
+      "3": 0.3118811881188119,
+      "4": 0.16336633663366337,
+      "5": 0.009900990099009901,
+      "6": 0.0,
+      "7": 0.019801980198019806
+    },
+    "sample_count": 202,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15753424657534246,
+      "2": 0.26027397260273977,
+      "3": 0.3561643835616438,
+      "4": 0.14383561643835616,
+      "5": 0.0684931506849315,
+      "6": 0.0,
+      "7": 0.0136986301369863
+    },
+    "sample_count": 146,
+    "aggregated_from": 7,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.6315789473684211,
+      "2": 0.3312693498452013,
+      "3": 0.009287925696594427,
+      "4": 0.01238390092879257,
+      "5": 0.013931888544891642,
+      "6": 0.0015479876160990713,
+      "7": 0.0
+    },
+    "sample_count": 646,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5881006864988558,
+      "2": 0.3363844393592677,
+      "3": 0.04347826086956521,
+      "4": 0.011441647597254002,
+      "5": 0.016018306636155603,
+      "6": 0.004576659038901601,
+      "7": 0.0
+    },
+    "sample_count": 437,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5562403697996919,
+      "2": 0.26348228043143296,
+      "3": 0.10939907550077044,
+      "4": 0.0539291217257319,
+      "5": 0.01694915254237288
+    },
+    "sample_count": 649,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5356321839080459,
+      "2": 0.28505747126436776,
+      "3": 0.11724137931034483,
+      "4": 0.05057471264367816,
+      "5": 0.011494252873563218
+    },
+    "sample_count": 435,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.06998444790046657,
+      "2": 0.1259720062208398,
+      "3": 0.2332814930015552,
+      "4": 0.36547433903576987,
+      "5": 0.2052877138413686
+    },
+    "sample_count": 643,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.09389671361502347,
+      "2": 0.13849765258215965,
+      "3": 0.20187793427230044,
+      "4": 0.3943661971830986,
+      "5": 0.17136150234741782
+    },
+    "sample_count": 426,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0015527950310559007,
+      "2": 0.006211180124223603,
+      "3": 0.03571428571428572,
+      "4": 0.21428571428571427,
+      "5": 0.7422360248447204
+    },
+    "sample_count": 644,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.002325581395348837,
+      "2": 0.023255813953488372,
+      "3": 0.08139534883720931,
+      "4": 0.28837209302325584,
+      "5": 0.6046511627906976
+    },
+    "sample_count": 430,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.07987711213517666,
+      "2": 0.348694316436252,
+      "3": 0.4070660522273426,
+      "4": 0.13364055299539174,
+      "5": 0.030721966205837174
+    },
+    "sample_count": 651,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.06666666666666668,
+      "2": 0.25057471264367814,
+      "3": 0.40689655172413797,
+      "4": 0.18620689655172415,
+      "5": 0.0896551724137931
+    },
+    "sample_count": 435,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3647604327666152,
+      "2": 0.6352395672333848
+    },
+    "sample_count": 647,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4405594405594405,
+      "2": 0.5594405594405594
+    },
+    "sample_count": 429,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4006309148264984,
+      "2": 0.3438485804416404,
+      "3": 0.14668769716088328,
+      "4": 0.10883280757097791
+    },
+    "sample_count": 634,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.40095465393794744,
+      "2": 0.3627684964200477,
+      "3": 0.1360381861575179,
+      "4": 0.10023866348448685
+    },
+    "sample_count": 419,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.468944099378882,
+      "2": 0.33850931677018625,
+      "3": 0.12111801242236025,
+      "4": 0.07142857142857144
+    },
+    "sample_count": 644,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4799054373522459,
+      "2": 0.36406619385342787,
+      "3": 0.07565011820330968,
+      "4": 0.08037825059101655
+    },
+    "sample_count": 423,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.38125,
+      "2": 0.36875,
+      "3": 0.1234375,
+      "4": 0.1265625
+    },
+    "sample_count": 640,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.38823529411764707,
+      "2": 0.36235294117647054,
+      "3": 0.13882352941176468,
+      "4": 0.11058823529411763
+    },
+    "sample_count": 425,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5472868217054263,
+      "2": 0.3255813953488372,
+      "3": 0.06976744186046512,
+      "4": 0.05736434108527132
+    },
+    "sample_count": 645,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5823665893271462,
+      "2": 0.2946635730858469,
+      "3": 0.05568445475638051,
+      "4": 0.06728538283062645
+    },
+    "sample_count": 431,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5178849144634525,
+      "2": 0.3312597200622084,
+      "3": 0.07931570762052878,
+      "4": 0.07153965785381027
+    },
+    "sample_count": 643,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.528169014084507,
+      "2": 0.32629107981220656,
+      "3": 0.06572769953051644,
+      "4": 0.07981220657276994
+    },
+    "sample_count": 426,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.6319875776397514,
+      "2": 0.29347826086956524,
+      "3": 0.05124223602484472,
+      "4": 0.023291925465838505
+    },
+    "sample_count": 644,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.6487119437939111,
+      "2": 0.288056206088993,
+      "3": 0.023419203747072598,
+      "4": 0.039812646370023415
+    },
+    "sample_count": 427,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4992223950233281,
+      "2": 0.370139968895801,
+      "3": 0.07465007776049769,
+      "4": 0.05598755832037326
+    },
+    "sample_count": 643,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5094339622641509,
+      "2": 0.36084905660377364,
+      "3": 0.08018867924528303,
+      "4": 0.04952830188679245
+    },
+    "sample_count": 424,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.6537267080745341,
+      "2": 0.2546583850931677,
+      "3": 0.06366459627329192,
+      "4": 0.02795031055900621
+    },
+    "sample_count": 644,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.6993006993006994,
+      "2": 0.2051282051282051,
+      "3": 0.053613053613053616,
+      "4": 0.04195804195804196
+    },
+    "sample_count": 429,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2363919129082426,
+      "2": 0.21306376360808713,
+      "3": 0.3265940902021773,
+      "4": 0.12597200622083982,
+      "5": 0.09797822706065319
+    },
+    "sample_count": 643,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.23953488372093026,
+      "2": 0.24186046511627907,
+      "3": 0.313953488372093,
+      "4": 0.13255813953488374,
+      "5": 0.07209302325581395
+    },
+    "sample_count": 430,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.290625,
+      "2": 0.19843750000000002,
+      "3": 0.17031250000000003,
+      "4": 0.125,
+      "5": 0.215625
+    },
+    "sample_count": 640,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.29836829836829837,
+      "2": 0.2167832167832168,
+      "3": 0.20279720279720279,
+      "4": 0.11655011655011654,
+      "5": 0.1655011655011655
+    },
+    "sample_count": 429,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  }
+]

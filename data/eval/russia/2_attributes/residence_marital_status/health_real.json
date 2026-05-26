@@ -1,0 +1,7034 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.12909090909090912,
+      "2": 0.13272727272727272,
+      "3": 0.5145454545454546,
+      "4": 0.16363636363636366,
+      "5": 0.045454545454545456,
+      "6": 0.0036363636363636364,
+      "7": 0.01090909090909091
+    },
+    "sample_count": 550,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.10767160161507404,
+      "2": 0.13593539703903096,
+      "3": 0.48452220726783307,
+      "4": 0.17227456258411844,
+      "5": 0.07940780619111708,
+      "6": 0.008075370121130552,
+      "7": 0.012113055181695828
+    },
+    "sample_count": 743,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1597222222222222,
+      "2": 0.11111111111111112,
+      "3": 0.4444444444444444,
+      "4": 0.18055555555555558,
+      "5": 0.07638888888888888,
+      "6": 0.020833333333333332,
+      "7": 0.006944444444444445
+    },
+    "sample_count": 144,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14782608695652175,
+      "2": 0.1565217391304348,
+      "3": 0.5217391304347826,
+      "4": 0.07826086956521738,
+      "5": 0.0782608695652174,
+      "6": 0.0,
+      "7": 0.017391304347826087
+    },
+    "sample_count": 115,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.06927175843694494,
+      "2": 0.14031971580817051,
+      "3": 0.4120781527531084,
+      "4": 0.22202486678507993,
+      "5": 0.15630550621669625
+    },
+    "sample_count": 563,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.08695652173913043,
+      "2": 0.13043478260869565,
+      "3": 0.391304347826087,
+      "4": 0.23715415019762848,
+      "5": 0.15415019762845852
+    },
+    "sample_count": 759,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.11971830985915491,
+      "2": 0.09859154929577466,
+      "3": 0.37323943661971826,
+      "4": 0.20422535211267606,
+      "5": 0.20422535211267606
+    },
+    "sample_count": 142,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.12068965517241378,
+      "2": 0.13793103448275862,
+      "3": 0.33620689655172414,
+      "4": 0.29310344827586204,
+      "5": 0.11206896551724138
+    },
+    "sample_count": 116,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.11010830324909747,
+      "2": 0.15342960288808663,
+      "3": 0.2075812274368231,
+      "4": 0.2490974729241877,
+      "5": 0.27978339350180503
+    },
+    "sample_count": 554,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.11756756756756757,
+      "2": 0.17972972972972973,
+      "3": 0.22162162162162163,
+      "4": 0.2243243243243243,
+      "5": 0.2567567567567568
+    },
+    "sample_count": 740,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14893617021276595,
+      "2": 0.06382978723404255,
+      "3": 0.2695035460992908,
+      "4": 0.19858156028368795,
+      "5": 0.3191489361702127
+    },
+    "sample_count": 141,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1111111111111111,
+      "2": 0.14529914529914528,
+      "3": 0.19658119658119658,
+      "4": 0.21367521367521367,
+      "5": 0.33333333333333337
+    },
+    "sample_count": 117,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.0633147113594041,
+      "2": 0.17318435754189945,
+      "3": 0.22905027932960895,
+      "4": 0.27932960893854747,
+      "5": 0.25512104283054
+    },
+    "sample_count": 537,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1229050279329609,
+      "2": 0.18016759776536312,
+      "3": 0.18854748603351956,
+      "4": 0.2751396648044693,
+      "5": 0.23324022346368717
+    },
+    "sample_count": 716,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.16814159292035397,
+      "2": 0.1415929203539823,
+      "3": 0.18584070796460178,
+      "4": 0.2831858407079646,
+      "5": 0.22123893805309736
+    },
+    "sample_count": 113,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14705882352941174,
+      "2": 0.12499999999999999,
+      "3": 0.19117647058823528,
+      "4": 0.22058823529411764,
+      "5": 0.3161764705882353
+    },
+    "sample_count": 136,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.09764918625678118,
+      "2": 0.1338155515370705,
+      "3": 0.09764918625678119,
+      "4": 0.27848101265822783,
+      "5": 0.3924050632911393
+    },
+    "sample_count": 553,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.15612382234185734,
+      "2": 0.1426648721399731,
+      "3": 0.09286675639300135,
+      "4": 0.24629878869448185,
+      "5": 0.3620457604306864
+    },
+    "sample_count": 743,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2116788321167883,
+      "2": 0.12408759124087593,
+      "3": 0.10218978102189782,
+      "4": 0.23357664233576642,
+      "5": 0.3284671532846715
+    },
+    "sample_count": 137,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14529914529914528,
+      "2": 0.15384615384615385,
+      "3": 0.09401709401709402,
+      "4": 0.24786324786324787,
+      "5": 0.358974358974359
+    },
+    "sample_count": 117,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3127272727272727,
+      "2": 0.2581818181818182,
+      "3": 0.19636363636363638,
+      "4": 0.16,
+      "5": 0.07272727272727272
+    },
+    "sample_count": 550,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.31854838709677424,
+      "2": 0.228494623655914,
+      "3": 0.19623655913978497,
+      "4": 0.1639784946236559,
+      "5": 0.09274193548387097
+    },
+    "sample_count": 744,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3333333333333333,
+      "2": 0.2152777777777778,
+      "3": 0.1736111111111111,
+      "4": 0.16666666666666669,
+      "5": 0.11111111111111112
+    },
+    "sample_count": 144,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.35344827586206895,
+      "2": 0.1810344827586207,
+      "3": 0.25,
+      "4": 0.1293103448275862,
+      "5": 0.08620689655172414
+    },
+    "sample_count": 116,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07207207207207209,
+      "2": 0.10990990990990991,
+      "3": 0.1063063063063063,
+      "4": 0.1873873873873874,
+      "5": 0.5243243243243244
+    },
+    "sample_count": 555,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.055999999999999994,
+      "2": 0.12933333333333336,
+      "3": 0.108,
+      "4": 0.15599999999999997,
+      "5": 0.5506666666666666
+    },
+    "sample_count": 750,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07913669064748202,
+      "2": 0.1079136690647482,
+      "3": 0.08633093525179857,
+      "4": 0.18705035971223022,
+      "5": 0.539568345323741
+    },
+    "sample_count": 139,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07692307692307693,
+      "2": 0.13675213675213677,
+      "3": 0.07692307692307693,
+      "4": 0.18803418803418803,
+      "5": 0.5213675213675214
+    },
+    "sample_count": 117,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.36021505376344093,
+      "2": 0.2903225806451613,
+      "3": 0.12903225806451613,
+      "4": 0.12007168458781362,
+      "5": 0.10035842293906809
+    },
+    "sample_count": 558,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4558823529411765,
+      "2": 0.2700534759358289,
+      "3": 0.10695187165775402,
+      "4": 0.07486631016042782,
+      "5": 0.09224598930481281
+    },
+    "sample_count": 748,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5310344827586208,
+      "2": 0.2413793103448276,
+      "3": 0.0896551724137931,
+      "4": 0.07586206896551724,
+      "5": 0.06206896551724138
+    },
+    "sample_count": 145,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4358974358974359,
+      "2": 0.23076923076923078,
+      "3": 0.1794871794871795,
+      "4": 0.08547008547008547,
+      "5": 0.06837606837606838
+    },
+    "sample_count": 117,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.26238532110091745,
+      "2": 0.30091743119266057,
+      "3": 0.1706422018348624,
+      "4": 0.1577981651376147,
+      "5": 0.10825688073394496
+    },
+    "sample_count": 545,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3328804347826087,
+      "2": 0.25815217391304346,
+      "3": 0.1480978260869565,
+      "4": 0.13451086956521738,
+      "5": 0.1263586956521739
+    },
+    "sample_count": 736,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3571428571428571,
+      "2": 0.17857142857142858,
+      "3": 0.1875,
+      "4": 0.1607142857142857,
+      "5": 0.11607142857142858
+    },
+    "sample_count": 112,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.362962962962963,
+      "2": 0.21481481481481482,
+      "3": 0.14074074074074075,
+      "4": 0.16296296296296298,
+      "5": 0.11851851851851852
+    },
+    "sample_count": 135,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.7773788150807901,
+      "2": 0.12387791741472173,
+      "3": 0.07540394973070019,
+      "4": 0.01615798922800718,
+      "5": 0.00718132854578097
+    },
+    "sample_count": 557,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.7853333333333332,
+      "2": 0.10266666666666666,
+      "3": 0.08133333333333333,
+      "4": 0.012,
+      "5": 0.018666666666666665
+    },
+    "sample_count": 750,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.7446808510638299,
+      "2": 0.09929078014184396,
+      "3": 0.10638297872340427,
+      "4": 0.03546099290780142,
+      "5": 0.014184397163120567
+    },
+    "sample_count": 141,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.8347826086956522,
+      "2": 0.06956521739130435,
+      "3": 0.05217391304347826,
+      "4": 0.026086956521739132,
+      "5": 0.017391304347826087
+    },
+    "sample_count": 115,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.06764168190127971,
+      "2": 0.09140767824497259,
+      "3": 0.42047531992687387,
+      "4": 0.24680073126142596,
+      "5": 0.1736745886654479
+    },
+    "sample_count": 547,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07277628032345014,
+      "2": 0.1091644204851752,
+      "3": 0.37466307277628036,
+      "4": 0.22911051212938008,
+      "5": 0.2142857142857143
+    },
+    "sample_count": 742,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1357142857142857,
+      "2": 0.1357142857142857,
+      "3": 0.3,
+      "4": 0.2357142857142857,
+      "5": 0.19285714285714284
+    },
+    "sample_count": 140,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.05309734513274336,
+      "2": 0.07079646017699115,
+      "3": 0.38938053097345127,
+      "4": 0.36283185840707965,
+      "5": 0.12389380530973451
+    },
+    "sample_count": 113,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.02214022140221402,
+      "2": 0.060885608856088555,
+      "3": 0.8800738007380073,
+      "4": 0.03136531365313654,
+      "5": 0.005535055350553506
+    },
+    "sample_count": 542,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.030513176144244106,
+      "2": 0.07073509015256588,
+      "3": 0.8474341192787795,
+      "4": 0.033287101248266296,
+      "5": 0.018030513176144243
+    },
+    "sample_count": 721,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.04424778761061947,
+      "3": 0.911504424778761,
+      "4": 0.02654867256637168,
+      "5": 0.017699115044247787
+    },
+    "sample_count": 113,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.050359712230215826,
+      "2": 0.06474820143884892,
+      "3": 0.8273381294964028,
+      "4": 0.02877697841726619,
+      "5": 0.028776978417266185
+    },
+    "sample_count": 139,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.27480916030534347,
+      "2": 0.2538167938931298,
+      "3": 0.19274809160305342,
+      "4": 0.1965648854961832,
+      "5": 0.08206106870229006
+    },
+    "sample_count": 524,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2686781609195402,
+      "2": 0.23706896551724138,
+      "3": 0.1954022988505747,
+      "4": 0.17816091954022986,
+      "5": 0.12068965517241378
+    },
+    "sample_count": 696,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3769230769230769,
+      "2": 0.13076923076923078,
+      "3": 0.14615384615384616,
+      "4": 0.19230769230769232,
+      "5": 0.15384615384615385
+    },
+    "sample_count": 130,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3465346534653465,
+      "2": 0.11881188118811882,
+      "3": 0.22772277227722773,
+      "4": 0.12871287128712872,
+      "5": 0.1782178217821782
+    },
+    "sample_count": 101,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.21762589928057557,
+      "2": 0.2805755395683453,
+      "3": 0.2535971223021583,
+      "4": 0.15467625899280577,
+      "5": 0.09352517985611511
+    },
+    "sample_count": 556,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2753036437246964,
+      "2": 0.2968960863697706,
+      "3": 0.21592442645074225,
+      "4": 0.1349527665317139,
+      "5": 0.07692307692307693
+    },
+    "sample_count": 741,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.29577464788732394,
+      "2": 0.23943661971830987,
+      "3": 0.21126760563380279,
+      "4": 0.09859154929577464,
+      "5": 0.15492957746478872
+    },
+    "sample_count": 142,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2413793103448276,
+      "2": 0.21551724137931033,
+      "3": 0.3448275862068966,
+      "4": 0.12068965517241378,
+      "5": 0.07758620689655171
+    },
+    "sample_count": 116,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3776595744680851,
+      "2": 0.42907801418439717,
+      "3": 0.13297872340425532,
+      "4": 0.03723404255319149,
+      "5": 0.02304964539007092
+    },
+    "sample_count": 564,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4155495978552279,
+      "2": 0.39276139410187666,
+      "3": 0.12466487935656835,
+      "4": 0.04825737265415549,
+      "5": 0.01876675603217158
+    },
+    "sample_count": 746,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.38571428571428573,
+      "2": 0.3571428571428571,
+      "3": 0.15,
+      "4": 0.021428571428571425,
+      "5": 0.0857142857142857
+    },
+    "sample_count": 140,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.39830508474576276,
+      "2": 0.288135593220339,
+      "3": 0.1864406779661017,
+      "4": 0.07627118644067797,
+      "5": 0.05084745762711865
+    },
+    "sample_count": 118,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.23132969034608378,
+      "2": 0.2823315118397085,
+      "3": 0.2641165755919854,
+      "4": 0.1366120218579235,
+      "5": 0.08561020036429873
+    },
+    "sample_count": 549,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.27983539094650206,
+      "2": 0.32098765432098764,
+      "3": 0.2194787379972565,
+      "4": 0.10973936899862827,
+      "5": 0.06995884773662552
+    },
+    "sample_count": 729,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2631578947368421,
+      "2": 0.3458646616541353,
+      "3": 0.16541353383458646,
+      "4": 0.12030075187969924,
+      "5": 0.10526315789473684
+    },
+    "sample_count": 133,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3181818181818182,
+      "2": 0.24545454545454543,
+      "3": 0.24545454545454545,
+      "4": 0.11818181818181817,
+      "5": 0.07272727272727272
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.25225225225225223,
+      "2": 0.2792792792792793,
+      "3": 0.1855855855855856,
+      "4": 0.18018018018018017,
+      "5": 0.1027027027027027
+    },
+    "sample_count": 555,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3140939597315436,
+      "2": 0.29261744966442954,
+      "3": 0.18523489932885906,
+      "4": 0.12348993288590604,
+      "5": 0.08456375838926175
+    },
+    "sample_count": 745,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.34042553191489366,
+      "2": 0.2411347517730496,
+      "3": 0.1276595744680851,
+      "4": 0.15602836879432624,
+      "5": 0.1347517730496454
+    },
+    "sample_count": 141,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4067796610169492,
+      "2": 0.21186440677966104,
+      "3": 0.1694915254237288,
+      "4": 0.11864406779661016,
+      "5": 0.09322033898305085
+    },
+    "sample_count": 118,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.051094890510948905,
+      "2": 0.09671532846715329,
+      "3": 0.291970802919708,
+      "4": 0.25912408759124084,
+      "5": 0.30109489051094895
+    },
+    "sample_count": 548,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.056022408963585436,
+      "2": 0.12324929971988796,
+      "3": 0.29131652661064433,
+      "4": 0.24509803921568626,
+      "5": 0.28431372549019607
+    },
+    "sample_count": 714,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07746478873239436,
+      "2": 0.11267605633802817,
+      "3": 0.2887323943661972,
+      "4": 0.2605633802816901,
+      "5": 0.2605633802816901
+    },
+    "sample_count": 142,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.06034482758620689,
+      "2": 0.14655172413793102,
+      "3": 0.3448275862068966,
+      "4": 0.21551724137931036,
+      "5": 0.23275862068965517
+    },
+    "sample_count": 116,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.17051509769094136,
+      "2": 0.37477797513321487,
+      "3": 0.30550621669627,
+      "4": 0.0941385435168739,
+      "5": 0.05506216696269982
+    },
+    "sample_count": 563,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.20289855072463767,
+      "2": 0.33069828722002637,
+      "3": 0.3096179183135705,
+      "4": 0.08959156785243742,
+      "5": 0.06719367588932806
+    },
+    "sample_count": 759,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.24137931034482757,
+      "2": 0.3172413793103448,
+      "3": 0.2896551724137931,
+      "4": 0.05517241379310345,
+      "5": 0.09655172413793103
+    },
+    "sample_count": 145,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2457627118644068,
+      "2": 0.2457627118644068,
+      "3": 0.364406779661017,
+      "4": 0.1016949152542373,
+      "5": 0.0423728813559322
+    },
+    "sample_count": 118,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.30783242258652094,
+      "2": 0.3515482695810565,
+      "3": 0.20218579234972678,
+      "4": 0.11111111111111112,
+      "5": 0.027322404371584702
+    },
+    "sample_count": 549,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2859078590785908,
+      "2": 0.33875338753387535,
+      "3": 0.2195121951219512,
+      "4": 0.09891598915989158,
+      "5": 0.05691056910569106
+    },
+    "sample_count": 738,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3928571428571429,
+      "2": 0.2785714285714286,
+      "3": 0.1928571428571429,
+      "4": 0.08571428571428573,
+      "5": 0.05
+    },
+    "sample_count": 140,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.37719298245614036,
+      "2": 0.2982456140350877,
+      "3": 0.17543859649122806,
+      "4": 0.07894736842105263,
+      "5": 0.07017543859649122
+    },
+    "sample_count": 114,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.35401459854014594,
+      "2": 0.2572992700729927,
+      "3": 0.22992700729927007,
+      "4": 0.1113138686131387,
+      "5": 0.04744525547445255
+    },
+    "sample_count": 548,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.34328358208955223,
+      "2": 0.2469470827679783,
+      "3": 0.21845318860244234,
+      "4": 0.12754409769335143,
+      "5": 0.06377204884667571
+    },
+    "sample_count": 737,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3714285714285714,
+      "2": 0.19285714285714284,
+      "3": 0.2357142857142857,
+      "4": 0.12142857142857141,
+      "5": 0.07857142857142857
+    },
+    "sample_count": 140,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.38596491228070173,
+      "2": 0.22807017543859648,
+      "3": 0.20175438596491227,
+      "4": 0.08771929824561403,
+      "5": 0.09649122807017543
+    },
+    "sample_count": 114,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.026217228464419477,
+      "2": 0.033707865168539325,
+      "3": 0.12734082397003746,
+      "4": 0.24157303370786515,
+      "5": 0.2378277153558052,
+      "6": 0.33333333333333337
+    },
+    "sample_count": 534,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.030478955007256895,
+      "2": 0.04644412191582003,
+      "3": 0.10740203193033382,
+      "4": 0.21480406386066764,
+      "5": 0.2089985486211901,
+      "6": 0.3918722786647315
+    },
+    "sample_count": 689,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.031007751937984496,
+      "2": 0.015503875968992248,
+      "3": 0.10077519379844961,
+      "4": 0.1937984496124031,
+      "5": 0.2170542635658915,
+      "6": 0.44186046511627913
+    },
+    "sample_count": 129,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.0495049504950495,
+      "2": 0.019801980198019802,
+      "3": 0.099009900990099,
+      "4": 0.22772277227722773,
+      "5": 0.15841584158415845,
+      "6": 0.4455445544554455
+    },
+    "sample_count": 101,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4598130841121496,
+      "2": 0.19999999999999998,
+      "3": 0.2130841121495327,
+      "4": 0.10654205607476634,
+      "5": 0.020560747663551402
+    },
+    "sample_count": 535,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4606413994169096,
+      "2": 0.2084548104956268,
+      "3": 0.20553935860058312,
+      "4": 0.10058309037900874,
+      "5": 0.024781341107871724
+    },
+    "sample_count": 686,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.515625,
+      "2": 0.140625,
+      "3": 0.2109375,
+      "4": 0.1015625,
+      "5": 0.03125
+    },
+    "sample_count": 128,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5523809523809524,
+      "2": 0.16190476190476188,
+      "3": 0.17142857142857143,
+      "4": 0.08571428571428572,
+      "5": 0.028571428571428574
+    },
+    "sample_count": 105,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6163873370577281,
+      "2": 0.16945996275605216,
+      "3": 0.13594040968342644,
+      "4": 0.05772811918063315,
+      "5": 0.02048417132216015
+    },
+    "sample_count": 537,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6026200873362445,
+      "2": 0.15574963609898107,
+      "3": 0.1470160116448326,
+      "4": 0.07423580786026202,
+      "5": 0.020378457059679767
+    },
+    "sample_count": 687,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.59375,
+      "2": 0.2109375,
+      "3": 0.125,
+      "4": 0.0546875,
+      "5": 0.015625
+    },
+    "sample_count": 128,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.7452830188679246,
+      "2": 0.15094339622641512,
+      "3": 0.06603773584905662,
+      "4": 0.01886792452830189,
+      "5": 0.01886792452830189
+    },
+    "sample_count": 106,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.485981308411215,
+      "2": 0.19626168224299068,
+      "3": 0.20934579439252335,
+      "4": 0.09345794392523364,
+      "5": 0.014953271028037384
+    },
+    "sample_count": 535,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5328467153284672,
+      "2": 0.1591240875912409,
+      "3": 0.1897810218978102,
+      "4": 0.0978102189781022,
+      "5": 0.020437956204379562
+    },
+    "sample_count": 685,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5039370078740157,
+      "2": 0.14173228346456693,
+      "3": 0.1811023622047244,
+      "4": 0.14960629921259844,
+      "5": 0.023622047244094488
+    },
+    "sample_count": 127,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6504854368932038,
+      "2": 0.16504854368932037,
+      "3": 0.13592233009708737,
+      "4": 0.038834951456310676,
+      "5": 0.009708737864077669
+    },
+    "sample_count": 103,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.10547667342799188,
+      "2": 0.19472616632860043,
+      "3": 0.28600405679513186,
+      "4": 0.15010141987829612,
+      "5": 0.26369168356997974
+    },
+    "sample_count": 493,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.13628899835796388,
+      "2": 0.2233169129720854,
+      "3": 0.24958949096880131,
+      "4": 0.14614121510673236,
+      "5": 0.2446633825944171
+    },
+    "sample_count": 609,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.18584070796460178,
+      "2": 0.1504424778761062,
+      "3": 0.2743362831858407,
+      "4": 0.1592920353982301,
+      "5": 0.2300884955752212
+    },
+    "sample_count": 113,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.09999999999999999,
+      "2": 0.14444444444444443,
+      "3": 0.26666666666666666,
+      "4": 0.15555555555555553,
+      "5": 0.3333333333333333
+    },
+    "sample_count": 90,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.11889596602972399,
+      "2": 0.2484076433121019,
+      "3": 0.20382165605095542,
+      "4": 0.13588110403397027,
+      "5": 0.2929936305732484
+    },
+    "sample_count": 471,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1482112436115843,
+      "2": 0.2453151618398637,
+      "3": 0.21294718909710392,
+      "4": 0.11754684838160136,
+      "5": 0.27597955706984667
+    },
+    "sample_count": 587,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.17757009345794392,
+      "2": 0.18691588785046728,
+      "3": 0.205607476635514,
+      "4": 0.19626168224299062,
+      "5": 0.23364485981308408
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.16091954022988506,
+      "2": 0.19540229885057472,
+      "3": 0.20689655172413793,
+      "4": 0.09195402298850575,
+      "5": 0.3448275862068966
+    },
+    "sample_count": 87,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.127134724857685,
+      "2": 0.16508538899430739,
+      "3": 0.25616698292220114,
+      "4": 0.22580645161290322,
+      "5": 0.2258064516129032
+    },
+    "sample_count": 527,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1294642857142857,
+      "2": 0.21428571428571427,
+      "3": 0.2232142857142857,
+      "4": 0.20089285714285715,
+      "5": 0.23214285714285715
+    },
+    "sample_count": 672,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1746031746031746,
+      "2": 0.23809523809523808,
+      "3": 0.1984126984126984,
+      "4": 0.15079365079365079,
+      "5": 0.23809523809523808
+    },
+    "sample_count": 126,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.16822429906542055,
+      "2": 0.14953271028037382,
+      "3": 0.2616822429906542,
+      "4": 0.14018691588785046,
+      "5": 0.2803738317757009
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.17714285714285716,
+      "2": 0.26476190476190475,
+      "3": 0.2666666666666666,
+      "4": 0.13714285714285712,
+      "5": 0.15428571428571428
+    },
+    "sample_count": 525,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.18740849194729137,
+      "2": 0.2796486090775988,
+      "3": 0.21376281112737922,
+      "4": 0.13616398243045388,
+      "5": 0.18301610541727673
+    },
+    "sample_count": 683,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1935483870967742,
+      "2": 0.282258064516129,
+      "3": 0.24193548387096775,
+      "4": 0.0967741935483871,
+      "5": 0.18548387096774194
+    },
+    "sample_count": 124,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.20952380952380956,
+      "2": 0.23809523809523814,
+      "3": 0.2857142857142857,
+      "4": 0.08571428571428572,
+      "5": 0.18095238095238098
+    },
+    "sample_count": 105,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.36590038314176243,
+      "2": 0.29310344827586204,
+      "3": 0.1743295019157088,
+      "4": 0.08812260536398468,
+      "5": 0.07854406130268199
+    },
+    "sample_count": 522,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3448275862068965,
+      "2": 0.2788605697151424,
+      "3": 0.16941529235382308,
+      "4": 0.11394302848575712,
+      "5": 0.0929535232383808
+    },
+    "sample_count": 667,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.32799999999999996,
+      "2": 0.248,
+      "3": 0.248,
+      "4": 0.07999999999999999,
+      "5": 0.09600000000000002
+    },
+    "sample_count": 125,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.34615384615384615,
+      "2": 0.23076923076923078,
+      "3": 0.2692307692307693,
+      "4": 0.0673076923076923,
+      "5": 0.08653846153846154
+    },
+    "sample_count": 104,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.17992424242424243,
+      "2": 0.14393939393939392,
+      "3": 0.21969696969696972,
+      "4": 0.21780303030303033,
+      "5": 0.23863636363636365
+    },
+    "sample_count": 528,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.20224719101123595,
+      "2": 0.1558988764044944,
+      "3": 0.21067415730337083,
+      "4": 0.20224719101123598,
+      "5": 0.22893258426966295
+    },
+    "sample_count": 712,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.25,
+      "2": 0.15151515151515152,
+      "3": 0.16666666666666666,
+      "4": 0.20454545454545453,
+      "5": 0.2272727272727273
+    },
+    "sample_count": 132,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.22123893805309736,
+      "2": 0.1327433628318584,
+      "3": 0.25663716814159293,
+      "4": 0.16814159292035397,
+      "5": 0.22123893805309736
+    },
+    "sample_count": 113,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.26195028680688337,
+      "2": 0.16061185468451245,
+      "3": 0.18164435946462715,
+      "4": 0.17782026768642448,
+      "5": 0.2179732313575526
+    },
+    "sample_count": 523,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2875536480686695,
+      "2": 0.1917024320457797,
+      "3": 0.1459227467811159,
+      "4": 0.15736766809728184,
+      "5": 0.21745350500715308
+    },
+    "sample_count": 699,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3383458646616541,
+      "2": 0.12030075187969924,
+      "3": 0.21052631578947367,
+      "4": 0.16541353383458646,
+      "5": 0.16541353383458646
+    },
+    "sample_count": 133,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3394495412844037,
+      "2": 0.10091743119266056,
+      "3": 0.2018348623853211,
+      "4": 0.13761467889908258,
+      "5": 0.22018348623853212
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6007067137809187,
+      "2": 0.18551236749116604,
+      "3": 0.13957597173144876,
+      "4": 0.060070671378091876,
+      "5": 0.014134275618374558
+    },
+    "sample_count": 566,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5342105263157895,
+      "2": 0.20789473684210524,
+      "3": 0.15394736842105264,
+      "4": 0.075,
+      "5": 0.02894736842105263
+    },
+    "sample_count": 760,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5034482758620689,
+      "2": 0.20689655172413793,
+      "3": 0.16551724137931034,
+      "4": 0.09655172413793103,
+      "5": 0.027586206896551724
+    },
+    "sample_count": 145,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5294117647058822,
+      "2": 0.2184873949579832,
+      "3": 0.1764705882352941,
+      "4": 0.058823529411764705,
+      "5": 0.01680672268907563
+    },
+    "sample_count": 119,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5159574468085106,
+      "2": 0.17198581560283688,
+      "3": 0.20390070921985815,
+      "4": 0.08156028368794326,
+      "5": 0.02659574468085106
+    },
+    "sample_count": 564,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.45000000000000007,
+      "2": 0.18421052631578946,
+      "3": 0.18421052631578946,
+      "4": 0.12763157894736843,
+      "5": 0.053947368421052626
+    },
+    "sample_count": 760,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.36986301369863017,
+      "2": 0.2465753424657534,
+      "3": 0.18493150684931506,
+      "4": 0.1506849315068493,
+      "5": 0.04794520547945205
+    },
+    "sample_count": 146,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4453781512605042,
+      "2": 0.2184873949579832,
+      "3": 0.20168067226890757,
+      "4": 0.10084033613445378,
+      "5": 0.03361344537815126
+    },
+    "sample_count": 119,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6170212765957448,
+      "2": 0.17198581560283685,
+      "3": 0.14007092198581558,
+      "4": 0.05851063829787234,
+      "5": 0.012411347517730494
+    },
+    "sample_count": 564,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5793650793650794,
+      "2": 0.15079365079365079,
+      "3": 0.1746031746031746,
+      "4": 0.07275132275132276,
+      "5": 0.022486772486772486
+    },
+    "sample_count": 756,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5625,
+      "2": 0.14583333333333331,
+      "3": 0.18750000000000003,
+      "4": 0.08333333333333334,
+      "5": 0.020833333333333332
+    },
+    "sample_count": 144,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6722689075630253,
+      "2": 0.1512605042016807,
+      "3": 0.1512605042016807,
+      "4": 0.025210084033613446,
+      "5": 0.0
+    },
+    "sample_count": 119,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.7014134275618374,
+      "2": 0.14664310954063603,
+      "3": 0.10247349823321557,
+      "4": 0.044169611307420496,
+      "5": 0.00530035335689046
+    },
+    "sample_count": 566,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6277850589777195,
+      "2": 0.15203145478374835,
+      "3": 0.15072083879423329,
+      "4": 0.0563564875491481,
+      "5": 0.01310615989515072
+    },
+    "sample_count": 763,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6666666666666666,
+      "2": 0.1388888888888889,
+      "3": 0.1388888888888889,
+      "4": 0.013888888888888888,
+      "5": 0.04166666666666667
+    },
+    "sample_count": 144,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.7058823529411764,
+      "2": 0.14285714285714285,
+      "3": 0.13445378151260506,
+      "4": 0.0,
+      "5": 0.01680672268907563
+    },
+    "sample_count": 119,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6194690265486725,
+      "2": 0.184070796460177,
+      "3": 0.12035398230088495,
+      "4": 0.06017699115044248,
+      "5": 0.01592920353982301
+    },
+    "sample_count": 565,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5476190476190476,
+      "2": 0.1917989417989418,
+      "3": 0.17328042328042328,
+      "4": 0.07275132275132275,
+      "5": 0.014550264550264551
+    },
+    "sample_count": 756,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5211267605633803,
+      "2": 0.18309859154929575,
+      "3": 0.176056338028169,
+      "4": 0.08450704225352113,
+      "5": 0.035211267605633804
+    },
+    "sample_count": 142,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6386554621848739,
+      "2": 0.1596638655462185,
+      "3": 0.16806722689075632,
+      "4": 0.025210084033613446,
+      "5": 0.008403361344537815
+    },
+    "sample_count": 119,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.34452296819787986,
+      "2": 0.3780918727915194,
+      "3": 0.1890459363957597,
+      "4": 0.07067137809187278,
+      "5": 0.017667844522968195
+    },
+    "sample_count": 566,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3320209973753281,
+      "2": 0.374015748031496,
+      "3": 0.18635170603674542,
+      "4": 0.09055118110236221,
+      "5": 0.017060367454068245
+    },
+    "sample_count": 762,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3698630136986301,
+      "2": 0.34931506849315064,
+      "3": 0.13013698630136986,
+      "4": 0.1095890410958904,
+      "5": 0.0410958904109589
+    },
+    "sample_count": 146,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.37815126050420167,
+      "2": 0.411764705882353,
+      "3": 0.15126050420168066,
+      "4": 0.058823529411764705,
+      "5": 0.0
+    },
+    "sample_count": 119,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.9090909090909091,
+      "2": 0.05525846702317291,
+      "3": 0.028520499108734405,
+      "4": 0.0035650623885917997,
+      "5": 0.0035650623885918
+    },
+    "sample_count": 561,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.8945981554677207,
+      "2": 0.061923583662714096,
+      "3": 0.03162055335968379,
+      "4": 0.00922266139657444,
+      "5": 0.002635046113306983
+    },
+    "sample_count": 759,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.9109589041095889,
+      "2": 0.06164383561643835,
+      "3": 0.0273972602739726,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "sample_count": 146,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.9075630252100841,
+      "2": 0.058823529411764705,
+      "3": 0.01680672268907563,
+      "4": 0.008403361344537815,
+      "5": 0.008403361344537815
+    },
+    "sample_count": 119,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.17307692307692307,
+      "2": 0.8269230769230769
+    },
+    "sample_count": 312,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.21017699115044247,
+      "2": 0.7898230088495575
+    },
+    "sample_count": 452,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1566265060240964,
+      "2": 0.8433734939759037
+    },
+    "sample_count": 83,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.13333333333333333,
+      "2": 0.8666666666666667
+    },
+    "sample_count": 60,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.29325513196480935,
+      "2": 0.7067448680351905
+    },
+    "sample_count": 341,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.26021505376344084,
+      "2": 0.7397849462365591
+    },
+    "sample_count": 465,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.18604651162790697,
+      "2": 0.8139534883720929
+    },
+    "sample_count": 86,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2413793103448276,
+      "2": 0.7586206896551724
+    },
+    "sample_count": 58,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.303680981595092,
+      "2": 0.696319018404908
+    },
+    "sample_count": 326,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3325892857142857,
+      "2": 0.6674107142857142
+    },
+    "sample_count": 448,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2159090909090909,
+      "2": 0.7840909090909091
+    },
+    "sample_count": 88,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.24561403508771928,
+      "2": 0.7543859649122806
+    },
+    "sample_count": 57,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.12885662431941922,
+      "2": 0.1869328493647913,
+      "3": 0.21234119782214156,
+      "4": 0.368421052631579,
+      "5": 0.10344827586206896
+    },
+    "sample_count": 551,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.10836762688614542,
+      "2": 0.149519890260631,
+      "3": 0.2167352537722908,
+      "4": 0.4060356652949246,
+      "5": 0.11934156378600824
+    },
+    "sample_count": 729,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1510791366906475,
+      "2": 0.14388489208633096,
+      "3": 0.24460431654676262,
+      "4": 0.36690647482014394,
+      "5": 0.09352517985611511
+    },
+    "sample_count": 139,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.10810810810810811,
+      "2": 0.16216216216216214,
+      "3": 0.26126126126126126,
+      "4": 0.3153153153153153,
+      "5": 0.15315315315315317
+    },
+    "sample_count": 111,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.03603603603603603,
+      "2": 0.03783783783783784,
+      "3": 0.31891891891891894,
+      "4": 0.1873873873873874,
+      "5": 0.25225225225225223,
+      "6": 0.09009009009009009,
+      "7": 0.07747747747747748
+    },
+    "sample_count": 555,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.047556142668428,
+      "2": 0.046235138705416116,
+      "3": 0.29722589167767505,
+      "4": 0.1809775429326288,
+      "5": 0.24174372523117574,
+      "6": 0.08190224570673713,
+      "7": 0.10435931307793923
+    },
+    "sample_count": 757,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.034188034188034185,
+      "2": 0.03418803418803419,
+      "3": 0.37606837606837606,
+      "4": 0.15384615384615385,
+      "5": 0.2393162393162393,
+      "6": 0.03418803418803419,
+      "7": 0.1282051282051282
+    },
+    "sample_count": 117,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07194244604316546,
+      "2": 0.07194244604316546,
+      "3": 0.28057553956834536,
+      "4": 0.14388489208633096,
+      "5": 0.28057553956834536,
+      "6": 0.04316546762589928,
+      "7": 0.10791366906474822
+    },
+    "sample_count": 139,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1848249027237354,
+      "2": 0.08949416342412453,
+      "3": 0.3852140077821012,
+      "4": 0.11284046692607003,
+      "5": 0.1284046692607004,
+      "6": 0.029182879377431907,
+      "7": 0.07003891050583658
+    },
+    "sample_count": 514,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.21597633136094677,
+      "2": 0.10059171597633138,
+      "3": 0.3431952662721893,
+      "4": 0.09467455621301775,
+      "5": 0.14644970414201183,
+      "6": 0.028106508875739646,
+      "7": 0.07100591715976332
+    },
+    "sample_count": 676,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.27184466019417475,
+      "2": 0.11650485436893206,
+      "3": 0.30097087378640774,
+      "4": 0.10679611650485436,
+      "5": 0.1262135922330097,
+      "6": 0.019417475728155338,
+      "7": 0.05825242718446602
+    },
+    "sample_count": 103,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.24615384615384617,
+      "2": 0.1076923076923077,
+      "3": 0.35384615384615387,
+      "4": 0.08461538461538462,
+      "5": 0.1,
+      "6": 0.023076923076923078,
+      "7": 0.08461538461538462
+    },
+    "sample_count": 130,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.23529411764705882,
+      "2": 0.10294117647058823,
+      "3": 0.2941176470588235,
+      "4": 0.14705882352941174,
+      "5": 0.11764705882352941,
+      "6": 0.07352941176470587,
+      "7": 0.029411764705882353
+    },
+    "sample_count": 68,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2,
+      "2": 0.12631578947368421,
+      "3": 0.3157894736842105,
+      "4": 0.16842105263157897,
+      "5": 0.08421052631578947,
+      "6": 0.04210526315789474,
+      "7": 0.06315789473684211
+    },
+    "sample_count": 95,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2857142857142857,
+      "2": 0.14285714285714285,
+      "3": 0.4285714285714285,
+      "4": 0.07142857142857144,
+      "5": 0.07142857142857142,
+      "6": 0.0,
+      "7": 0.0
+    },
+    "sample_count": 14,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.25,
+      "2": 0.125,
+      "3": 0.125,
+      "4": 0.0625,
+      "5": 0.125,
+      "6": 0.0625,
+      "7": 0.25
+    },
+    "sample_count": 16,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5102420856610801,
+      "2": 0.13221601489757914,
+      "3": 0.061452513966480445,
+      "4": 0.09683426443202979,
+      "5": 0.1713221601489758,
+      "6": 0.02793296089385475,
+      "7": 0.0
+    },
+    "sample_count": 537,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5489655172413793,
+      "2": 0.1186206896551724,
+      "3": 0.06758620689655173,
+      "4": 0.10482758620689656,
+      "5": 0.12275862068965518,
+      "6": 0.026206896551724135,
+      "7": 0.01103448275862069
+    },
+    "sample_count": 725,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5347222222222222,
+      "2": 0.14583333333333331,
+      "3": 0.04861111111111112,
+      "4": 0.1111111111111111,
+      "5": 0.1527777777777778,
+      "6": 0.006944444444444444,
+      "7": 0.0
+    },
+    "sample_count": 144,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4913793103448276,
+      "2": 0.16379310344827586,
+      "3": 0.02586206896551724,
+      "4": 0.12068965517241381,
+      "5": 0.1810344827586207,
+      "6": 0.017241379310344827,
+      "7": 0.0
+    },
+    "sample_count": 116,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.36331569664902996,
+      "2": 0.3915343915343915,
+      "3": 0.18871252204585537,
+      "4": 0.04056437389770723,
+      "5": 0.015873015873015872
+    },
+    "sample_count": 567,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.48293963254593175,
+      "2": 0.3202099737532808,
+      "3": 0.12073490813648294,
+      "4": 0.05511811023622047,
+      "5": 0.02099737532808399
+    },
+    "sample_count": 762,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.5,
+      "2": 0.2777777777777778,
+      "3": 0.14583333333333334,
+      "4": 0.06944444444444445,
+      "5": 0.006944444444444445
+    },
+    "sample_count": 144,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4322033898305085,
+      "2": 0.33898305084745767,
+      "3": 0.1694915254237288,
+      "4": 0.05084745762711865,
+      "5": 0.00847457627118644
+    },
+    "sample_count": 118,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4278074866310161,
+      "2": 0.11764705882352941,
+      "3": 0.106951871657754,
+      "4": 0.16221033868092694,
+      "5": 0.18538324420677366
+    },
+    "sample_count": 561,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.40052356020942415,
+      "2": 0.13219895287958114,
+      "3": 0.11387434554973822,
+      "4": 0.17015706806282724,
+      "5": 0.18324607329842932
+    },
+    "sample_count": 764,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3517241379310345,
+      "2": 0.11724137931034483,
+      "3": 0.15862068965517243,
+      "4": 0.1931034482758621,
+      "5": 0.17931034482758623
+    },
+    "sample_count": 145,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.48275862068965514,
+      "2": 0.12068965517241381,
+      "3": 0.11206896551724137,
+      "4": 0.12068965517241378,
+      "5": 0.16379310344827586
+    },
+    "sample_count": 116,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.010619469026548672,
+      "2": 0.03185840707964602,
+      "3": 0.12566371681415928,
+      "4": 0.32389380530973455,
+      "5": 0.5079646017699115
+    },
+    "sample_count": 565,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.02490170380078637,
+      "2": 0.08912188728702489,
+      "3": 0.11402359108781127,
+      "4": 0.2988204456094365,
+      "5": 0.473132372214941
+    },
+    "sample_count": 763,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.013793103448275862,
+      "2": 0.07586206896551724,
+      "3": 0.19310344827586207,
+      "4": 0.40689655172413797,
+      "5": 0.3103448275862069
+    },
+    "sample_count": 145,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.034188034188034185,
+      "2": 0.059829059829059825,
+      "3": 0.18803418803418806,
+      "4": 0.28205128205128205,
+      "5": 0.4358974358974359
+    },
+    "sample_count": 117,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07231040564373897,
+      "2": 0.07760141093474426,
+      "3": 0.37918871252204583,
+      "4": 0.3950617283950617,
+      "5": 0.07583774250440917
+    },
+    "sample_count": 567,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.09630606860158311,
+      "2": 0.09762532981530343,
+      "3": 0.3482849604221636,
+      "4": 0.3575197889182058,
+      "5": 0.10026385224274406
+    },
+    "sample_count": 758,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.09722222222222222,
+      "2": 0.1111111111111111,
+      "3": 0.3472222222222222,
+      "4": 0.3402777777777778,
+      "5": 0.10416666666666666
+    },
+    "sample_count": 144,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.08403361344537814,
+      "2": 0.08403361344537814,
+      "3": 0.31092436974789917,
+      "4": 0.4369747899159664,
+      "5": 0.08403361344537814
+    },
+    "sample_count": 119,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.26278659611992944,
+      "2": 0.7372134038800706
+    },
+    "sample_count": 567,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.29934640522875816,
+      "2": 0.7006535947712418
+    },
+    "sample_count": 765,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.32191780821917804,
+      "2": 0.678082191780822
+    },
+    "sample_count": 146,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.36974789915966383,
+      "2": 0.6302521008403361
+    },
+    "sample_count": 119,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.22264150943396224,
+      "2": 0.3433962264150943,
+      "3": 0.22830188679245284,
+      "4": 0.20566037735849055
+    },
+    "sample_count": 530,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.22630834512022632,
+      "2": 0.3422913719943423,
+      "3": 0.2121640735502122,
+      "4": 0.21923620933521926
+    },
+    "sample_count": 707,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.22794117647058826,
+      "2": 0.3529411764705882,
+      "3": 0.1764705882352941,
+      "4": 0.24264705882352938
+    },
+    "sample_count": 136,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.24770642201834864,
+      "2": 0.3119266055045872,
+      "3": 0.1834862385321101,
+      "4": 0.25688073394495414
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2577696526508227,
+      "2": 0.34186471663619744,
+      "3": 0.21755027422303475,
+      "4": 0.18281535648994515
+    },
+    "sample_count": 547,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2803234501347709,
+      "2": 0.330188679245283,
+      "3": 0.16307277628032343,
+      "4": 0.22641509433962265
+    },
+    "sample_count": 742,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2733812949640288,
+      "2": 0.3597122302158274,
+      "3": 0.15827338129496402,
+      "4": 0.2086330935251799
+    },
+    "sample_count": 139,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.3063063063063063,
+      "2": 0.3063063063063063,
+      "3": 0.17117117117117117,
+      "4": 0.2162162162162162
+    },
+    "sample_count": 111,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.212406015037594,
+      "2": 0.25187969924812026,
+      "3": 0.19736842105263155,
+      "4": 0.33834586466165417
+    },
+    "sample_count": 532,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2143864598025388,
+      "2": 0.24682651622002819,
+      "3": 0.18194640338504936,
+      "4": 0.35684062059238364
+    },
+    "sample_count": 709,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2773722627737227,
+      "2": 0.28467153284671537,
+      "3": 0.13138686131386862,
+      "4": 0.30656934306569344
+    },
+    "sample_count": 137,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.22429906542056072,
+      "2": 0.1869158878504673,
+      "3": 0.18691588785046725,
+      "4": 0.4018691588785046
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.42676311030741415,
+      "2": 0.32007233273056057,
+      "3": 0.10849909584086799,
+      "4": 0.1446654611211573
+    },
+    "sample_count": 553,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4325767690253671,
+      "2": 0.28304405874499333,
+      "3": 0.10947930574098798,
+      "4": 0.17489986648865152
+    },
+    "sample_count": 749,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4722222222222222,
+      "2": 0.2847222222222222,
+      "3": 0.09027777777777779,
+      "4": 0.15277777777777776
+    },
+    "sample_count": 144,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.38135593220338987,
+      "2": 0.3220338983050848,
+      "3": 0.09322033898305085,
+      "4": 0.2033898305084746
+    },
+    "sample_count": 118,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4394213381555153,
+      "2": 0.3309222423146474,
+      "3": 0.11030741410488246,
+      "4": 0.11934900542495477
+    },
+    "sample_count": 553,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.43716577540106955,
+      "2": 0.2954545454545454,
+      "3": 0.10828877005347592,
+      "4": 0.1590909090909091
+    },
+    "sample_count": 748,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4255319148936171,
+      "2": 0.30496453900709225,
+      "3": 0.1276595744680851,
+      "4": 0.14184397163120566
+    },
+    "sample_count": 141,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4017094017094017,
+      "2": 0.2905982905982906,
+      "3": 0.10256410256410256,
+      "4": 0.20512820512820512
+    },
+    "sample_count": 117,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07992565055762081,
+      "2": 0.19144981412639406,
+      "3": 0.4349442379182156,
+      "4": 0.1784386617100372,
+      "5": 0.11524163568773235
+    },
+    "sample_count": 538,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.10235131396957123,
+      "2": 0.18533886583679116,
+      "3": 0.4273858921161826,
+      "4": 0.15491009681881052,
+      "5": 0.13001383125864452
+    },
+    "sample_count": 723,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.16911764705882354,
+      "2": 0.1838235294117647,
+      "3": 0.3676470588235294,
+      "4": 0.13970588235294118,
+      "5": 0.13970588235294118
+    },
+    "sample_count": 136,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.11504424778761063,
+      "2": 0.1504424778761062,
+      "3": 0.41592920353982304,
+      "4": 0.1592920353982301,
+      "5": 0.15929203539823011
+    },
+    "sample_count": 113,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.06003752345215759,
+      "2": 0.17073170731707318,
+      "3": 0.44840525328330205,
+      "4": 0.17073170731707316,
+      "5": 0.150093808630394
+    },
+    "sample_count": 533,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.08671328671328672,
+      "2": 0.17902097902097902,
+      "3": 0.4223776223776224,
+      "4": 0.15944055944055946,
+      "5": 0.15244755244755245
+    },
+    "sample_count": 715,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.08181818181818182,
+      "2": 0.11818181818181817,
+      "3": 0.43636363636363634,
+      "4": 0.18181818181818182,
+      "5": 0.18181818181818182
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "marital_status": "Not_Married",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.183206106870229,
+      "2": 0.15267175572519082,
+      "3": 0.35877862595419846,
+      "4": 0.12213740458015267,
+      "5": 0.183206106870229
+    },
+    "sample_count": 131,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "residence",
+      "marital_status"
+    ]
+  }
+]

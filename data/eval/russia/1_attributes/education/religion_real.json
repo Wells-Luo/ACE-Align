@@ -1,0 +1,3138 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.13819095477386936,
+      "2": 0.7487437185929648,
+      "3": 0.09547738693467336,
+      "4": 0.017587939698492462
+    },
+    "sample_count": 398,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.13606089438629876,
+      "2": 0.6964795432921029,
+      "3": 0.14557564224548047,
+      "4": 0.02188392007611798
+    },
+    "sample_count": 1051,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2082324455205811,
+      "2": 0.3075060532687651,
+      "3": 0.37288135593220345,
+      "4": 0.0847457627118644,
+      "5": 0.01937046004842615,
+      "6": 0.007263922518159807,
+      "7": 0.0
+    },
+    "sample_count": 413,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.23158828748890864,
+      "2": 0.25643300798580304,
+      "3": 0.34427684117125107,
+      "4": 0.13043478260869562,
+      "5": 0.022182786157941437,
+      "6": 0.009760425909494233,
+      "7": 0.005323868677905945
+    },
+    "sample_count": 1127,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4659949622166247,
+      "2": 0.27455919395465994,
+      "3": 0.17128463476070527,
+      "4": 0.08816120906801007
+    },
+    "sample_count": 397,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4653739612188366,
+      "2": 0.2677746999076639,
+      "3": 0.17174515235457066,
+      "4": 0.09510618651892892
+    },
+    "sample_count": 1083,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.7164179104477613,
+      "2": 0.14427860696517414,
+      "3": 0.04726368159203981,
+      "4": 0.09203980099502489
+    },
+    "sample_count": 402,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.7280145058930192,
+      "2": 0.15049864007252947,
+      "3": 0.04805077062556665,
+      "4": 0.07343608340888487
+    },
+    "sample_count": 1103,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1907356948228883,
+      "2": 0.19346049046321528,
+      "3": 0.31062670299727524,
+      "4": 0.30517711171662126
+    },
+    "sample_count": 367,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2350597609561753,
+      "2": 0.18127490039840632,
+      "3": 0.2918326693227092,
+      "4": 0.2918326693227091
+    },
+    "sample_count": 1004,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.13432835820895522,
+      "2": 0.35074626865671643,
+      "3": 0.25373134328358204,
+      "4": 0.19402985074626866,
+      "5": 0.06716417910447761
+    },
+    "sample_count": 402,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1991031390134529,
+      "2": 0.3730941704035874,
+      "3": 0.23677130044843048,
+      "4": 0.14080717488789238,
+      "5": 0.05022421524663677
+    },
+    "sample_count": 1115,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.051094890510948905,
+      "2": 0.2846715328467153,
+      "3": 0.2481751824817518,
+      "4": 0.23357664233576644,
+      "5": 0.18248175182481752
+    },
+    "sample_count": 411,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.10242587601078168,
+      "2": 0.21383647798742136,
+      "3": 0.29020664869721474,
+      "4": 0.21473495058400718,
+      "5": 0.17879604672057497
+    },
+    "sample_count": 1113,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.04556962025316455,
+      "2": 0.2278481012658228,
+      "3": 0.3468354430379747,
+      "4": 0.23797468354430382,
+      "5": 0.14177215189873418
+    },
+    "sample_count": 395,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07264150943396226,
+      "2": 0.19150943396226414,
+      "3": 0.33490566037735847,
+      "4": 0.2622641509433962,
+      "5": 0.13867924528301886
+    },
+    "sample_count": 1060,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.08205128205128207,
+      "2": 0.2897435897435897,
+      "3": 0.32307692307692315,
+      "4": 0.21025641025641026,
+      "5": 0.09487179487179488
+    },
+    "sample_count": 390,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.15241635687732344,
+      "2": 0.25929368029739774,
+      "3": 0.3355018587360595,
+      "4": 0.17007434944237917,
+      "5": 0.08271375464684014
+    },
+    "sample_count": 1076,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.04176904176904177,
+      "2": 0.2211302211302211,
+      "3": 0.33906633906633904,
+      "4": 0.2506142506142507,
+      "5": 0.14742014742014745
+    },
+    "sample_count": 407,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.0881542699724518,
+      "2": 0.18549127640036728,
+      "3": 0.3581267217630854,
+      "4": 0.24150596877869607,
+      "5": 0.12672176308539945
+    },
+    "sample_count": 1089,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.11822660098522168,
+      "2": 0.3842364532019704,
+      "3": 0.3472906403940886,
+      "4": 0.10344827586206898,
+      "5": 0.046798029556650245
+    },
+    "sample_count": 406,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14547118023787742,
+      "2": 0.36047575480329375,
+      "3": 0.3513266239707228,
+      "4": 0.10338517840805124,
+      "5": 0.03934126258005489
+    },
+    "sample_count": 1093,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4594594594594594,
+      "2": 0.3243243243243243,
+      "3": 0.1375921375921376,
+      "4": 0.06142506142506143,
+      "5": 0.0171990171990172
+    },
+    "sample_count": 407,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4657407407407407,
+      "2": 0.3333333333333333,
+      "3": 0.13148148148148148,
+      "4": 0.05462962962962963,
+      "5": 0.014814814814814814
+    },
+    "sample_count": 1080,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.08997429305912595,
+      "2": 0.23136246786632386,
+      "3": 0.29820051413881754,
+      "4": 0.2647814910025707,
+      "5": 0.11568123393316194
+    },
+    "sample_count": 389,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1033797216699801,
+      "2": 0.2455268389662028,
+      "3": 0.32604373757455263,
+      "4": 0.22962226640159047,
+      "5": 0.09542743538767395
+    },
+    "sample_count": 1006,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.12661498708010333,
+      "2": 0.2868217054263566,
+      "3": 0.3281653746770026,
+      "4": 0.1782945736434109,
+      "5": 0.08010335917312661
+    },
+    "sample_count": 387,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1174129353233831,
+      "2": 0.28756218905472636,
+      "3": 0.3124378109452736,
+      "4": 0.19203980099502488,
+      "5": 0.09054726368159205
+    },
+    "sample_count": 1005,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.11082474226804125,
+      "2": 0.38659793814432986,
+      "3": 0.2551546391752577,
+      "4": 0.1804123711340206,
+      "5": 0.0670103092783505
+    },
+    "sample_count": 388,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.12015503875968991,
+      "2": 0.30329457364341084,
+      "3": 0.3023255813953488,
+      "4": 0.1937984496124031,
+      "5": 0.0804263565891473
+    },
+    "sample_count": 1032,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07068062827225131,
+      "2": 0.2329842931937173,
+      "3": 0.5523560209424083,
+      "4": 0.10471204188481675,
+      "5": 0.03926701570680628
+    },
+    "sample_count": 382,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.04975609756097561,
+      "2": 0.19121951219512195,
+      "3": 0.6195121951219513,
+      "4": 0.09951219512195124,
+      "5": 0.04
+    },
+    "sample_count": 1025,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2191780821917808,
+      "2": 0.46849315068493147,
+      "3": 0.23561643835616436,
+      "4": 0.07671232876712328
+    },
+    "sample_count": 365,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.16424116424116425,
+      "2": 0.5197505197505198,
+      "3": 0.24844074844074845,
+      "4": 0.06756756756756757
+    },
+    "sample_count": 962,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.044736842105263165,
+      "2": 0.14473684210526314,
+      "3": 0.36578947368421055,
+      "4": 0.44473684210526315
+    },
+    "sample_count": 380,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.04945598417408507,
+      "2": 0.13946587537091987,
+      "3": 0.3748763600395648,
+      "4": 0.43620178041543023
+    },
+    "sample_count": 1011,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.04509283819628647,
+      "2": 0.1671087533156499,
+      "3": 0.3607427055702918,
+      "4": 0.4270557029177719
+    },
+    "sample_count": 377,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.05182926829268293,
+      "2": 0.1534552845528455,
+      "3": 0.3709349593495934,
+      "4": 0.42378048780487804
+    },
+    "sample_count": 984,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.10900473933649288,
+      "2": 0.09478672985781988,
+      "3": 0.18720379146919428,
+      "4": 0.15639810426540285,
+      "5": 0.24644549763033172,
+      "6": 0.20616113744075826
+    },
+    "sample_count": 422,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.0775862068965517,
+      "2": 0.12931034482758622,
+      "3": 0.15086206896551724,
+      "4": 0.17500000000000002,
+      "5": 0.19655172413793104,
+      "6": 0.2706896551724137
+    },
+    "sample_count": 1160,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.24924924924924924,
+      "2": 0.057057057057057055,
+      "3": 0.2882882882882883,
+      "4": 0.40540540540540543
+    },
+    "sample_count": 333,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.209277238403452,
+      "2": 0.07227615965480041,
+      "3": 0.25782092772384035,
+      "4": 0.46062567421790723
+    },
+    "sample_count": 927,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14480874316939893,
+      "2": 0.34699453551912574,
+      "3": 0.30327868852459017,
+      "4": 0.20491803278688525
+    },
+    "sample_count": 366,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.15130260521042085,
+      "2": 0.31663326653306617,
+      "3": 0.3196392785571142,
+      "4": 0.21242484969939882
+    },
+    "sample_count": 998,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.13091922005571033,
+      "2": 0.3175487465181059,
+      "3": 0.298050139275766,
+      "4": 0.2534818941504179
+    },
+    "sample_count": 359,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14167528438469495,
+      "2": 0.3216132368148914,
+      "3": 0.30196483971044463,
+      "4": 0.23474663908996898
+    },
+    "sample_count": 967,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.12605042016806722,
+      "2": 0.3025210084033613,
+      "3": 0.30252100840336144,
+      "4": 0.26890756302521
+    },
+    "sample_count": 357,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.13811007268951195,
+      "2": 0.32191069574247144,
+      "3": 0.30114226375908615,
+      "4": 0.23883696780893043
+    },
+    "sample_count": 963,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.136,
+      "2": 0.3573333333333333,
+      "3": 0.256,
+      "4": 0.25066666666666665
+    },
+    "sample_count": 375,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14626865671641792,
+      "2": 0.3641791044776119,
+      "3": 0.28258706467661693,
+      "4": 0.20696517412935328
+    },
+    "sample_count": 1005,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.11413043478260869,
+      "2": 0.3070652173913044,
+      "3": 0.32336956521739135,
+      "4": 0.2554347826086957
+    },
+    "sample_count": 368,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14122533748701976,
+      "2": 0.30218068535825543,
+      "3": 0.31152647975077885,
+      "4": 0.245067497403946
+    },
+    "sample_count": 963,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.15425531914893617,
+      "2": 0.2553191489361702,
+      "3": 0.22340425531914898,
+      "4": 0.19946808510638298,
+      "5": 0.1675531914893617
+    },
+    "sample_count": 376,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.16456921587608908,
+      "2": 0.31558567279767663,
+      "3": 0.2168441432720232,
+      "4": 0.17715392061955468,
+      "5": 0.12584704743465633
+    },
+    "sample_count": 1033,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.03053435114503817,
+      "2": 0.2010178117048346,
+      "3": 0.18575063613231554,
+      "4": 0.3536895674300255,
+      "5": 0.22900763358778628
+    },
+    "sample_count": 393,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.06741573033707865,
+      "2": 0.19662921348314608,
+      "3": 0.26029962546816476,
+      "4": 0.30430711610486894,
+      "5": 0.17134831460674155
+    },
+    "sample_count": 1068,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.06166219839142091,
+      "2": 0.16890080428954424,
+      "3": 0.20107238605898126,
+      "4": 0.3002680965147453,
+      "5": 0.2680965147453083
+    },
+    "sample_count": 373,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.08015640273704788,
+      "2": 0.20234604105571846,
+      "3": 0.2590420332355816,
+      "4": 0.25513196480938416,
+      "5": 0.20332355816226783
+    },
+    "sample_count": 1023,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.028720626631853784,
+      "2": 0.12010443864229765,
+      "3": 0.16449086161879894,
+      "4": 0.3342036553524804,
+      "5": 0.3524804177545692
+    },
+    "sample_count": 383,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.03336510962821735,
+      "2": 0.09818875119161107,
+      "3": 0.1839847473784557,
+      "4": 0.3651096282173498,
+      "5": 0.3193517635843661
+    },
+    "sample_count": 1049,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.34015345268542196,
+      "2": 0.38874680306905374,
+      "3": 0.17902813299232737,
+      "4": 0.05626598465473146,
+      "5": 0.03580562659846548
+    },
+    "sample_count": 391,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2761545711592837,
+      "2": 0.46182846371347785,
+      "3": 0.17342130065975495,
+      "4": 0.06126295947219604,
+      "5": 0.027332704995287466
+    },
+    "sample_count": 1061,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.12885154061624648,
+      "2": 0.2857142857142857,
+      "3": 0.2464985994397759,
+      "4": 0.15406162464985992,
+      "5": 0.18487394957983191
+    },
+    "sample_count": 357,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.15010141987829614,
+      "2": 0.3073022312373225,
+      "3": 0.2454361054766734,
+      "4": 0.16835699797160245,
+      "5": 0.12880324543610544
+    },
+    "sample_count": 986,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.26771653543307083,
+      "2": 0.5669291338582677,
+      "3": 0.14698162729658798,
+      "4": 0.01837270341207349
+    },
+    "sample_count": 381,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2273603082851638,
+      "2": 0.6184971098265897,
+      "3": 0.1396917148362235,
+      "4": 0.014450867052023123
+    },
+    "sample_count": 1038,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4701912260967379,
+      "2": 0.13273340832395952,
+      "3": 0.11923509561304838,
+      "4": 0.1439820022497188,
+      "5": 0.06524184476940384,
+      "6": 0.031496062992125984,
+      "7": 0.0202474690663667,
+      "8": 0.013498312710911136,
+      "9": 0.0033745781777277844
+    },
+    "sample_count": 889,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.553125,
+      "2": 0.08437499999999999,
+      "3": 0.15312499999999998,
+      "4": 0.10625000000000001,
+      "5": 0.04375,
+      "6": 0.028125,
+      "7": 0.009375,
+      "8": 0.01875,
+      "9": 0.0031249999999999997
+    },
+    "sample_count": 320,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6603773584905659,
+      "2": 0.1061320754716981,
+      "3": 0.07783018867924528,
+      "4": 0.07900943396226415,
+      "5": 0.04009433962264151,
+      "6": 0.012971698113207548,
+      "7": 0.01061320754716981,
+      "8": 0.008254716981132075,
+      "9": 0.004716981132075472
+    },
+    "sample_count": 848,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6742671009771987,
+      "2": 0.11074918566775245,
+      "3": 0.06840390879478828,
+      "4": 0.09120521172638438,
+      "5": 0.022801302931596094,
+      "6": 0.013029315960912053,
+      "7": 0.0032573289902280136,
+      "8": 0.013029315960912053,
+      "9": 0.003257328990228013
+    },
+    "sample_count": 307,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6543086172344689,
+      "2": 0.11823647294589176,
+      "3": 0.07114228456913826,
+      "4": 0.08517034068136273,
+      "5": 0.03507014028056113,
+      "6": 0.01503006012024048,
+      "7": 0.012024048096192385,
+      "8": 0.006012024048096192,
+      "9": 0.0030060120240480966
+    },
+    "sample_count": 998,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6758241758241759,
+      "2": 0.11538461538461539,
+      "3": 0.07142857142857144,
+      "4": 0.08791208791208792,
+      "5": 0.019230769230769232,
+      "6": 0.01098901098901099,
+      "7": 0.008241758241758242,
+      "8": 0.01098901098901099,
+      "9": 0.0
+    },
+    "sample_count": 364,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.8270142180094786,
+      "2": 0.07109004739336491,
+      "3": 0.045023696682464455,
+      "4": 0.021327014218009477,
+      "5": 0.011848341232227487,
+      "6": 0.0071090047393364926,
+      "7": 0.002369668246445498,
+      "8": 0.011848341232227487,
+      "9": 0.002369668246445498
+    },
+    "sample_count": 422,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.8189655172413793,
+      "2": 0.07413793103448277,
+      "3": 0.04224137931034483,
+      "4": 0.024999999999999994,
+      "5": 0.016379310344827588,
+      "6": 0.007758620689655172,
+      "7": 0.00603448275862069,
+      "8": 0.008620689655172414,
+      "9": 0.0008620689655172414
+    },
+    "sample_count": 1160,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.25598086124401914,
+      "2": 0.7440191387559808
+    },
+    "sample_count": 418,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2849740932642487,
+      "2": 0.7150259067357513
+    },
+    "sample_count": 1158,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6095238095238096,
+      "2": 0.3904761904761905
+    },
+    "sample_count": 420,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.628448275862069,
+      "2": 0.3715517241379311
+    },
+    "sample_count": 1160,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.6508313539192399,
+      "2": 0.22565320665083138,
+      "3": 0.09976247030878858,
+      "4": 0.019002375296912115,
+      "5": 0.004750593824228029
+    },
+    "sample_count": 421,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.7441860465116279,
+      "2": 0.17743324720068904,
+      "3": 0.062015503875968984,
+      "4": 0.013781223083548663,
+      "5": 0.002583979328165375
+    },
+    "sample_count": 1161,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.014527845036319615,
+      "2": 0.11864406779661016,
+      "3": 0.3631961259079904,
+      "4": 0.10895883777239708,
+      "5": 0.08958837772397094,
+      "6": 0.09927360774818401,
+      "7": 0.2058111380145278
+    },
+    "sample_count": 413,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.03105590062111801,
+      "2": 0.15350488021295475,
+      "3": 0.3442768411712511,
+      "4": 0.10559006211180123,
+      "5": 0.09494232475598935,
+      "6": 0.09760425909494233,
+      "7": 0.17302573203194319
+    },
+    "sample_count": 1127,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.12280701754385964,
+      "2": 0.3483709273182957,
+      "3": 0.20300751879699247,
+      "4": 0.3258145363408521
+    },
+    "sample_count": 399,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.13803088803088803,
+      "2": 0.3754826254826255,
+      "3": 0.1640926640926641,
+      "4": 0.3223938223938224
+    },
+    "sample_count": 1036,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.11813186813186813,
+      "2": 0.3406593406593406,
+      "3": 0.24725274725274726,
+      "4": 0.18131868131868126,
+      "5": 0.11263736263736265
+    },
+    "sample_count": 364,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.12830957230142567,
+      "2": 0.34725050916496947,
+      "3": 0.22708757637474541,
+      "4": 0.1720977596741344,
+      "5": 0.12525458248472504
+    },
+    "sample_count": 982,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.23243243243243245,
+      "2": 0.4135135135135135,
+      "3": 0.1945945945945946,
+      "4": 0.08108108108108109,
+      "5": 0.07837837837837838
+    },
+    "sample_count": 370,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2290448343079922,
+      "2": 0.42397660818713445,
+      "3": 0.20857699805068225,
+      "4": 0.07309941520467836,
+      "5": 0.06530214424951267
+    },
+    "sample_count": 1026,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07712765957446809,
+      "2": 0.2101063829787234,
+      "3": 0.20744680851063826,
+      "4": 0.30053191489361697,
+      "5": 0.2047872340425532
+    },
+    "sample_count": 376,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.05505505505505505,
+      "2": 0.17317317317317318,
+      "3": 0.2142142142142142,
+      "4": 0.3383383383383384,
+      "5": 0.21921921921921925
+    },
+    "sample_count": 999,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.20472440944881887,
+      "2": 0.23359580052493434,
+      "3": 0.2677165354330709,
+      "4": 0.22572178477690286,
+      "5": 0.06824146981627296
+    },
+    "sample_count": 381,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.1441263573543929,
+      "2": 0.33070088845014806,
+      "3": 0.24679170779861795,
+      "4": 0.20434353405725567,
+      "5": 0.07403751233958539
+    },
+    "sample_count": 1013,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.07012987012987014,
+      "2": 0.16103896103896104,
+      "3": 0.2571428571428571,
+      "4": 0.35324675324675325,
+      "5": 0.15844155844155844
+    },
+    "sample_count": 385,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.05523255813953488,
+      "2": 0.17732558139534885,
+      "3": 0.26259689922480617,
+      "4": 0.33624031007751937,
+      "5": 0.16860465116279066
+    },
+    "sample_count": 1032,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.08100558659217877,
+      "2": 0.1843575418994413,
+      "3": 0.2737430167597765,
+      "4": 0.31284916201117324,
+      "5": 0.14804469273743018
+    },
+    "sample_count": 358,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.054279749478079335,
+      "2": 0.1732776617954071,
+      "3": 0.2818371607515658,
+      "4": 0.32254697286012524,
+      "5": 0.16805845511482256
+    },
+    "sample_count": 958,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.15945945945945947,
+      "2": 0.3054054054054054,
+      "3": 0.3027027027027027,
+      "4": 0.15675675675675677,
+      "5": 0.07567567567567568
+    },
+    "sample_count": 370,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.14934409687184658,
+      "2": 0.3400605449041373,
+      "3": 0.2865792129162462,
+      "4": 0.16750756811301717,
+      "5": 0.056508577194752774
+    },
+    "sample_count": 991,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.46943765281173594,
+      "2": 0.32273838630806845,
+      "3": 0.20293398533007337,
+      "4": 0.0024449877750611247,
+      "5": 0.0024449877750611247
+    },
+    "sample_count": 409,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.4726457399103139,
+      "2": 0.3192825112107623,
+      "3": 0.19192825112107625,
+      "4": 0.01165919282511211,
+      "5": 0.004484304932735426
+    },
+    "sample_count": 1115,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.22194513715710723,
+      "2": 0.3241895261845386,
+      "3": 0.3167082294264339,
+      "4": 0.0997506234413965,
+      "5": 0.037406483790523685
+    },
+    "sample_count": 401,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.19121683440073192,
+      "2": 0.33394327538883806,
+      "3": 0.33668801463860937,
+      "4": 0.09881061299176579,
+      "5": 0.039341262580054895
+    },
+    "sample_count": 1093,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.18911917098445596,
+      "2": 0.3134715025906735,
+      "3": 0.4067357512953368,
+      "4": 0.06476683937823834,
+      "5": 0.02590673575129534
+    },
+    "sample_count": 386,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.18631178707224333,
+      "2": 0.32319391634980993,
+      "3": 0.3897338403041825,
+      "4": 0.06844106463878327,
+      "5": 0.032319391634980994
+    },
+    "sample_count": 1052,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.2159383033419023,
+      "2": 0.31876606683804626,
+      "3": 0.3804627249357327,
+      "4": 0.05398457583547558,
+      "5": 0.03084832904884319
+    },
+    "sample_count": 389,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.19034090909090906,
+      "2": 0.3323863636363636,
+      "3": 0.38257575757575757,
+      "4": 0.06060606060606061,
+      "5": 0.03409090909090909
+    },
+    "sample_count": 1056,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.19896640826873385,
+      "2": 0.28940568475452194,
+      "3": 0.4108527131782945,
+      "4": 0.06976744186046512,
+      "5": 0.031007751937984496
+    },
+    "sample_count": 387,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.17911877394636014,
+      "2": 0.31896551724137934,
+      "3": 0.3975095785440613,
+      "4": 0.06513409961685823,
+      "5": 0.039272030651340994
+    },
+    "sample_count": 1044,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.23037974683544307,
+      "2": 0.31898734177215193,
+      "3": 0.36202531645569624,
+      "4": 0.05822784810126582,
+      "5": 0.030379746835443037
+    },
+    "sample_count": 395,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.22934076137418757,
+      "2": 0.3704735376044568,
+      "3": 0.32683379758588677,
+      "4": 0.03992571959145776,
+      "5": 0.033426183844011144
+    },
+    "sample_count": 1077,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "In general, would you say your health is…",
+    "category": "religion",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.055421686746987955,
+      "2": 0.10602409638554218,
+      "3": 0.474698795180723,
+      "4": 0.32530120481927716,
+      "5": 0.038554216867469876
+    },
+    "sample_count": 415,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "In general, would you say your health is…",
+    "category": "religion",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Russia"
+    },
+    "p_real": {
+      "1": 0.06222990492653414,
+      "2": 0.06914433880726015,
+      "3": 0.35522904062229904,
+      "4": 0.4079515989628349,
+      "5": 0.10544511668107173
+    },
+    "sample_count": 1157,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  }
+]

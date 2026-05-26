@@ -1,0 +1,3082 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.38651994497936726,
+      "2": 0.5433287482806053,
+      "3": 0.06327372764786796,
+      "4": 0.0068775790921595595
+    },
+    "sample_count": 727,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2647058823529412,
+      "2": 0.6333333333333332,
+      "3": 0.08235294117647059,
+      "4": 0.0196078431372549
+    },
+    "sample_count": 510,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2884615384615385,
+      "2": 0.40659340659340654,
+      "3": 0.23214285714285712,
+      "4": 0.03983516483516483,
+      "5": 0.02335164835164835,
+      "6": 0.006868131868131868,
+      "7": 0.0027472527472527475
+    },
+    "sample_count": 728,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2180746561886051,
+      "2": 0.3339882121807466,
+      "3": 0.30648330058939094,
+      "4": 0.07662082514734773,
+      "5": 0.041257367387033395,
+      "6": 0.01768172888015717,
+      "7": 0.005893909626719058
+    },
+    "sample_count": 509,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.7228412256267409,
+      "2": 0.213091922005571,
+      "3": 0.05153203342618384,
+      "4": 0.012534818941504178
+    },
+    "sample_count": 718,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5888223552894212,
+      "2": 0.29940119760479034,
+      "3": 0.06586826347305388,
+      "4": 0.04590818363273452
+    },
+    "sample_count": 501,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3697996918335902,
+      "2": 0.057010785824345156,
+      "3": 0.07087827426810477,
+      "4": 0.50231124807396
+    },
+    "sample_count": 649,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2042553191489362,
+      "2": 0.02978723404255319,
+      "3": 0.05106382978723405,
+      "4": 0.7148936170212765
+    },
+    "sample_count": 470,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1702127659574468,
+      "2": 0.059574468085106386,
+      "3": 0.1574468085106383,
+      "4": 0.6127659574468084
+    },
+    "sample_count": 470,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.24663677130044845,
+      "2": 0.101644245142003,
+      "3": 0.13303437967115095,
+      "4": 0.5186846038863976
+    },
+    "sample_count": 669,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04377564979480165,
+      "2": 0.10533515731874145,
+      "3": 0.21751025991792067,
+      "4": 0.292749658002736,
+      "5": 0.34062927496580025
+    },
+    "sample_count": 731,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03725490196078431,
+      "2": 0.060784313725490195,
+      "3": 0.22156862745098038,
+      "4": 0.2372549019607843,
+      "5": 0.44313725490196076
+    },
+    "sample_count": 510,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.07777777777777778,
+      "2": 0.2680555555555555,
+      "3": 0.44583333333333325,
+      "4": 0.16249999999999998,
+      "5": 0.04583333333333333
+    },
+    "sample_count": 720,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03815261044176707,
+      "2": 0.23694779116465864,
+      "3": 0.5040160642570282,
+      "4": 0.16265060240963855,
+      "5": 0.05823293172690763
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.021246458923512748,
+      "2": 0.32294617563739375,
+      "3": 0.5226628895184137,
+      "4": 0.11473087818696884,
+      "5": 0.018413597733711047
+    },
+    "sample_count": 706,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.010482180293501049,
+      "2": 0.2557651991614256,
+      "3": 0.5450733752620546,
+      "4": 0.16771488469601678,
+      "5": 0.020964360587002098
+    },
+    "sample_count": 477,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.06240713224368499,
+      "2": 0.17682020802377416,
+      "3": 0.362555720653789,
+      "4": 0.23922734026745918,
+      "5": 0.15898959881129274
+    },
+    "sample_count": 673,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.04,
+      "2": 0.12842105263157896,
+      "3": 0.3263157894736842,
+      "4": 0.27578947368421053,
+      "5": 0.2294736842105263
+    },
+    "sample_count": 475,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.07275320970042796,
+      "2": 0.3338088445078459,
+      "3": 0.3880171184022824,
+      "4": 0.14835948644793154,
+      "5": 0.057061340941512134
+    },
+    "sample_count": 701,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.038617886178861784,
+      "2": 0.24796747967479674,
+      "3": 0.40853658536585363,
+      "4": 0.24796747967479674,
+      "5": 0.056910569105691054
+    },
+    "sample_count": 492,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.07391910739191072,
+      "2": 0.35704323570432356,
+      "3": 0.44072524407252434,
+      "4": 0.11297071129707112,
+      "5": 0.015341701534170155
+    },
+    "sample_count": 717,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.05070993914807302,
+      "2": 0.2839756592292089,
+      "3": 0.49290060851926987,
+      "4": 0.14198782961460446,
+      "5": 0.030425963488843813
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5917241379310345,
+      "2": 0.22482758620689655,
+      "3": 0.08551724137931035,
+      "4": 0.060689655172413794,
+      "5": 0.037241379310344824
+    },
+    "sample_count": 725,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5849802371541503,
+      "2": 0.20948616600790515,
+      "3": 0.14031620553359683,
+      "4": 0.03557312252964427,
+      "5": 0.029644268774703563
+    },
+    "sample_count": 506,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.06862745098039215,
+      "2": 0.19887955182072825,
+      "3": 0.24649859943977592,
+      "4": 0.24089635854341737,
+      "5": 0.24509803921568626
+    },
+    "sample_count": 714,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.05060728744939271,
+      "2": 0.11133603238866395,
+      "3": 0.23076923076923075,
+      "4": 0.3036437246963563,
+      "5": 0.3036437246963563
+    },
+    "sample_count": 494,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.29073033707865165,
+      "2": 0.37921348314606745,
+      "3": 0.16151685393258425,
+      "4": 0.12640449438202248,
+      "5": 0.042134831460674156
+    },
+    "sample_count": 712,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.248,
+      "2": 0.37,
+      "3": 0.21400000000000002,
+      "4": 0.126,
+      "5": 0.041999999999999996
+    },
+    "sample_count": 500,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.26609442060085836,
+      "2": 0.4206008583690988,
+      "3": 0.1802575107296137,
+      "4": 0.11158798283261803,
+      "5": 0.02145922746781116
+    },
+    "sample_count": 699,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.23076923076923078,
+      "2": 0.437246963562753,
+      "3": 0.1902834008097166,
+      "4": 0.10728744939271255,
+      "5": 0.03441295546558704
+    },
+    "sample_count": 494,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1147826086956522,
+      "2": 0.23478260869565215,
+      "3": 0.5130434782608695,
+      "4": 0.11130434782608695,
+      "5": 0.026086956521739132
+    },
+    "sample_count": 575,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.11471321695760597,
+      "2": 0.30922693266832924,
+      "3": 0.45885286783042395,
+      "4": 0.0997506234413965,
+      "5": 0.01745635910224439
+    },
+    "sample_count": 401,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3818443804034582,
+      "2": 0.4899135446685879,
+      "3": 0.09654178674351585,
+      "4": 0.03170028818443804
+    },
+    "sample_count": 694,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.44813278008298757,
+      "2": 0.45020746887966806,
+      "3": 0.08091286307053942,
+      "4": 0.02074688796680498
+    },
+    "sample_count": 482,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.125,
+      "2": 0.24573863636363638,
+      "3": 0.2826704545454546,
+      "4": 0.34659090909090906
+    },
+    "sample_count": 704,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15416666666666667,
+      "2": 0.3125,
+      "3": 0.25625,
+      "4": 0.2770833333333333
+    },
+    "sample_count": 480,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.12103746397694526,
+      "2": 0.2694524495677233,
+      "3": 0.2997118155619597,
+      "4": 0.30979827089337175
+    },
+    "sample_count": 694,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1722689075630252,
+      "2": 0.3550420168067227,
+      "3": 0.22899159663865545,
+      "4": 0.24369747899159663
+    },
+    "sample_count": 476,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1577503429355281,
+      "2": 0.13168724279835392,
+      "3": 0.16049382716049385,
+      "4": 0.06035665294924554,
+      "5": 0.1604938271604938,
+      "6": 0.32921810699588483
+    },
+    "sample_count": 729,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.19883040935672514,
+      "2": 0.15204678362573099,
+      "3": 0.2202729044834308,
+      "4": 0.0682261208576998,
+      "5": 0.12475633528265107,
+      "6": 0.23586744639376217
+    },
+    "sample_count": 513,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.24311183144246354,
+      "2": 0.1393841166936791,
+      "3": 0.07617504051863858,
+      "4": 0.5413290113452188
+    },
+    "sample_count": 617,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3292978208232446,
+      "2": 0.18644067796610167,
+      "3": 0.10411622276029056,
+      "4": 0.38014527845036317
+    },
+    "sample_count": 413,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3671071953010279,
+      "2": 0.23054331864904548,
+      "3": 0.1982378854625551,
+      "4": 0.20411160058737152
+    },
+    "sample_count": 681,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.31677018633540377,
+      "2": 0.2691511387163561,
+      "3": 0.22360248447204967,
+      "4": 0.1904761904761905
+    },
+    "sample_count": 483,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.34268833087149186,
+      "2": 0.21122599704579026,
+      "3": 0.22156573116691286,
+      "4": 0.22451994091580504
+    },
+    "sample_count": 677,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2786885245901639,
+      "2": 0.18032786885245902,
+      "3": 0.2581967213114754,
+      "4": 0.2827868852459016
+    },
+    "sample_count": 488,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.26021180030257185,
+      "2": 0.1815431164901664,
+      "3": 0.23903177004538578,
+      "4": 0.31921331316187596
+    },
+    "sample_count": 661,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.19916142557651992,
+      "2": 0.14675052410901468,
+      "3": 0.3018867924528302,
+      "4": 0.3522012578616352
+    },
+    "sample_count": 477,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2587719298245614,
+      "2": 0.22514619883040934,
+      "3": 0.23684210526315785,
+      "4": 0.2792397660818713
+    },
+    "sample_count": 684,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.20625000000000004,
+      "2": 0.17708333333333334,
+      "3": 0.2875,
+      "4": 0.3291666666666666
+    },
+    "sample_count": 480,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08982035928143713,
+      "2": 0.2065868263473054,
+      "3": 0.3023952095808383,
+      "4": 0.4011976047904192
+    },
+    "sample_count": 668,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1329113924050633,
+      "2": 0.19831223628691982,
+      "3": 0.29957805907172996,
+      "4": 0.36919831223628696
+    },
+    "sample_count": 474,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.22986822840409957,
+      "2": 0.17715959004392387,
+      "3": 0.18740849194729137,
+      "4": 0.1800878477306003,
+      "5": 0.22547584187408493
+    },
+    "sample_count": 683,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.17418032786885246,
+      "2": 0.14139344262295084,
+      "3": 0.21516393442622953,
+      "4": 0.2151639344262295,
+      "5": 0.2540983606557377
+    },
+    "sample_count": 488,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03409090909090909,
+      "2": 0.08096590909090909,
+      "3": 0.08380681818181819,
+      "4": 0.4090909090909091,
+      "5": 0.39204545454545453
+    },
+    "sample_count": 704,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.025742574257425745,
+      "2": 0.06138613861386138,
+      "3": 0.10693069306930693,
+      "4": 0.4297029702970297,
+      "5": 0.37623762376237624
+    },
+    "sample_count": 505,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15677966101694912,
+      "2": 0.12429378531073446,
+      "3": 0.14406779661016947,
+      "4": 0.23587570621468928,
+      "5": 0.3389830508474576
+    },
+    "sample_count": 708,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.093812375249501,
+      "2": 0.07385229540918163,
+      "3": 0.17564870259481036,
+      "4": 0.22754491017964074,
+      "5": 0.4291417165668662
+    },
+    "sample_count": 501,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.025862068965517238,
+      "2": 0.037356321839080456,
+      "3": 0.08764367816091953,
+      "4": 0.32471264367816094,
+      "5": 0.5244252873563218
+    },
+    "sample_count": 696,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.018072289156626505,
+      "2": 0.07630522088353414,
+      "3": 0.12248995983935743,
+      "4": 0.33333333333333337,
+      "5": 0.44979919678714864
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.12223858615611195,
+      "2": 0.37997054491899845,
+      "3": 0.21944035346097202,
+      "4": 0.1752577319587629,
+      "5": 0.10309278350515463
+    },
+    "sample_count": 679,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.14814814814814814,
+      "2": 0.35802469135802467,
+      "3": 0.21604938271604937,
+      "4": 0.17901234567901234,
+      "5": 0.09876543209876543
+    },
+    "sample_count": 486,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.17142857142857146,
+      "2": 0.3007518796992481,
+      "3": 0.18646616541353384,
+      "4": 0.16691729323308271,
+      "5": 0.1744360902255639
+    },
+    "sample_count": 665,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.13390928725701945,
+      "2": 0.2786177105831534,
+      "3": 0.2634989200863931,
+      "4": 0.09071274298056155,
+      "5": 0.23326133909287258
+    },
+    "sample_count": 463,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4262773722627738,
+      "2": 0.4992700729927008,
+      "3": 0.07007299270072992,
+      "4": 0.00437956204379562
+    },
+    "sample_count": 685,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.583864118895966,
+      "2": 0.3312101910828026,
+      "3": 0.08492569002123142,
+      "4": 0.0
+    },
+    "sample_count": 471,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2243125904486252,
+      "2": 0.053545586107091175,
+      "3": 0.09117221418234443,
+      "4": 0.12156295224312591,
+      "5": 0.05065123010130245,
+      "6": 0.059334298118668596,
+      "7": 0.12301013024602024,
+      "8": 0.22431259044862514,
+      "9": 0.05209840810419682
+    },
+    "sample_count": 691,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.30490405117270786,
+      "2": 0.08742004264392322,
+      "3": 0.09594882729211086,
+      "4": 0.08955223880597013,
+      "5": 0.04051172707889126,
+      "6": 0.0511727078891258,
+      "7": 0.07675906183368869,
+      "8": 0.18976545842217485,
+      "9": 0.06396588486140725
+    },
+    "sample_count": 469,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.3422619047619048,
+      "2": 0.07589285714285714,
+      "3": 0.09077380952380953,
+      "4": 0.10416666666666667,
+      "5": 0.04017857142857143,
+      "6": 0.041666666666666664,
+      "7": 0.08184523809523811,
+      "8": 0.16964285714285715,
+      "9": 0.05357142857142857
+    },
+    "sample_count": 672,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.41850220264317184,
+      "2": 0.10572687224669605,
+      "3": 0.07048458149779735,
+      "4": 0.07929515418502203,
+      "5": 0.015418502202643172,
+      "6": 0.039647577092511016,
+      "7": 0.0814977973568282,
+      "8": 0.15198237885462557,
+      "9": 0.037444933920704845
+    },
+    "sample_count": 454,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.22019635343618513,
+      "2": 0.04067321178120617,
+      "3": 0.07152875175315568,
+      "4": 0.11360448807854137,
+      "5": 0.056100981767180924,
+      "6": 0.06732117812061711,
+      "7": 0.1570827489481066,
+      "8": 0.22720897615708274,
+      "9": 0.04628330995792426
+    },
+    "sample_count": 713,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.28194726166328604,
+      "2": 0.08519269776876268,
+      "3": 0.09533468559837728,
+      "4": 0.08113590263691683,
+      "5": 0.05070993914807302,
+      "6": 0.04665314401622718,
+      "7": 0.09939148073022312,
+      "8": 0.2129817444219067,
+      "9": 0.04665314401622718
+    },
+    "sample_count": 493,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.41313269493844046,
+      "2": 0.11627906976744186,
+      "3": 0.09986320109439124,
+      "4": 0.11491108071135431,
+      "5": 0.03419972640218878,
+      "6": 0.04240766073871409,
+      "7": 0.03967168262653899,
+      "8": 0.09302325581395349,
+      "9": 0.046511627906976744
+    },
+    "sample_count": 731,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.545631067961165,
+      "2": 0.1475728155339806,
+      "3": 0.07961165048543689,
+      "4": 0.05048543689320389,
+      "5": 0.031067961165048542,
+      "6": 0.017475728155339806,
+      "7": 0.02330097087378641,
+      "8": 0.0737864077669903,
+      "9": 0.031067961165048546
+    },
+    "sample_count": 515,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.4295485636114911,
+      "2": 0.5704514363885089
+    },
+    "sample_count": 731,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.35852713178294576,
+      "2": 0.6414728682170543
+    },
+    "sample_count": 516,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.25375170532060026,
+      "2": 0.7462482946793998
+    },
+    "sample_count": 733,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.16342412451361868,
+      "2": 0.8365758754863812
+    },
+    "sample_count": 514,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.6459143968871596,
+      "2": 0.12451361867704282,
+      "3": 0.12256809338521402,
+      "4": 0.07003891050583658,
+      "5": 0.03696498054474708
+    },
+    "sample_count": 514,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.5212620027434842,
+      "2": 0.12482853223593963,
+      "3": 0.13031550068587106,
+      "4": 0.13717421124828535,
+      "5": 0.08641975308641975
+    },
+    "sample_count": 729,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.03351955307262569,
+      "2": 0.12709497206703912,
+      "3": 0.2793296089385474,
+      "4": 0.21648044692737428,
+      "5": 0.09776536312849161,
+      "6": 0.1424581005586592,
+      "7": 0.10335195530726257
+    },
+    "sample_count": 716,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.0321285140562249,
+      "2": 0.0642570281124498,
+      "3": 0.20682730923694775,
+      "4": 0.2289156626506024,
+      "5": 0.11244979919678716,
+      "6": 0.17068273092369476,
+      "7": 0.1847389558232932
+    },
+    "sample_count": 498,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2540861812778603,
+      "2": 0.19762258543833583,
+      "3": 0.24814264487369986,
+      "4": 0.300148588410104
+    },
+    "sample_count": 673,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.17872340425531913,
+      "2": 0.1170212765957447,
+      "3": 0.3680851063829787,
+      "4": 0.33617021276595743
+    },
+    "sample_count": 470,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1748971193415638,
+      "2": 0.5493827160493827,
+      "3": 0.20370370370370366,
+      "4": 0.04938271604938272,
+      "5": 0.02263374485596708
+    },
+    "sample_count": 486,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.2108433734939759,
+      "2": 0.47740963855421686,
+      "3": 0.22590361445783136,
+      "4": 0.06174698795180723,
+      "5": 0.024096385542168672
+    },
+    "sample_count": 664,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.30113636363636365,
+      "2": 0.5255681818181819,
+      "3": 0.12926136363636362,
+      "4": 0.026988636363636367,
+      "5": 0.017045454545454548
+    },
+    "sample_count": 704,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.28686868686868694,
+      "2": 0.5434343434343435,
+      "3": 0.12525252525252523,
+      "4": 0.02626262626262626,
+      "5": 0.01818181818181818
+    },
+    "sample_count": 495,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08656716417910448,
+      "2": 0.27611940298507465,
+      "3": 0.30746268656716413,
+      "4": 0.20149253731343283,
+      "5": 0.12835820895522387
+    },
+    "sample_count": 670,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.10173160173160173,
+      "2": 0.3030303030303031,
+      "3": 0.3203463203463204,
+      "4": 0.18398268398268397,
+      "5": 0.09090909090909091
+    },
+    "sample_count": 462,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.16572237960339944,
+      "2": 0.3611898016997167,
+      "3": 0.25495750708215303,
+      "4": 0.17563739376770537,
+      "5": 0.042492917847025496
+    },
+    "sample_count": 706,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.16564417177914112,
+      "2": 0.3190184049079755,
+      "3": 0.2883435582822086,
+      "4": 0.18813905930470348,
+      "5": 0.03885480572597137
+    },
+    "sample_count": 489,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.024781341107871724,
+      "2": 0.11078717201166181,
+      "3": 0.2755102040816327,
+      "4": 0.4052478134110788,
+      "5": 0.1836734693877551
+    },
+    "sample_count": 686,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.022964509394572025,
+      "2": 0.11482254697286011,
+      "3": 0.23173277661795408,
+      "4": 0.43841336116910234,
+      "5": 0.19206680584551147
+    },
+    "sample_count": 479,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.046989720998531576,
+      "2": 0.21732745961820854,
+      "3": 0.35829662261380324,
+      "4": 0.276064610866373,
+      "5": 0.10132158590308368
+    },
+    "sample_count": 681,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.07966457023060797,
+      "2": 0.2494758909853249,
+      "3": 0.3438155136268343,
+      "4": 0.23689727463312366,
+      "5": 0.090146750524109
+    },
+    "sample_count": 477,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08211143695014662,
+      "2": 0.31378299120234604,
+      "3": 0.2727272727272727,
+      "4": 0.2624633431085044,
+      "5": 0.0689149560117302
+    },
+    "sample_count": 682,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.08977035490605428,
+      "2": 0.26722338204592905,
+      "3": 0.26931106471816285,
+      "4": 0.25678496868475986,
+      "5": 0.11691022964509393
+    },
+    "sample_count": 479,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.27298850574712646,
+      "2": 0.324712643678161,
+      "3": 0.3505747126436782,
+      "4": 0.04166666666666667,
+      "5": 0.010057471264367816
+    },
+    "sample_count": 696,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.24593495934959353,
+      "2": 0.2642276422764228,
+      "3": 0.4044715447154472,
+      "4": 0.054878048780487805,
+      "5": 0.030487804878048783
+    },
+    "sample_count": 492,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.13169984686064318,
+      "2": 0.23430321592649309,
+      "3": 0.4333843797856049,
+      "4": 0.13016845329249616,
+      "5": 0.07044410413476264
+    },
+    "sample_count": 653,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.13859275053304904,
+      "2": 0.17697228144989335,
+      "3": 0.4861407249466951,
+      "4": 0.14712153518123666,
+      "5": 0.05117270788912579
+    },
+    "sample_count": 469,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15479876160990708,
+      "2": 0.2755417956656347,
+      "3": 0.48452012383900933,
+      "4": 0.055727554179566555,
+      "5": 0.029411764705882356
+    },
+    "sample_count": 646,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15845824411134904,
+      "2": 0.20556745182012848,
+      "3": 0.5546038543897217,
+      "4": 0.06638115631691649,
+      "5": 0.014989293361884369
+    },
+    "sample_count": 467,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.18433179723502308,
+      "2": 0.31643625192012287,
+      "3": 0.445468509984639,
+      "4": 0.02764976958525346,
+      "5": 0.026113671274961593
+    },
+    "sample_count": 651,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.20430107526881722,
+      "2": 0.26021505376344084,
+      "3": 0.49032258064516127,
+      "4": 0.03225806451612904,
+      "5": 0.012903225806451615
+    },
+    "sample_count": 465,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15698587127158556,
+      "2": 0.2731554160125589,
+      "3": 0.49921507064364207,
+      "4": 0.04709576138147567,
+      "5": 0.02354788069073783
+    },
+    "sample_count": 637,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.1673913043478261,
+      "2": 0.21739130434782605,
+      "3": 0.5391304347826088,
+      "4": 0.04782608695652174,
+      "5": 0.028260869565217395
+    },
+    "sample_count": 460,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.15470494417862837,
+      "2": 0.251993620414673,
+      "3": 0.5023923444976077,
+      "4": 0.057416267942583726,
+      "5": 0.03349282296650718
+    },
+    "sample_count": 627,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "marital_status": "Not_Married",
+      "country": "New Zealand"
+    },
+    "p_real": {
+      "1": 0.21598272138228944,
+      "2": 0.22462203023758098,
+      "3": 0.5075593952483801,
+      "4": 0.032397408207343416,
+      "5": 0.019438444924406047
+    },
+    "sample_count": 463,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "marital_status"
+    ]
+  }
+]

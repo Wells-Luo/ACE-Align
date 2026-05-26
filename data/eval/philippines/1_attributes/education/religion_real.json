@@ -1,0 +1,3138 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.3655913978494624,
+      "2": 0.5663082437275985,
+      "3": 0.05734767025089605,
+      "4": 0.010752688172043012
+    },
+    "sample_count": 279,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole...",
+    "category": "religion",
+    "options": {
+      "1": "Very happy",
+      "2": "Fairly happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.32270916334661354,
+      "2": 0.5683930942895086,
+      "3": 0.09030544488711818,
+      "4": 0.01859229747675963
+    },
+    "sample_count": 753,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.3655913978494623,
+      "2": 0.3763440860215054,
+      "3": 0.20788530465949823,
+      "4": 0.017921146953405017,
+      "5": 0.02150537634408602,
+      "6": 0.007168458781362007,
+      "7": 0.0035842293906810036
+    },
+    "sample_count": 279,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 All things considered, how satisfied are you with your relationships with family members?",
+    "category": "religion",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.34172185430463575,
+      "2": 0.39602649006622515,
+      "3": 0.22516556291390727,
+      "4": 0.011920529801324502,
+      "5": 0.01721854304635762,
+      "6": 0.003973509933774834,
+      "7": 0.003973509933774834
+    },
+    "sample_count": 755,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.84,
+      "2": 0.10909090909090907,
+      "3": 0.04363636363636365,
+      "4": 0.007272727272727273
+    },
+    "sample_count": 275,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Do you think it is wrong or not wrong if a MARRIED person has sexual relations with someone OTHER than his or her husband or wife, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.8032345013477089,
+      "2": 0.1711590296495957,
+      "3": 0.021563342318059297,
+      "4": 0.004043126684636119
+    },
+    "sample_count": 742,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7886792452830188,
+      "2": 0.10943396226415093,
+      "3": 0.06792452830188679,
+      "4": 0.033962264150943396
+    },
+    "sample_count": 265,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 And what about sexual relations between two adults of the same sex, is it...",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7788331071913162,
+      "2": 0.18046132971506107,
+      "3": 0.024423337856173684,
+      "4": 0.01628222523744912
+    },
+    "sample_count": 737,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.8953068592057761,
+      "2": 0.08303249097472924,
+      "3": 0.01444043321299639,
+      "4": 0.007220216606498195
+    },
+    "sample_count": 277,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q5 Do you PERSONALLY think it is wrong or not wrong for a woman to have an abortion if the family has a very low income and cannot afford any more children.",
+    "category": "religion",
+    "options": {
+      "1": "Always wrong",
+      "2": "Almost always wrong",
+      "3": "Wrong only sometimes",
+      "4": "Not wrong at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.8355437665782492,
+      "2": 0.13793103448275862,
+      "3": 0.01989389920424403,
+      "4": 0.006631299734748011
+    },
+    "sample_count": 754,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.3949275362318841,
+      "2": 0.2898550724637682,
+      "3": 0.11231884057971014,
+      "4": 0.13043478260869565,
+      "5": 0.07246376811594203
+    },
+    "sample_count": 276,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q6 Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look aer the home and family.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5324503311258277,
+      "2": 0.28344370860927154,
+      "3": 0.06490066225165562,
+      "4": 0.08874172185430464,
+      "5": 0.0304635761589404
+    },
+    "sample_count": 755,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09701492537313432,
+      "2": 0.31716417910447764,
+      "3": 0.43656716417910446,
+      "4": 0.09328358208955223,
+      "5": 0.05597014925373134
+    },
+    "sample_count": 268,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q7a How much confidence do you have in [Parliament] [use national legislature, e.g. U.S. Congress]",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1738544474393531,
+      "2": 0.3261455525606469,
+      "3": 0.40161725067385445,
+      "4": 0.068733153638814,
+      "5": 0.029649595687331533
+    },
+    "sample_count": 742,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06934306569343066,
+      "2": 0.427007299270073,
+      "3": 0.4014598540145986,
+      "4": 0.0802919708029197,
+      "5": 0.0218978102189781
+    },
+    "sample_count": 274,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q7b How much confidence do you have in business and industry",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11716621253405997,
+      "2": 0.37465940054495916,
+      "3": 0.4250681198910082,
+      "4": 0.05858310626702997,
+      "5": 0.02452316076294278
+    },
+    "sample_count": 734,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.26545454545454544,
+      "2": 0.45454545454545453,
+      "3": 0.24,
+      "4": 0.021818181818181816,
+      "5": 0.01818181818181818
+    },
+    "sample_count": 275,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q7c How much confidence do you have in courts and the legal system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.3853333333333333,
+      "2": 0.42,
+      "3": 0.168,
+      "4": 0.018666666666666668,
+      "5": 0.008
+    },
+    "sample_count": 750,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.07220216606498195,
+      "2": 0.2815884476534296,
+      "3": 0.4584837545126354,
+      "4": 0.1263537906137184,
+      "5": 0.06137184115523466
+    },
+    "sample_count": 277,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7d How much confidence do you have in schools and the educational system",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11111111111111112,
+      "2": 0.319946452476573,
+      "3": 0.4364123159303882,
+      "4": 0.08299866131191433,
+      "5": 0.04953145917001339
+    },
+    "sample_count": 747,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.2892857142857143,
+      "2": 0.5107142857142857,
+      "3": 0.14285714285714285,
+      "4": 0.04285714285714286,
+      "5": 0.014285714285714285
+    },
+    "sample_count": 280,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7e How much confidence do you have in churches and religious organizations",
+    "category": "religion",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.3519256308100929,
+      "2": 0.4674634794156706,
+      "3": 0.15139442231075698,
+      "4": 0.025232403718459497,
+      "5": 0.00398406374501992
+    },
+    "sample_count": 753,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.36690647482014394,
+      "2": 0.31294964028776984,
+      "3": 0.14748201438848918,
+      "4": 0.1366906474820144,
+      "5": 0.03597122302158273
+    },
+    "sample_count": 278,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q8 How much do you agree or disagree with the following statement? Religious leaders should not try to influence how people vote in elections.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.3450134770889488,
+      "2": 0.3423180592991914,
+      "3": 0.13881401617250674,
+      "4": 0.11859838274932614,
+      "5": 0.05525606469002695
+    },
+    "sample_count": 742,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.0827338129496403,
+      "2": 0.3776978417266187,
+      "3": 0.2589928057553957,
+      "4": 0.22302158273381295,
+      "5": 0.05755395683453236
+    },
+    "sample_count": 278,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9a We trust too much in science and not enough in religious faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.13770053475935828,
+      "2": 0.37967914438502676,
+      "3": 0.2286096256684492,
+      "4": 0.20721925133689842,
+      "5": 0.046791443850267386
+    },
+    "sample_count": 748,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.10830324909747294,
+      "2": 0.3393501805054152,
+      "3": 0.23465703971119134,
+      "4": 0.26714801444043323,
+      "5": 0.05054151624548736
+    },
+    "sample_count": 277,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9b Looking around the world, religions bring more conflict than peace.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1449468085106383,
+      "2": 0.3404255319148936,
+      "3": 0.21276595744680848,
+      "4": 0.25265957446808507,
+      "5": 0.04920212765957446
+    },
+    "sample_count": 752,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06545454545454545,
+      "2": 0.3963636363636363,
+      "3": 0.2581818181818182,
+      "4": 0.25818181818181823,
+      "5": 0.021818181818181816
+    },
+    "sample_count": 275,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q9 Please consider the following statements and tell me whether you agree or disagree. Q9c People with very strong religious beliefs are oen too intolerant of others.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09759358288770052,
+      "2": 0.3582887700534759,
+      "3": 0.2727272727272727,
+      "4": 0.22994652406417113,
+      "5": 0.04144385026737967
+    },
+    "sample_count": 748,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1111111111111111,
+      "2": 0.24814814814814815,
+      "3": 0.5851851851851853,
+      "4": 0.03333333333333333,
+      "5": 0.02222222222222222
+    },
+    "sample_count": 270,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q10 Do you think that churches and religious organizations in this country have too much power or too little power?",
+    "category": "religion",
+    "options": {
+      "1": "Far too much power",
+      "2": "Too much power",
+      "3": "About the right amount of power",
+      "4": "Too little power",
+      "5": "Far too little power"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.09732016925246828,
+      "2": 0.21156558533145275,
+      "3": 0.6107193229901269,
+      "4": 0.05923836389280677,
+      "5": 0.021156558533145277
+    },
+    "sample_count": 709,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.4354243542435424,
+      "2": 0.36162361623616235,
+      "3": 0.12546125461254615,
+      "4": 0.07749077490774907
+    },
+    "sample_count": 271,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q11 People have different religions and different religious views. Would you accept a person from a different religion or with a very different religious view from yours marrying a relative of yours?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely accept",
+      "2": "Probably accept",
+      "3": "Probably not accept",
+      "4": "Definitely not accept"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.38980716253443526,
+      "2": 0.34848484848484845,
+      "3": 0.12947658402203857,
+      "4": 0.1322314049586777
+    },
+    "sample_count": 726,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1784386617100372,
+      "2": 0.3234200743494423,
+      "3": 0.21561338289962828,
+      "4": 0.2825278810408922
+    },
+    "sample_count": 269,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q12a There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to hold public meetings to express their views?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.19440559440559438,
+      "2": 0.2923076923076924,
+      "3": 0.23076923076923078,
+      "4": 0.28251748251748254
+    },
+    "sample_count": 715,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.17100371747211895,
+      "2": 0.39776951672862454,
+      "3": 0.18959107806691453,
+      "4": 0.241635687732342
+    },
+    "sample_count": 269,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q12b There are some people whose views are considered extreme by the majority. Consider religious extremists, that is people who believe that their religion is the only true faith and all other religions should be considered as enemies. Do you think such people should be allowed to publish their views on the Internet or social media?",
+    "category": "religion",
+    "options": {
+      "1": "Definitely",
+      "2": "Probably",
+      "3": "Probably not",
+      "4": "Definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.1675977653631285,
+      "2": 0.3072625698324022,
+      "3": 0.24581005586592178,
+      "4": 0.27932960893854747
+    },
+    "sample_count": 716,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.0071428571428571435,
+      "2": 0.024999999999999998,
+      "3": 0.03214285714285715,
+      "4": 0.05,
+      "5": 0.08214285714285716,
+      "6": 0.8035714285714286
+    },
+    "sample_count": 280,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q13 Please indicate which statement below comes closest to expressing what you believe about God.",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God",
+      "2": "Don't know whether there is a God and no way to find out",
+      "3": "Don't believe in a personal God, but in a Higher Power",
+      "4": "Find myself believing in God sometimes, but not at others",
+      "5": "While I have doubts, I feel that I do believe in God",
+      "6": "I know God really exists and have no doubts about it"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.005291005291005291,
+      "2": 0.031746031746031744,
+      "3": 0.03439153439153439,
+      "4": 0.046296296296296294,
+      "5": 0.1164021164021164,
+      "6": 0.7658730158730158
+    },
+    "sample_count": 756,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.029520295202952025,
+      "2": 0.025830258302583023,
+      "3": 0.04059040590405903,
+      "4": 0.9040590405904059
+    },
+    "sample_count": 271,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q14 Which best describes your beliefs about God?",
+    "category": "religion",
+    "options": {
+      "1": "I don't believe in God now and I never have",
+      "2": "I don't believe in God now, but I used to",
+      "3": "I believe in God now, but I didn't use to",
+      "4": "I believe in God now and I always have"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.02266666666666666,
+      "2": 0.022666666666666665,
+      "3": 0.044000000000000004,
+      "4": 0.9106666666666666
+    },
+    "sample_count": 750,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7619047619047619,
+      "2": 0.14652014652014653,
+      "3": 0.03296703296703297,
+      "4": 0.058608058608058615
+    },
+    "sample_count": 273,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q15a Do you believe in life after death?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7023319615912208,
+      "2": 0.18930041152263372,
+      "3": 0.04801097393689986,
+      "4": 0.06035665294924554
+    },
+    "sample_count": 729,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.8,
+      "2": 0.13454545454545452,
+      "3": 0.029090909090909087,
+      "4": 0.03636363636363637
+    },
+    "sample_count": 275,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q15b Do you believe in heaven?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.819650067294751,
+      "2": 0.1426648721399731,
+      "3": 0.021534320323014805,
+      "4": 0.016150740242261104
+    },
+    "sample_count": 743,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6988847583643123,
+      "2": 0.16356877323420072,
+      "3": 0.03717472118959108,
+      "4": 0.1003717472118959
+    },
+    "sample_count": 269,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q15c Do you believe in hell?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6707650273224044,
+      "2": 0.14617486338797814,
+      "3": 0.06967213114754098,
+      "4": 0.1133879781420765
+    },
+    "sample_count": 732,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.47407407407407404,
+      "2": 0.22962962962962966,
+      "3": 0.12592592592592594,
+      "4": 0.17037037037037042
+    },
+    "sample_count": 270,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q15d Do you believe in religious miracles?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.45280437756497943,
+      "2": 0.24623803009575923,
+      "3": 0.14227086183310533,
+      "4": 0.15868673050615595
+    },
+    "sample_count": 731,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.2267657992565056,
+      "2": 0.24907063197026022,
+      "3": 0.1821561338289963,
+      "4": 0.3420074349442379
+    },
+    "sample_count": 269,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q15e Do you believe in the supernatural powers of deceased ancestors?",
+    "category": "religion",
+    "options": {
+      "1": "Yes, definitely",
+      "2": "Yes, probably",
+      "3": "No, probably not",
+      "4": "No, definitely not"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.276685393258427,
+      "2": 0.2134831460674157,
+      "3": 0.19241573033707868,
+      "4": 0.31741573033707865
+    },
+    "sample_count": 712,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5964285714285714,
+      "2": 0.3571428571428571,
+      "3": 0.03214285714285714,
+      "4": 0.0035714285714285713,
+      "5": 0.010714285714285713
+    },
+    "sample_count": 280,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16a There is a God who concerns Himself with every human being personally.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6037234042553191,
+      "2": 0.3430851063829786,
+      "3": 0.03590425531914893,
+      "4": 0.013297872340425532,
+      "5": 0.00398936170212766
+    },
+    "sample_count": 752,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.10071942446043165,
+      "2": 0.2841726618705036,
+      "3": 0.1654676258992806,
+      "4": 0.36690647482014394,
+      "5": 0.0827338129496403
+    },
+    "sample_count": 278,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16b There is little that people can do to change the course of their lives.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.15887850467289721,
+      "2": 0.35647530040053405,
+      "3": 0.1802403204272363,
+      "4": 0.24032042723631508,
+      "5": 0.06408544726301735
+    },
+    "sample_count": 749,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.31407942238267145,
+      "2": 0.3646209386281589,
+      "3": 0.10830324909747292,
+      "4": 0.16245487364620936,
+      "5": 0.05054151624548737
+    },
+    "sample_count": 277,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16c To me, life is meaningful only because God exists.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.33200531208499334,
+      "2": 0.46215139442231074,
+      "3": 0.07569721115537847,
+      "4": 0.10225763612217795,
+      "5": 0.02788844621513944
+    },
+    "sample_count": 753,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.03249097472924188,
+      "2": 0.09747292418772566,
+      "3": 0.06498194945848376,
+      "4": 0.5126353790613718,
+      "5": 0.29241877256317694
+    },
+    "sample_count": 277,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16d In my opinion, life does not serve any purpose.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.04417670682730923,
+      "2": 0.13788487282463188,
+      "3": 0.0856760374832664,
+      "4": 0.4538152610441767,
+      "5": 0.2784471218206158
+    },
+    "sample_count": 747,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.31654676258992803,
+      "2": 0.48561151079136694,
+      "3": 0.07913669064748202,
+      "4": 0.10071942446043165,
+      "5": 0.017985611510791366
+    },
+    "sample_count": 278,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16e Life is only meaningful if you provide the meaning yourself.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.2977303070761015,
+      "2": 0.47797062750333785,
+      "3": 0.11615487316421896,
+      "4": 0.08678237650200267,
+      "5": 0.021361815754339118
+    },
+    "sample_count": 749,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.259927797833935,
+      "2": 0.41155234657039713,
+      "3": 0.11191335740072202,
+      "4": 0.15523465703971118,
+      "5": 0.06137184115523466
+    },
+    "sample_count": 277,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q16 Do you agree or disagree with the following?  Q16f I have my own way of connecting with God without churches or religious services.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.2643524699599466,
+      "2": 0.4432576769025367,
+      "3": 0.11081441922563419,
+      "4": 0.13618157543391188,
+      "5": 0.045393858477970624
+    },
+    "sample_count": 749,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.02238805970149254,
+      "2": 0.9067164179104477,
+      "3": 0.04850746268656715,
+      "4": 0.02238805970149254
+    },
+    "sample_count": 268,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q17 In your opinion, does your religion treat men and women equally, treat men better than women, or treat women better than men?",
+    "category": "religion",
+    "options": {
+      "1": "I don't belong to or follow any religion",
+      "2": "Treats men and women equally",
+      "3": "Treats men better than women",
+      "4": "Treats women better than men"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.02868852459016394,
+      "2": 0.9030054644808743,
+      "3": 0.03825136612021858,
+      "4": 0.030054644808743168
+    },
+    "sample_count": 732,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.006954102920723227,
+      "2": 0.006954102920723226,
+      "3": 0.016689847009735744,
+      "4": 0.043115438108484,
+      "5": 0.10570236439499303,
+      "6": 0.12378303198887342,
+      "7": 0.12656467315716272,
+      "8": 0.4826147426981919,
+      "9": 0.08762169680111266
+    },
+    "sample_count": 719,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "When you were a child, how often did your mother attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.0037453183520599247,
+      "2": 0.018726591760299623,
+      "3": 0.011235955056179775,
+      "4": 0.022471910112359546,
+      "5": 0.07865168539325844,
+      "6": 0.11610486891385766,
+      "7": 0.12734082397003743,
+      "8": 0.5205992509363296,
+      "9": 0.10112359550561797
+    },
+    "sample_count": 267,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.025899280575539564,
+      "2": 0.034532374100719423,
+      "3": 0.02877697841726619,
+      "4": 0.06906474820143885,
+      "5": 0.14676258992805755,
+      "6": 0.14676258992805755,
+      "7": 0.08201438848920864,
+      "8": 0.3841726618705036,
+      "9": 0.08201438848920864
+    },
+    "sample_count": 695,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "When you were a child, how often did your father attend religious services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.03137254901960784,
+      "2": 0.03529411764705882,
+      "3": 0.03137254901960784,
+      "4": 0.07058823529411765,
+      "5": 0.16862745098039217,
+      "6": 0.09019607843137255,
+      "7": 0.09803921568627451,
+      "8": 0.3803921568627451,
+      "9": 0.09411764705882353
+    },
+    "sample_count": 255,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.0072992700729927005,
+      "2": 0.010948905109489052,
+      "3": 0.014598540145985401,
+      "4": 0.04744525547445255,
+      "5": 0.11678832116788321,
+      "6": 0.1386861313868613,
+      "7": 0.12043795620437957,
+      "8": 0.43795620437956206,
+      "9": 0.10583941605839416
+    },
+    "sample_count": 274,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "And what about when you were around 11 or 12, how often did you attend religious services then?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.008130081300813007,
+      "2": 0.01897018970189702,
+      "3": 0.02168021680216802,
+      "4": 0.05555555555555555,
+      "5": 0.1504065040650406,
+      "6": 0.1368563685636856,
+      "7": 0.13956639566395662,
+      "8": 0.3956639566395665,
+      "9": 0.07317073170731708
+    },
+    "sample_count": 738,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.26428571428571423,
+      "2": 0.16071428571428573,
+      "3": 0.06785714285714287,
+      "4": 0.0892857142857143,
+      "5": 0.15,
+      "6": 0.08214285714285714,
+      "7": 0.07500000000000001,
+      "8": 0.08214285714285714,
+      "9": 0.02857142857142857
+    },
+    "sample_count": 280,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "How often do you take part in the activities or organizations of a church or place of worship other than attending services?",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month",
+      "6": "2-3 times a month",
+      "7": "Nearly every week",
+      "8": "Every week",
+      "9": "Several times a week"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.332892998678996,
+      "2": 0.15323645970937913,
+      "3": 0.08454425363276089,
+      "4": 0.07001321003963012,
+      "5": 0.1215323645970938,
+      "6": 0.055482166446499344,
+      "7": 0.05416116248348745,
+      "8": 0.10303830911492734,
+      "9": 0.02509907529722589
+    },
+    "sample_count": 757,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7321428571428572,
+      "2": 0.26785714285714285
+    },
+    "sample_count": 280,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "During the last 12 months, have you read or listened to the reading of any holy scripture such as the Bible, Buddhist sutra, Koran, Sruti, Torah, or other religious scripture, not counting any reading that happened during a worship service?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7159841479524438,
+      "2": 0.2840158520475561
+    },
+    "sample_count": 757,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.7142857142857142,
+      "2": 0.28571428571428575
+    },
+    "sample_count": 280,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "For religious reasons do you have in your home a shrine, altar, or a religious object on display such as a [COUNTRY-SPECIFIC LIST icon, retablo, mezuzah, menorah, or crucifix]?",
+    "category": "religion",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6922060766182297,
+      "2": 0.30779392338177014
+    },
+    "sample_count": 757,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.18571428571428572,
+      "2": 0.15714285714285714,
+      "3": 0.18928571428571428,
+      "4": 0.23214285714285715,
+      "5": 0.23571428571428568
+    },
+    "sample_count": 280,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "How often do you visit a holy place for religious reasons such as going to [COUNTRY-SPECIFIC shrine/ temple/ church/ mosque]? Please do NOT count attending regular religious services at your usual place of worship, if you have one.",
+    "category": "religion",
+    "options": {
+      "1": "Never",
+      "2": "Less than once a year",
+      "3": "About once or twice a year",
+      "4": "Several times a year",
+      "5": "About once a month or more"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.18013245033112582,
+      "2": 0.21589403973509932,
+      "3": 0.19867549668874177,
+      "4": 0.17880794701986757,
+      "5": 0.22649006622516557
+    },
+    "sample_count": 755,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.043478260869565216,
+      "2": 0.22826086956521738,
+      "3": 0.5797101449275363,
+      "4": 0.09782608695652174,
+      "5": 0.02536231884057971,
+      "6": 0.014492753623188404,
+      "7": 0.010869565217391304
+    },
+    "sample_count": 276,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Would you describe yourself as...",
+    "category": "religion",
+    "options": {
+      "1": "Extremely religious",
+      "2": "Very religious",
+      "3": "Somewhat religious",
+      "4": "Neither religious nor non-religious",
+      "5": "Somewhat non-religious",
+      "6": "Very non-religious",
+      "7": "Extremely non-religious"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.04926764314247669,
+      "2": 0.2210386151797603,
+      "3": 0.6165113182423435,
+      "4": 0.0625832223701731,
+      "5": 0.02929427430093209,
+      "6": 0.015978695073235686,
+      "7": 0.005326231691078562
+    },
+    "sample_count": 751,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6045627376425855,
+      "2": 0.3307984790874525,
+      "3": 0.049429657794676805,
+      "4": 0.015209125475285171
+    },
+    "sample_count": 263,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "What best describes you:",
+    "category": "religion",
+    "options": {
+      "1": "I follow a religion, I am a spiritual person",
+      "2": "I follow a religion, I am not a spiritual person",
+      "3": "I don't follow a religion, I am a spiritual person",
+      "4": "I don't follow a religion, I am not a spiritual person"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.6373779637377963,
+      "2": 0.27057182705718275,
+      "3": 0.06136680613668061,
+      "4": 0.030683403068340307
+    },
+    "sample_count": 717,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.29285714285714287,
+      "2": 0.45357142857142857,
+      "3": 0.11785714285714285,
+      "4": 0.11071428571428572,
+      "5": 0.025
+    },
+    "sample_count": 280,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31a Make friends?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.29654255319148937,
+      "2": 0.5199468085106383,
+      "3": 0.07712765957446809,
+      "4": 0.07845744680851063,
+      "5": 0.027925531914893612
+    },
+    "sample_count": 752,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.34050179211469533,
+      "2": 0.47670250896057353,
+      "3": 0.11827956989247312,
+      "4": 0.050179211469534045,
+      "5": 0.014336917562724014
+    },
+    "sample_count": 279,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Do you agree or disagree that practicing a religion helps people to… Q31b Gain comfort in times of trouble or sorrow?",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.32756324900133155,
+      "2": 0.4913448735019973,
+      "3": 0.11584553928095873,
+      "4": 0.055925432756324896,
+      "5": 0.009320905459387484
+    },
+    "sample_count": 751,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06569343065693431,
+      "2": 0.27007299270072993,
+      "3": 0.20072992700729925,
+      "4": 0.3138686131386861,
+      "5": 0.1496350364963504
+    },
+    "sample_count": 274,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Do you agree or disagree with the following statement? Religions are usually a barrier to equality between women and men.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11363636363636363,
+      "2": 0.2446524064171123,
+      "3": 0.19518716577540107,
+      "4": 0.2767379679144385,
+      "5": 0.1697860962566845
+    },
+    "sample_count": 748,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.22627737226277378,
+      "2": 0.4927007299270073,
+      "3": 0.1094890510948905,
+      "4": 0.13503649635036497,
+      "5": 0.03649635036496351
+    },
+    "sample_count": 274,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Do you agree or disagree with the following statements? Q33a Governments should not interfere with the attempts of any religion to spread its faith.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.24533333333333335,
+      "2": 0.4506666666666667,
+      "3": 0.132,
+      "4": 0.152,
+      "5": 0.02
+    },
+    "sample_count": 750,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.08,
+      "2": 0.26545454545454544,
+      "3": 0.22181818181818183,
+      "4": 0.3563636363636364,
+      "5": 0.07636363636363636
+    },
+    "sample_count": 275,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Do you agree or disagree with the following statements? Q33b All things considered, people belonging to different religions cannot get along with each other when living close together.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.10561497326203208,
+      "2": 0.27941176470588236,
+      "3": 0.2072192513368984,
+      "4": 0.3088235294117648,
+      "5": 0.09893048128342245
+    },
+    "sample_count": 748,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.11940298507462686,
+      "2": 0.3992537313432836,
+      "3": 0.21641791044776115,
+      "4": 0.22388059701492535,
+      "5": 0.04104477611940298
+    },
+    "sample_count": 268,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Do you agree or disagree with each of the following? Q34a In [COUNTRY], religion represents the past and not the future.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.12912087912087913,
+      "2": 0.45054945054945056,
+      "3": 0.2032967032967033,
+      "4": 0.18131868131868134,
+      "5": 0.03571428571428571
+    },
+    "sample_count": 728,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.20652173913043478,
+      "2": 0.5108695652173914,
+      "3": 0.20289855072463767,
+      "4": 0.06159420289855072,
+      "5": 0.018115942028985508
+    },
+    "sample_count": 276,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Do you agree or disagree with each of the following? Q34b In [COUNTRY], religion is just as relevant to life today as it was in the past.",
+    "category": "religion",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.20107962213225372,
+      "2": 0.5101214574898786,
+      "3": 0.18623481781376516,
+      "4": 0.08771929824561402,
+      "5": 0.01484480431848853
+    },
+    "sample_count": 741,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.5092250922509225,
+      "2": 0.41697416974169743,
+      "3": 0.05535055350553505,
+      "4": 0.01845018450184502,
+      "5": 0.0
+    },
+    "sample_count": 271,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35a Christians",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.536813922356091,
+      "2": 0.37349397590361444,
+      "3": 0.04819277108433736,
+      "4": 0.029451137884872827,
+      "5": 0.012048192771084338
+    },
+    "sample_count": 747,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.12831241283124128,
+      "2": 0.3556485355648536,
+      "3": 0.21199442119944212,
+      "4": 0.16875871687587168,
+      "5": 0.13528591352859135
+    },
+    "sample_count": 717,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35b Muslims",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.12015503875968993,
+      "2": 0.33720930232558133,
+      "3": 0.2674418604651163,
+      "4": 0.19379844961240308,
+      "5": 0.08139534883720931
+    },
+    "sample_count": 258,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06854130052724078,
+      "2": 0.2319859402460457,
+      "3": 0.3145869947275923,
+      "4": 0.22495606326889278,
+      "5": 0.15992970123022845
+    },
+    "sample_count": 569,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35c Hindus",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.05454545454545455,
+      "2": 0.25000000000000006,
+      "3": 0.33636363636363636,
+      "4": 0.2181818181818182,
+      "5": 0.14090909090909093
+    },
+    "sample_count": 220,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06238859180035651,
+      "2": 0.20320855614973266,
+      "3": 0.2994652406417113,
+      "4": 0.2549019607843137,
+      "5": 0.1800356506238859
+    },
+    "sample_count": 561,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35d Buddhists",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.06451612903225806,
+      "2": 0.22580645161290322,
+      "3": 0.34562211981566815,
+      "4": 0.20276497695852536,
+      "5": 0.16129032258064516
+    },
+    "sample_count": 217,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.07130124777183601,
+      "2": 0.23172905525846704,
+      "3": 0.304812834224599,
+      "4": 0.20499108734402854,
+      "5": 0.18716577540106955
+    },
+    "sample_count": 561,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35e Jews",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.0502283105022831,
+      "2": 0.2328767123287671,
+      "3": 0.3515981735159817,
+      "4": 0.182648401826484,
+      "5": 0.182648401826484
+    },
+    "sample_count": 219,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.02880658436213992,
+      "2": 0.0411522633744856,
+      "3": 0.23868312757201643,
+      "4": 0.14814814814814817,
+      "5": 0.5432098765432098
+    },
+    "sample_count": 243,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "What is your personal attitude towards members of the following religious groups? Q35f Atheists or non-believers",
+    "category": "religion",
+    "options": {
+      "1": "Very positive",
+      "2": "Somewhat positive",
+      "3": "Neither positive nor negative",
+      "4": "Somewhat negative",
+      "5": "Very negative"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.02870813397129187,
+      "2": 0.09250398724082934,
+      "3": 0.17703349282296652,
+      "4": 0.21850079744816586,
+      "5": 0.48325358851674644
+    },
+    "sample_count": 627,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "In general, would you say your health is…",
+    "category": "religion",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "education": "College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.17204301075268819,
+      "2": 0.1827956989247312,
+      "3": 0.3369175627240144,
+      "4": 0.3046594982078853,
+      "5": 0.0035842293906810036
+    },
+    "sample_count": 279,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "In general, would you say your health is…",
+    "category": "religion",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "education": "No_College",
+      "country": "Philippines"
+    },
+    "p_real": {
+      "1": 0.14380825565912117,
+      "2": 0.15046604527296936,
+      "3": 0.27030625832223704,
+      "4": 0.38881491344873503,
+      "5": 0.04660452729693742
+    },
+    "sample_count": 751,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "education"
+    ]
+  }
+]

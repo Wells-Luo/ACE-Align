@@ -1,0 +1,3142 @@
+[
+  {
+    "question_id": "v5",
+    "question_text": "Q1a How close do you feel to your town or city?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3406060606060606,
+      "2": 0.576969696969697,
+      "3": 0.0703030303030303,
+      "4": 0.01212121212121212
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q1a How close do you feel to your town or city?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.340974212034384,
+      "2": 0.5329512893982807,
+      "3": 0.10601719197707736,
+      "4": 0.02005730659025788
+    },
+    "sample_count": 349,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q1b How close do you feel to your [County]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3712212817412334,
+      "2": 0.5525997581620314,
+      "3": 0.06287787182587666,
+      "4": 0.013301088270858526
+    },
+    "sample_count": 827,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q1b How close do you feel to your [County]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.36337209302325585,
+      "2": 0.5523255813953489,
+      "3": 0.07848837209302326,
+      "4": 0.005813953488372093
+    },
+    "sample_count": 344,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q1c How close do you feel to your [Country]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.6303030303030303,
+      "2": 0.3490909090909091,
+      "3": 0.018181818181818184,
+      "4": 0.0024242424242424242
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q1c How close do you feel to your [Country]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5835777126099706,
+      "2": 0.38416422287390023,
+      "3": 0.02932551319648094,
+      "4": 0.002932551319648094
+    },
+    "sample_count": 341,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q1d How close do you feel to your [Continent]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.20113314447592068,
+      "2": 0.5056657223796034,
+      "3": 0.24504249291784702,
+      "4": 0.04815864022662889
+    },
+    "sample_count": 706,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q1d How close do you feel to your [Continent]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2627737226277373,
+      "2": 0.4708029197080292,
+      "3": 0.1897810218978102,
+      "4": 0.07664233576642336
+    },
+    "sample_count": 274,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q2a Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have been born in [COUNTRY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3600973236009732,
+      "2": 0.3199513381995134,
+      "3": 0.26277372262773724,
+      "4": 0.057177615571776155
+    },
+    "sample_count": 822,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q2a Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have been born in [COUNTRY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.4460641399416909,
+      "2": 0.2653061224489795,
+      "3": 0.239067055393586,
+      "4": 0.04956268221574345
+    },
+    "sample_count": 343,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q2b Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] citizenship?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5121951219512195,
+      "2": 0.36097560975609755,
+      "3": 0.10609756097560977,
+      "4": 0.020731707317073175
+    },
+    "sample_count": 820,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q2b Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] citizenship?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5229885057471265,
+      "2": 0.3333333333333333,
+      "3": 0.12068965517241378,
+      "4": 0.022988505747126436
+    },
+    "sample_count": 348,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q2c Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have lived in [COUNTRY] for most of one's life?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3101343101343101,
+      "2": 0.35409035409035416,
+      "3": 0.30036630036630035,
+      "4": 0.03540903540903541
+    },
+    "sample_count": 819,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q2c Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have lived in [COUNTRY] for most of one's life?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.35964912280701755,
+      "2": 0.3654970760233918,
+      "3": 0.24561403508771928,
+      "4": 0.029239766081871343
+    },
+    "sample_count": 342,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q2d Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be able to speak [COUNTRY LANGUAGE]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3708690330477356,
+      "2": 0.37698898408812725,
+      "3": 0.19583843329253364,
+      "4": 0.05630354957160342
+    },
+    "sample_count": 817,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q2d Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be able to speak [COUNTRY LANGUAGE]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.43063583815028905,
+      "2": 0.34682080924855496,
+      "3": 0.16763005780346818,
+      "4": 0.05491329479768786
+    },
+    "sample_count": 346,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q2e Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be a [religion]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.05972045743329098,
+      "2": 0.1207115628970775,
+      "3": 0.420584498094028,
+      "4": 0.3989834815756036
+    },
+    "sample_count": 787,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q2e Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be a [religion]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1289308176100629,
+      "2": 0.14465408805031446,
+      "3": 0.4371069182389937,
+      "4": 0.28930817610062887
+    },
+    "sample_count": 318,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q2f Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to respect [COUNTRY NATIONALITY] political institutions and laws?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.268015170670038,
+      "2": 0.4538558786346396,
+      "3": 0.21238938053097345,
+      "4": 0.06573957016434893
+    },
+    "sample_count": 791,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q2f Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to respect [COUNTRY NATIONALITY] political institutions and laws?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2688821752265861,
+      "2": 0.4259818731117824,
+      "3": 0.23262839879154082,
+      "4": 0.07250755287009064
+    },
+    "sample_count": 331,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q2g Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to feel [COUNTRY NATIONALITY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5398773006134969,
+      "2": 0.3325153374233129,
+      "3": 0.09202453987730062,
+      "4": 0.035582822085889566
+    },
+    "sample_count": 815,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q2g Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to feel [COUNTRY NATIONALITY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5319767441860465,
+      "2": 0.3401162790697675,
+      "3": 0.09593023255813954,
+      "4": 0.031976744186046506
+    },
+    "sample_count": 344,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q2h Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] ancestry?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.298636926889715,
+      "2": 0.308550185873606,
+      "3": 0.29244114002478316,
+      "4": 0.10037174721189591
+    },
+    "sample_count": 807,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q2h Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] ancestry?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3652173913043478,
+      "2": 0.2985507246376812,
+      "3": 0.24347826086956523,
+      "4": 0.0927536231884058
+    },
+    "sample_count": 345,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3a I would rather be a citizen of [COUNTRY] than of any other country in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5934466019417476,
+      "2": 0.279126213592233,
+      "3": 0.0995145631067961,
+      "4": 0.013349514563106794,
+      "5": 0.014563106796116502
+    },
+    "sample_count": 824,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3a I would rather be a citizen of [COUNTRY] than of any other country in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.6628571428571429,
+      "2": 0.22000000000000003,
+      "3": 0.0742857142857143,
+      "4": 0.03142857142857143,
+      "5": 0.011428571428571427
+    },
+    "sample_count": 350,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3b There are some things about [COUNTRY] that make me feel ashamed of [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.21863354037267083,
+      "2": 0.3267080745341615,
+      "3": 0.24472049689440994,
+      "4": 0.08819875776397515,
+      "5": 0.12173913043478259
+    },
+    "sample_count": 805,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3b There are some things about [COUNTRY] that make me feel ashamed of [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1687116564417178,
+      "2": 0.35276073619631904,
+      "3": 0.23312883435582823,
+      "4": 0.09202453987730061,
+      "5": 0.15337423312883436
+    },
+    "sample_count": 326,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3c The world would be a better place if people from other countries were more like the [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.16645807259073847,
+      "2": 0.2765957446808511,
+      "3": 0.37672090112640805,
+      "4": 0.09011264080100125,
+      "5": 0.09011264080100125
+    },
+    "sample_count": 799,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3c The world would be a better place if people from other countries were more like the [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.20307692307692307,
+      "2": 0.25846153846153846,
+      "3": 0.39692307692307693,
+      "4": 0.05538461538461538,
+      "5": 0.08615384615384614
+    },
+    "sample_count": 325,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3d Generally speaking, [COUNTRY] is a better country than most other countries.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.46764346764346765,
+      "2": 0.3931623931623932,
+      "3": 0.11477411477411478,
+      "4": 0.01343101343101343,
+      "5": 0.010989010989010988
+    },
+    "sample_count": 819,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3d Generally speaking, [COUNTRY] is a better country than most other countries.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5404624277456649,
+      "2": 0.3352601156069365,
+      "3": 0.08670520231213871,
+      "4": 0.023121387283236993,
+      "5": 0.014450867052023121
+    },
+    "sample_count": 346,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3e People should support their country even if the country is in the wrong.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.05562422744128554,
+      "2": 0.10135970333745366,
+      "3": 0.27812113720642767,
+      "4": 0.21878862793572315,
+      "5": 0.34610630407910997
+    },
+    "sample_count": 809,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3e People should support their country even if the country is in the wrong.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.10843373493975902,
+      "2": 0.11746987951807229,
+      "3": 0.24096385542168677,
+      "4": 0.19879518072289154,
+      "5": 0.3343373493975904
+    },
+    "sample_count": 332,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3f When my country does well in international sports, it makes me proud to be [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.6004842615012107,
+      "2": 0.2845036319612591,
+      "3": 0.07142857142857141,
+      "4": 0.021791767554479417,
+      "5": 0.021791767554479417
+    },
+    "sample_count": 826,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3f When my country does well in international sports, it makes me proud to be [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.6264367816091955,
+      "2": 0.28448275862068967,
+      "3": 0.054597701149425276,
+      "4": 0.014367816091954023,
+      "5": 0.020114942528735632
+    },
+    "sample_count": 348,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3g I am often less proud of [COUNTRY] than I would like to be.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.19363057324840763,
+      "2": 0.33885350318471336,
+      "3": 0.2662420382165605,
+      "4": 0.1070063694267516,
+      "5": 0.09426751592356687
+    },
+    "sample_count": 785,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3g I am often less proud of [COUNTRY] than I would like to be.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1687116564417178,
+      "2": 0.35889570552147243,
+      "3": 0.29141104294478526,
+      "4": 0.0736196319018405,
+      "5": 0.10736196319018404
+    },
+    "sample_count": 326,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3h The world would be a better place if [COUNTRY NATIONALITY] acknowledged [COUNTRY's] shortcomings.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.23815620998719592,
+      "2": 0.23559539052496797,
+      "3": 0.3482714468629962,
+      "4": 0.06658130601792574,
+      "5": 0.11139564660691421
+    },
+    "sample_count": 781,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3h The world would be a better place if [COUNTRY NATIONALITY] acknowledged [COUNTRY's] shortcomings.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.24367088607594933,
+      "2": 0.26582278481012656,
+      "3": 0.34493670886075944,
+      "4": 0.03164556962025316,
+      "5": 0.1139240506329114
+    },
+    "sample_count": 316,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4a The way democracy works.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.12674094707520892,
+      "2": 0.6086350974930361,
+      "3": 0.23955431754874654,
+      "4": 0.02506963788300836
+    },
+    "sample_count": 718,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4a The way democracy works.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.17770034843205576,
+      "2": 0.5156794425087109,
+      "3": 0.2717770034843206,
+      "4": 0.0348432055749129
+    },
+    "sample_count": 287,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4b Its political influence in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.056980056980056974,
+      "2": 0.35185185185185186,
+      "3": 0.48290598290598297,
+      "4": 0.10826210826210826
+    },
+    "sample_count": 702,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4b Its political influence in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.050179211469534045,
+      "2": 0.3978494623655914,
+      "3": 0.45878136200716846,
+      "4": 0.0931899641577061
+    },
+    "sample_count": 279,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4c [COUNTRY's] economic achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.14383561643835616,
+      "2": 0.5534246575342466,
+      "3": 0.24794520547945204,
+      "4": 0.05479452054794521
+    },
+    "sample_count": 730,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4c [COUNTRY's] economic achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.10801393728222995,
+      "2": 0.5435540069686413,
+      "3": 0.3031358885017422,
+      "4": 0.04529616724738676
+    },
+    "sample_count": 287,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4d Its social security system.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1142857142857143,
+      "2": 0.4503401360544218,
+      "3": 0.3210884353741496,
+      "4": 0.11428571428571427
+    },
+    "sample_count": 735,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4d Its social security system.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.12040133779264213,
+      "2": 0.42474916387959866,
+      "3": 0.36454849498327757,
+      "4": 0.09030100334448159
+    },
+    "sample_count": 299,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4e Its scientific and technological achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5485498108448927,
+      "2": 0.4148802017654476,
+      "3": 0.03278688524590164,
+      "4": 0.0037831021437578815
+    },
+    "sample_count": 793,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4e Its scientific and technological achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5648148148148149,
+      "2": 0.3858024691358025,
+      "3": 0.037037037037037035,
+      "4": 0.01234567901234568
+    },
+    "sample_count": 324,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4f Its achievements in sports.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.45807259073842305,
+      "2": 0.458072590738423,
+      "3": 0.07384230287859823,
+      "4": 0.010012515644555695
+    },
+    "sample_count": 799,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4f Its achievements in sports.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5107033639143731,
+      "2": 0.4159021406727829,
+      "3": 0.05810397553516819,
+      "4": 0.01529051987767584
+    },
+    "sample_count": 327,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4g Its achievements in the arts and literature.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.47368421052631576,
+      "2": 0.45057766367137353,
+      "3": 0.0693196405648267,
+      "4": 0.006418485237483953
+    },
+    "sample_count": 779,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4g Its achievements in the arts and literature.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.4797507788161993,
+      "2": 0.42990654205607476,
+      "3": 0.08411214953271028,
+      "4": 0.006230529595015575
+    },
+    "sample_count": 321,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4h [COUNTRY's] armed forces.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.27272727272727276,
+      "2": 0.5034965034965034,
+      "3": 0.18321678321678322,
+      "4": 0.04055944055944056
+    },
+    "sample_count": 715,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4h [COUNTRY's] armed forces.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2888888888888889,
+      "2": 0.53015873015873,
+      "3": 0.16190476190476188,
+      "4": 0.019047619047619046
+    },
+    "sample_count": 315,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4i Its history.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.23680456490727533,
+      "2": 0.45363766048502135,
+      "3": 0.2553495007132668,
+      "4": 0.054208273894436526
+    },
+    "sample_count": 701,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4i Its history.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2275862068965517,
+      "2": 0.5103448275862068,
+      "3": 0.2310344827586207,
+      "4": 0.03103448275862069
+    },
+    "sample_count": 290,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4j Its fair and equal treatment of all groups in society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1456043956043956,
+      "2": 0.46840659340659346,
+      "3": 0.309065934065934,
+      "4": 0.07692307692307693
+    },
+    "sample_count": 728,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4j Its fair and equal treatment of all groups in society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.17064846416382254,
+      "2": 0.4607508532423208,
+      "3": 0.2764505119453925,
+      "4": 0.09215017064846416
+    },
+    "sample_count": 293,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5a [COUNTRY] should limit the import of foreign products in order to protect its national economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.07672634271099743,
+      "2": 0.18797953964194375,
+      "3": 0.39769820971867004,
+      "4": 0.17774936061381075,
+      "5": 0.15984654731457798
+    },
+    "sample_count": 782,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5a [COUNTRY] should limit the import of foreign products in order to protect its national economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.14779874213836477,
+      "2": 0.1509433962264151,
+      "3": 0.4968553459119497,
+      "4": 0.10062893081761005,
+      "5": 0.10377358490566038
+    },
+    "sample_count": 318,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5b For certain problems, like environment pollution, international bodies should have the right to enforce solutions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.26110363391655456,
+      "2": 0.39973082099596235,
+      "3": 0.25437415881561243,
+      "4": 0.05248990578734859,
+      "5": 0.03230148048452221
+    },
+    "sample_count": 743,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5b For certain problems, like environment pollution, international bodies should have the right to enforce solutions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2576271186440678,
+      "2": 0.4101694915254237,
+      "3": 0.2576271186440678,
+      "4": 0.03728813559322034,
+      "5": 0.037288135593220334
+    },
+    "sample_count": 295,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5c [COUNTRY] should follow its own interests, even if this leads to conflicts with other nations.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.06385696040868456,
+      "2": 0.16602809706257984,
+      "3": 0.351213282247765,
+      "4": 0.16730523627075353,
+      "5": 0.25159642401021715
+    },
+    "sample_count": 783,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5c [COUNTRY] should follow its own interests, even if this leads to conflicts with other nations.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.09090909090909091,
+      "2": 0.12337662337662338,
+      "3": 0.3993506493506493,
+      "4": 0.20454545454545456,
+      "5": 0.18181818181818185
+    },
+    "sample_count": 308,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5d Foreigners should not be allowed to buy land in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2874015748031496,
+      "2": 0.24278215223097113,
+      "3": 0.2572178477690289,
+      "4": 0.09973753280839893,
+      "5": 0.11286089238845144
+    },
+    "sample_count": 762,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5d Foreigners should not be allowed to buy land in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.29392971246006383,
+      "2": 0.20766773162939295,
+      "3": 0.2747603833865815,
+      "4": 0.10862619808306709,
+      "5": 0.11501597444089456
+    },
+    "sample_count": 313,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5e [COUNTRY's] television should give preference to [COUNTRY] films and programs.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.15288220551378445,
+      "2": 0.18045112781954886,
+      "3": 0.3583959899749373,
+      "4": 0.13283208020050125,
+      "5": 0.17543859649122806
+    },
+    "sample_count": 798,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5e [COUNTRY's] television should give preference to [COUNTRY] films and programs.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.18181818181818177,
+      "2": 0.1393939393939394,
+      "3": 0.41515151515151516,
+      "4": 0.1303030303030303,
+      "5": 0.13333333333333333
+    },
+    "sample_count": 330,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a Large international companies are doing more and more damage to local businesses in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1236111111111111,
+      "2": 0.2944444444444444,
+      "3": 0.3805555555555556,
+      "4": 0.12777777777777777,
+      "5": 0.07361111111111111
+    },
+    "sample_count": 720,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a Large international companies are doing more and more damage to local businesses in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1764705882352941,
+      "2": 0.2664359861591695,
+      "3": 0.3771626297577855,
+      "4": 0.10380622837370243,
+      "5": 0.07612456747404844
+    },
+    "sample_count": 289,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b Free trade leads to better products becoming available in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.16358839050131926,
+      "2": 0.4023746701846965,
+      "3": 0.32849604221635886,
+      "4": 0.06728232189973615,
+      "5": 0.03825857519788918
+    },
+    "sample_count": 758,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b Free trade leads to better products becoming available in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.12333333333333334,
+      "2": 0.37000000000000005,
+      "3": 0.33333333333333337,
+      "4": 0.09999999999999999,
+      "5": 0.07333333333333332
+    },
+    "sample_count": 300,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6c In general, [COUNTRY] should follow the decisions of international organizations to which it belongs, even if the government does not  agree with them.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.05509641873278237,
+      "2": 0.1790633608815427,
+      "3": 0.4517906336088154,
+      "4": 0.1928374655647383,
+      "5": 0.12121212121212122
+    },
+    "sample_count": 726,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6c In general, [COUNTRY] should follow the decisions of international organizations to which it belongs, even if the government does not  agree with them.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.07420494699646643,
+      "2": 0.19787985865724383,
+      "3": 0.49469964664310956,
+      "4": 0.13074204946996465,
+      "5": 0.10247349823321554
+    },
+    "sample_count": 283,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6d International organizations are taking away too much power from the [COUNTRY NATIONALITY] government.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.06220095693779905,
+      "2": 0.21531100478468904,
+      "3": 0.543859649122807,
+      "4": 0.11323763955342904,
+      "5": 0.0653907496012759
+    },
+    "sample_count": 627,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6d International organizations are taking away too much power from the [COUNTRY NATIONALITY] government.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.0923694779116466,
+      "2": 0.22489959839357432,
+      "3": 0.5100401606425703,
+      "4": 0.10843373493975904,
+      "5": 0.0642570281124498
+    },
+    "sample_count": 249,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6e I feel more like a citizen of the world than of any country.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.09726027397260274,
+      "2": 0.2027397260273973,
+      "3": 0.2616438356164384,
+      "4": 0.20547945205479454,
+      "5": 0.2328767123287671
+    },
+    "sample_count": 730,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6e I feel more like a citizen of the world than of any country.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.13356164383561642,
+      "2": 0.17465753424657532,
+      "3": 0.3184931506849315,
+      "4": 0.17808219178082196,
+      "5": 0.1952054794520548
+    },
+    "sample_count": 292,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7a It is impossible for people who do not share [COUNTRY'S] customs and traditions to become fully [COUNTRY'S NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.16832917705735662,
+      "2": 0.3354114713216958,
+      "3": 0.2506234413965087,
+      "4": 0.11596009975062345,
+      "5": 0.1296758104738155
+    },
+    "sample_count": 802,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7a It is impossible for people who do not share [COUNTRY'S] customs and traditions to become fully [COUNTRY'S NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1651651651651652,
+      "2": 0.32132132132132135,
+      "3": 0.26126126126126126,
+      "4": 0.12012012012012013,
+      "5": 0.1321321321321321
+    },
+    "sample_count": 333,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7b Ethnic minorities should be given government assistance to preserve their customs and traditions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.13133940182054615,
+      "2": 0.28348504551365417,
+      "3": 0.34070221066319895,
+      "4": 0.12613784135240574,
+      "5": 0.11833550065019507
+    },
+    "sample_count": 769,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7b Ethnic minorities should be given government assistance to preserve their customs and traditions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.10862619808306709,
+      "2": 0.3322683706070287,
+      "3": 0.35782747603833864,
+      "4": 0.0670926517571885,
+      "5": 0.134185303514377
+    },
+    "sample_count": 313,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q8 Some people say that it is better for a country if different racial and ethnic groups maintain their distinct customs and traditions. Others say that it is better if these groups adapt and blend into the large society.  Which of these views comes closer to your own? a) It is better for society if groups maintain their distinct customs and traditions. b) It is better if groups adapt and blend into the larger society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Maintain traditions",
+      "2": "Adapt into larger society"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.9114139693356048,
+      "2": 0.08858603066439523
+    },
+    "sample_count": 587,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q8 Some people say that it is better for a country if different racial and ethnic groups maintain their distinct customs and traditions. Others say that it is better if these groups adapt and blend into the large society.  Which of these views comes closer to your own? a) It is better for society if groups maintain their distinct customs and traditions. b) It is better if groups adapt and blend into the larger society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Maintain traditions",
+      "2": "Adapt into larger society"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.9009009009009009,
+      "2": 0.0990990990990991
+    },
+    "sample_count": 222,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9a Immigrants increase crime rates.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.14534161490683228,
+      "2": 0.27577639751552796,
+      "3": 0.3614906832298137,
+      "4": 0.12173913043478261,
+      "5": 0.09565217391304347
+    },
+    "sample_count": 805,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9a Immigrants increase crime rates.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.16158536585365854,
+      "2": 0.24085365853658536,
+      "3": 0.39939024390243905,
+      "4": 0.10365853658536585,
+      "5": 0.09451219512195122
+    },
+    "sample_count": 328,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9b Immigrants are generally good for [COUNTRY'S] economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.06182795698924732,
+      "2": 0.3279569892473118,
+      "3": 0.4435483870967742,
+      "4": 0.08870967741935483,
+      "5": 0.07795698924731181
+    },
+    "sample_count": 744,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9b Immigrants are generally good for [COUNTRY'S] economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.06354515050167224,
+      "2": 0.33444816053511706,
+      "3": 0.48494983277591974,
+      "4": 0.07023411371237456,
+      "5": 0.046822742474916385
+    },
+    "sample_count": 299,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9c Immigrants take jobs away from people who were born in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.02990897269180754,
+      "2": 0.11443433029908971,
+      "3": 0.42002600780234073,
+      "4": 0.2223667100130039,
+      "5": 0.2132639791937581
+    },
+    "sample_count": 769,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9c Immigrants take jobs away from people who were born in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.0625,
+      "2": 0.08125,
+      "3": 0.4312499999999999,
+      "4": 0.2125,
+      "5": 0.21249999999999997
+    },
+    "sample_count": 320,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9d Immigrants improve [COUNTRY'S NATIONALITY] society by bringing new ideas and cultures.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.04539385847797063,
+      "2": 0.2136181575433912,
+      "3": 0.5300400534045393,
+      "4": 0.1268357810413885,
+      "5": 0.08411214953271029
+    },
+    "sample_count": 749,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9d Immigrants improve [COUNTRY'S NATIONALITY] society by bringing new ideas and cultures.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.042483660130718956,
+      "2": 0.21895424836601307,
+      "3": 0.5326797385620914,
+      "4": 0.13725490196078433,
+      "5": 0.06862745098039216
+    },
+    "sample_count": 306,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9e [COUNTRY'S] culture is generally undermined by immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.03280839895013123,
+      "2": 0.12992125984251968,
+      "3": 0.3503937007874016,
+      "4": 0.2454068241469816,
+      "5": 0.24146981627296588
+    },
+    "sample_count": 762,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9e [COUNTRY'S] culture is generally undermined by immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.025559105431309903,
+      "2": 0.12140575079872204,
+      "3": 0.42492012779552707,
+      "4": 0.21725239616613412,
+      "5": 0.21086261980830667
+    },
+    "sample_count": 313,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9f Legal immigrants to [COUNTRY] who are not citizens should have the same rights as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.18798955613577023,
+      "2": 0.3864229765013055,
+      "3": 0.27154046997389036,
+      "4": 0.07049608355091383,
+      "5": 0.08355091383812012
+    },
+    "sample_count": 766,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9f Legal immigrants to [COUNTRY] who are not citizens should have the same rights as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.16774193548387095,
+      "2": 0.3645161290322581,
+      "3": 0.3258064516129032,
+      "4": 0.08709677419354837,
+      "5": 0.05483870967741935
+    },
+    "sample_count": 310,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9g [COUNTRY] should take stronger measures to exclude illegal immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.483502538071066,
+      "2": 0.3185279187817259,
+      "3": 0.1484771573604061,
+      "4": 0.030456852791878177,
+      "5": 0.01903553299492386
+    },
+    "sample_count": 788,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9g [COUNTRY] should take stronger measures to exclude illegal immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.41768292682926833,
+      "2": 0.3658536585365854,
+      "3": 0.17073170731707318,
+      "4": 0.0274390243902439,
+      "5": 0.01829268292682927
+    },
+    "sample_count": 328,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9h Legal immigrants should have equal access to public education as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.4601769911504424,
+      "2": 0.3805309734513274,
+      "3": 0.12895069532237674,
+      "4": 0.015170670037926676,
+      "5": 0.015170670037926676
+    },
+    "sample_count": 791,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9h Legal immigrants should have equal access to public education as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.40809968847352024,
+      "2": 0.38317757009345793,
+      "3": 0.16510903426791276,
+      "4": 0.018691588785046728,
+      "5": 0.024922118380062305
+    },
+    "sample_count": 321,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q10 Do you think the number of immigrants to [COUNTRY] nowadays should be ...",
+    "category": "national_identity",
+    "options": {
+      "1": "Increased a lot",
+      "2": "Increased a little",
+      "3": "Remain the same as it is",
+      "4": "Reduced a little",
+      "5": "Reduced a lot"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.05221518987341772,
+      "2": 0.16455696202531647,
+      "3": 0.5569620253164557,
+      "4": 0.1503164556962025,
+      "5": 0.0759493670886076
+    },
+    "sample_count": 632,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q10 Do you think the number of immigrants to [COUNTRY] nowadays should be ...",
+    "category": "national_identity",
+    "options": {
+      "1": "Increased a lot",
+      "2": "Increased a little",
+      "3": "Remain the same as it is",
+      "4": "Reduced a little",
+      "5": "Reduced a lot"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.0489795918367347,
+      "2": 0.1346938775510204,
+      "3": 0.5877551020408163,
+      "4": 0.16326530612244902,
+      "5": 0.0653061224489796
+    },
+    "sample_count": 245,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q11 Which of these statements about immigrants comes closest to your view: - Immigrants should retain their culture of origin and not adopt COUNTRY's culture.  - Immigrants should retain their culture of origin and also adopt COUNTRY's culture.  - Immigrants should give up their culture of origin and adopt COUNTRY's culture.",
+    "category": "national_identity",
+    "options": {
+      "1": "Immigrants should retain their culture of origin and not adopt COUNTRY's culture",
+      "2": "Immigrants should retain their culture of origin and also adopt COUNTRY's culture",
+      "3": "Immigrants should give up their culture of origin and adopt COUNTRY's culture"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.010767160161507403,
+      "2": 0.9205921938088828,
+      "3": 0.06864064602960969
+    },
+    "sample_count": 743,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q11 Which of these statements about immigrants comes closest to your view: - Immigrants should retain their culture of origin and not adopt COUNTRY's culture.  - Immigrants should retain their culture of origin and also adopt COUNTRY's culture.  - Immigrants should give up their culture of origin and adopt COUNTRY's culture.",
+    "category": "national_identity",
+    "options": {
+      "1": "Immigrants should retain their culture of origin and not adopt COUNTRY's culture",
+      "2": "Immigrants should retain their culture of origin and also adopt COUNTRY's culture",
+      "3": "Immigrants should give up their culture of origin and adopt COUNTRY's culture"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.019672131147540985,
+      "2": 0.9213114754098362,
+      "3": 0.05901639344262295
+    },
+    "sample_count": 305,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q12 How proud are you of being [COUNTRY NATIONALITY]? (PLEASE, CHECK ONE BOX BELOW)",
+    "category": "national_identity",
+    "options": {
+      "0": "I am not [Country Nationality]",
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "0": 0.0024968789013732834,
+      "1": 0.445692883895131,
+      "2": 0.4719101123595505,
+      "3": 0.07365792759051186,
+      "4": 0.006242197253433208
+    },
+    "sample_count": 801,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q12 How proud are you of being [COUNTRY NATIONALITY]? (PLEASE, CHECK ONE BOX BELOW)",
+    "category": "national_identity",
+    "options": {
+      "0": "I am not [Country Nationality]",
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "0": 0.0,
+      "1": 0.435820895522388,
+      "2": 0.48358208955223886,
+      "3": 0.06268656716417911,
+      "4": 0.01791044776119403
+    },
+    "sample_count": 335,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q13a How much do you agree or disagree that strong patriotic feelings in [COUNTRY] strengthen [COUNTRY's] place in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.29057591623036644,
+      "2": 0.3193717277486911,
+      "3": 0.25654450261780104,
+      "4": 0.06282722513089006,
+      "5": 0.07068062827225131
+    },
+    "sample_count": 764,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q13a How much do you agree or disagree that strong patriotic feelings in [COUNTRY] strengthen [COUNTRY's] place in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2616822429906542,
+      "2": 0.35202492211838005,
+      "3": 0.30218068535825543,
+      "4": 0.03426791277258567,
+      "5": 0.04984423676012461
+    },
+    "sample_count": 321,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "Q13b How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to intolerance in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.052316890881913304,
+      "2": 0.1524663677130045,
+      "3": 0.46188340807174877,
+      "4": 0.14947683109118087,
+      "5": 0.18385650224215244
+    },
+    "sample_count": 669,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "Q13b How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to intolerance in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.06521739130434782,
+      "2": 0.17028985507246375,
+      "3": 0.5398550724637682,
+      "4": 0.09782608695652174,
+      "5": 0.12681159420289856
+    },
+    "sample_count": 276,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q13c How much do you agree or disagree that strong patriotic feelings in [COUNTRY] are needed for [COUNTRY] to remain united.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.23188405797101452,
+      "2": 0.4440052700922267,
+      "3": 0.23451910408432147,
+      "4": 0.052700922266139656,
+      "5": 0.03689064558629776
+    },
+    "sample_count": 759,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q13c How much do you agree or disagree that strong patriotic feelings in [COUNTRY] are needed for [COUNTRY] to remain united.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.24193548387096775,
+      "2": 0.4580645161290323,
+      "3": 0.23870967741935487,
+      "4": 0.022580645161290325,
+      "5": 0.03870967741935484
+    },
+    "sample_count": 310,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q13d How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to negative attitudes towards immigrants in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.03481894150417827,
+      "2": 0.13231197771587747,
+      "3": 0.3523676880222841,
+      "4": 0.17688022284122565,
+      "5": 0.30362116991643456
+    },
+    "sample_count": 718,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q13d How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to negative attitudes towards immigrants in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.04067796610169492,
+      "2": 0.13220338983050847,
+      "3": 0.4203389830508475,
+      "4": 0.18305084745762715,
+      "5": 0.22372881355932206
+    },
+    "sample_count": 295,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  }
+]

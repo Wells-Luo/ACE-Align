@@ -1,0 +1,3282 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.07603305785123968,
+      "2": 0.3504132231404959,
+      "3": 0.3520661157024793,
+      "4": 0.1305785123966942,
+      "5": 0.04462809917355372,
+      "6": 0.029752066115702476,
+      "7": 0.01652892561983471
+    },
+    "sample_count": 605,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.09999999999999999,
+      "2": 0.3846153846153846,
+      "3": 0.32307692307692304,
+      "4": 0.12051282051282051,
+      "5": 0.04102564102564102,
+      "6": 0.021794871794871794,
+      "7": 0.008974358974358974
+    },
+    "sample_count": 780,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.04761904761904762,
+      "2": 0.2534013605442177,
+      "3": 0.5901360544217688,
+      "4": 0.0935374149659864,
+      "5": 0.015306122448979591
+    },
+    "sample_count": 588,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.031331592689295036,
+      "2": 0.21671018276762405,
+      "3": 0.6527415143603134,
+      "4": 0.09660574412532638,
+      "5": 0.0026109660574412533
+    },
+    "sample_count": 766,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.07796610169491526,
+      "2": 0.18135593220338986,
+      "3": 0.2796610169491526,
+      "4": 0.23050847457627116,
+      "5": 0.2305084745762712
+    },
+    "sample_count": 590,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.04533678756476684,
+      "2": 0.13082901554404144,
+      "3": 0.3069948186528498,
+      "4": 0.3134715025906735,
+      "5": 0.2033678756476684
+    },
+    "sample_count": 772,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.19392917369308602,
+      "2": 0.372681281618887,
+      "3": 0.2799325463743676,
+      "4": 0.07419898819561552,
+      "5": 0.07925801011804384
+    },
+    "sample_count": 593,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.14686248331108148,
+      "2": 0.3190921228304406,
+      "3": 0.3097463284379172,
+      "4": 0.12683578104138854,
+      "5": 0.09746328437917223
+    },
+    "sample_count": 749,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.08950086058519795,
+      "2": 0.16179001721170397,
+      "3": 0.29604130808950085,
+      "4": 0.17383820998278832,
+      "5": 0.278829604130809
+    },
+    "sample_count": 581,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.05571428571428572,
+      "2": 0.14,
+      "3": 0.3428571428571428,
+      "4": 0.19714285714285718,
+      "5": 0.2642857142857143
+    },
+    "sample_count": 700,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.14468864468864467,
+      "2": 0.2582417582417582,
+      "3": 0.32967032967032966,
+      "4": 0.12087912087912087,
+      "5": 0.1465201465201465
+    },
+    "sample_count": 546,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.0785498489425982,
+      "2": 0.2447129909365559,
+      "3": 0.40030211480362526,
+      "4": 0.13595166163141995,
+      "5": 0.1404833836858006
+    },
+    "sample_count": 662,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.028380634390651086,
+      "2": 0.22704507512520863,
+      "3": 0.25208681135225375,
+      "4": 0.37395659432387307,
+      "5": 0.11853088480801335
+    },
+    "sample_count": 599,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.011688311688311689,
+      "2": 0.18311688311688315,
+      "3": 0.2571428571428572,
+      "4": 0.4402597402597403,
+      "5": 0.1077922077922078
+    },
+    "sample_count": 770,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.20135363790186123,
+      "2": 0.3147208121827411,
+      "3": 0.1895093062605753,
+      "4": 0.1319796954314721,
+      "5": 0.16243654822335024
+    },
+    "sample_count": 591,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.19626168224299065,
+      "2": 0.3538050734312417,
+      "3": 0.25100133511348466,
+      "4": 0.10814419225634178,
+      "5": 0.09078771695594126
+    },
+    "sample_count": 749,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.11774744027303753,
+      "2": 0.2167235494880546,
+      "3": 0.26621160409556316,
+      "4": 0.21843003412969283,
+      "5": 0.18088737201365185
+    },
+    "sample_count": 586,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.09581646423751686,
+      "2": 0.20917678812415655,
+      "3": 0.3373819163292847,
+      "4": 0.21052631578947364,
+      "5": 0.14709851551956815
+    },
+    "sample_count": 741,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5604770017035776,
+      "2": 0.25383304940374785,
+      "3": 0.15332197614991483,
+      "4": 0.023850085178875637,
+      "5": 0.008517887563884156
+    },
+    "sample_count": 587,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.6005291005291005,
+      "2": 0.26190476190476186,
+      "3": 0.10978835978835978,
+      "4": 0.01984126984126984,
+      "5": 0.007936507936507936
+    },
+    "sample_count": 756,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2374581939799331,
+      "2": 0.36454849498327757,
+      "3": 0.33277591973244147,
+      "4": 0.05685618729096989,
+      "5": 0.008361204013377926
+    },
+    "sample_count": 598,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.17857142857142855,
+      "2": 0.39285714285714285,
+      "3": 0.33994708994708994,
+      "4": 0.07671957671957672,
+      "5": 0.011904761904761904
+    },
+    "sample_count": 756,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.025906735751295335,
+      "2": 0.09844559585492227,
+      "3": 0.8238341968911918,
+      "4": 0.041450777202072527,
+      "5": 0.010362694300518133
+    },
+    "sample_count": 579,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.018893387314439944,
+      "2": 0.09581646423751687,
+      "3": 0.8232118758434547,
+      "4": 0.05802968960863697,
+      "5": 0.004048582995951417
+    },
+    "sample_count": 741,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.38230088495575226,
+      "2": 0.4194690265486726,
+      "3": 0.16460176991150444,
+      "4": 0.02831858407079646,
+      "5": 0.005309734513274336
+    },
+    "sample_count": 565,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3956043956043957,
+      "2": 0.42032967032967034,
+      "3": 0.14835164835164835,
+      "4": 0.026098901098901096,
+      "5": 0.009615384615384616
+    },
+    "sample_count": 728,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.17922948073701842,
+      "2": 0.3283082077051926,
+      "3": 0.3417085427135678,
+      "4": 0.06532663316582915,
+      "5": 0.08542713567839195
+    },
+    "sample_count": 597,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.11811023622047243,
+      "2": 0.2821522309711286,
+      "3": 0.3517060367454068,
+      "4": 0.0826771653543307,
+      "5": 0.16535433070866143
+    },
+    "sample_count": 762,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.16275167785234898,
+      "2": 0.4513422818791946,
+      "3": 0.3070469798657718,
+      "4": 0.03859060402684563,
+      "5": 0.040268456375838924
+    },
+    "sample_count": 596,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.12402088772845955,
+      "2": 0.47258485639686687,
+      "3": 0.29373368146214096,
+      "4": 0.04177545691906005,
+      "5": 0.06788511749347258
+    },
+    "sample_count": 766,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.11245674740484429,
+      "2": 0.3667820069204152,
+      "3": 0.4152249134948097,
+      "4": 0.05536332179930796,
+      "5": 0.050173010380622836
+    },
+    "sample_count": 578,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.07372654155495979,
+      "2": 0.37131367292225204,
+      "3": 0.43163538873994645,
+      "4": 0.05227882037533512,
+      "5": 0.0710455764075067
+    },
+    "sample_count": 746,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.0730050933786078,
+      "2": 0.2767402376910017,
+      "3": 0.3565365025466893,
+      "4": 0.12224108658743633,
+      "5": 0.17147707979626484
+    },
+    "sample_count": 589,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.06747638326585693,
+      "2": 0.2483130904183536,
+      "3": 0.40890688259109315,
+      "4": 0.12820512820512825,
+      "5": 0.14709851551956815
+    },
+    "sample_count": 741,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.01592920353982301,
+      "2": 0.13097345132743365,
+      "3": 0.5663716814159292,
+      "4": 0.15575221238938053,
+      "5": 0.13097345132743363
+    },
+    "sample_count": 565,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.01366120218579235,
+      "2": 0.14344262295081966,
+      "3": 0.5505464480874317,
+      "4": 0.18306010928961747,
+      "5": 0.1092896174863388
+    },
+    "sample_count": 732,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.13930348258706468,
+      "2": 0.5754560530679933,
+      "3": 0.22719734660033164,
+      "4": 0.02321724709784411,
+      "5": 0.03482587064676617
+    },
+    "sample_count": 603,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.12724935732647819,
+      "2": 0.5784061696658097,
+      "3": 0.24035989717223652,
+      "4": 0.03470437017994858,
+      "5": 0.019280205655526992
+    },
+    "sample_count": 778,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.03041144901610018,
+      "2": 0.13059033989266547,
+      "3": 0.3416815742397138,
+      "4": 0.2415026833631485,
+      "5": 0.2558139534883721
+    },
+    "sample_count": 559,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.022922636103151865,
+      "2": 0.12464183381088825,
+      "3": 0.3853868194842407,
+      "4": 0.2406876790830946,
+      "5": 0.22636103151862463
+    },
+    "sample_count": 698,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.11231884057971016,
+      "2": 0.16847826086956522,
+      "3": 0.3695652173913043,
+      "4": 0.1739130434782609,
+      "5": 0.17572463768115945
+    },
+    "sample_count": 552,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.058997050147492625,
+      "2": 0.14454277286135694,
+      "3": 0.3746312684365781,
+      "4": 0.20353982300884954,
+      "5": 0.21828908554572274
+    },
+    "sample_count": 678,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.05081669691470055,
+      "2": 0.025408348457350273,
+      "3": 0.12704174228675136,
+      "4": 0.29038112522686027,
+      "5": 0.28856624319419233,
+      "6": 0.21778584392014524
+    },
+    "sample_count": 551,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.06754772393538915,
+      "2": 0.013215859030837005,
+      "3": 0.17474302496328925,
+      "4": 0.28928046989721007,
+      "5": 0.26138032305433184,
+      "6": 0.19383259911894274
+    },
+    "sample_count": 681,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.24043715846994534,
+      "2": 0.2459016393442623,
+      "3": 0.40072859744990885,
+      "4": 0.07285974499089254,
+      "5": 0.0400728597449909
+    },
+    "sample_count": 549,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.19851851851851854,
+      "2": 0.18370370370370373,
+      "3": 0.41629629629629633,
+      "4": 0.12444444444444445,
+      "5": 0.07703703703703704
+    },
+    "sample_count": 675,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3144424131627057,
+      "2": 0.29798903107861063,
+      "3": 0.2943327239488117,
+      "4": 0.06946983546617914,
+      "5": 0.023765996343692867
+    },
+    "sample_count": 547,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.26587887740029537,
+      "2": 0.27474150664697194,
+      "3": 0.3146233382570162,
+      "4": 0.08862629246676514,
+      "5": 0.05612998522895126
+    },
+    "sample_count": 677,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1415607985480944,
+      "2": 0.17422867513611615,
+      "3": 0.3647912885662432,
+      "4": 0.1923774954627949,
+      "5": 0.12704174228675136
+    },
+    "sample_count": 551,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.12298682284040996,
+      "2": 0.16398243045387995,
+      "3": 0.3894582723279649,
+      "4": 0.18740849194729137,
+      "5": 0.13616398243045388
+    },
+    "sample_count": 683,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.07531380753138076,
+      "2": 0.301255230125523,
+      "3": 0.45606694560669453,
+      "4": 0.05230125523012552,
+      "5": 0.11506276150627615
+    },
+    "sample_count": 478,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.05342237061769616,
+      "2": 0.3606010016694491,
+      "3": 0.4407345575959933,
+      "4": 0.0651085141903172,
+      "5": 0.08013355592654423
+    },
+    "sample_count": 599,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.11397849462365593,
+      "2": 0.38494623655913973,
+      "3": 0.34623655913978496,
+      "4": 0.05161290322580646,
+      "5": 0.1032258064516129
+    },
+    "sample_count": 465,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.11053540587219342,
+      "2": 0.40932642487046633,
+      "3": 0.3333333333333333,
+      "4": 0.05181347150259068,
+      "5": 0.09499136442141626
+    },
+    "sample_count": 579,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1266540642722117,
+      "2": 0.46880907372400754,
+      "3": 0.2400756143667297,
+      "4": 0.06238185255198487,
+      "5": 0.10207939508506617
+    },
+    "sample_count": 529,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.11509715994020926,
+      "2": 0.5097159940209267,
+      "3": 0.23168908819133036,
+      "4": 0.044843049327354265,
+      "5": 0.09865470852017937
+    },
+    "sample_count": 669,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.06309751434034416,
+      "2": 0.38623326959847043,
+      "3": 0.372848948374761,
+      "4": 0.06500956022944551,
+      "5": 0.11281070745697896
+    },
+    "sample_count": 523,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.06531881804043545,
+      "2": 0.36236391912908245,
+      "3": 0.37636080870917576,
+      "4": 0.0933125972006221,
+      "5": 0.1026438569206843
+    },
+    "sample_count": 643,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3062381852551985,
+      "2": 0.3289224952741021,
+      "3": 0.24385633270321364,
+      "4": 0.041587901701323246,
+      "5": 0.07939508506616257
+    },
+    "sample_count": 529,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2668711656441718,
+      "2": 0.3711656441717791,
+      "3": 0.2791411042944785,
+      "4": 0.04447852760736196,
+      "5": 0.03834355828220858
+    },
+    "sample_count": 652,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.02229845626072041,
+      "2": 0.04116638078902231,
+      "3": 0.18524871355060038,
+      "4": 0.169811320754717,
+      "5": 0.5814751286449401
+    },
+    "sample_count": 583,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.015852047556142664,
+      "2": 0.040951122853368556,
+      "3": 0.1770145310435931,
+      "4": 0.21928665785997356,
+      "5": 0.5468956406869221
+    },
+    "sample_count": 757,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.020761245674740487,
+      "2": 0.03806228373702422,
+      "3": 0.12975778546712802,
+      "4": 0.10899653979238753,
+      "5": 0.7024221453287198
+    },
+    "sample_count": 578,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.012064343163538873,
+      "2": 0.017426273458445038,
+      "3": 0.10857908847184987,
+      "4": 0.10455764075067026,
+      "5": 0.7573726541554961
+    },
+    "sample_count": 746,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.27973199329983245,
+      "2": 0.36683417085427134,
+      "3": 0.2613065326633166,
+      "4": 0.055276381909547735,
+      "5": 0.03685092127303183
+    },
+    "sample_count": 597,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.18717948717948718,
+      "2": 0.32307692307692304,
+      "3": 0.3679487179487179,
+      "4": 0.0641025641025641,
+      "5": 0.05769230769230769
+    },
+    "sample_count": 780,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.19071310116086232,
+      "2": 0.24046434494195684,
+      "3": 0.3946932006633499,
+      "4": 0.1011608623548922,
+      "5": 0.07296849087893863
+    },
+    "sample_count": 603,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1205128205128205,
+      "2": 0.25,
+      "3": 0.4346153846153846,
+      "4": 0.12435897435897435,
+      "5": 0.07051282051282051
+    },
+    "sample_count": 780,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2826086956521739,
+      "2": 0.40802675585284276,
+      "3": 0.2224080267558528,
+      "4": 0.05518394648829432,
+      "5": 0.03177257525083612
+    },
+    "sample_count": 598,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2308690012970169,
+      "2": 0.3852140077821012,
+      "3": 0.27626459143968873,
+      "4": 0.06485084306095978,
+      "5": 0.04280155642023346
+    },
+    "sample_count": 771,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2332214765100671,
+      "2": 0.3926174496644295,
+      "3": 0.25671140939597314,
+      "4": 0.08221476510067113,
+      "5": 0.03523489932885906
+    },
+    "sample_count": 596,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.16579634464751958,
+      "2": 0.3603133159268929,
+      "3": 0.3159268929503916,
+      "4": 0.09921671018276763,
+      "5": 0.058746736292428194
+    },
+    "sample_count": 766,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2383419689119171,
+      "2": 0.4127806563039723,
+      "3": 0.2383419689119171,
+      "4": 0.07944732297063903,
+      "5": 0.031088082901554404
+    },
+    "sample_count": 579,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.18010752688172038,
+      "2": 0.39516129032258057,
+      "3": 0.293010752688172,
+      "4": 0.08064516129032256,
+      "5": 0.0510752688172043
+    },
+    "sample_count": 744,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1705298013245033,
+      "2": 0.21192052980132445,
+      "3": 0.36920529801324503,
+      "4": 0.18377483443708612,
+      "5": 0.06456953642384107
+    },
+    "sample_count": 604,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1326530612244898,
+      "2": 0.1645408163265306,
+      "3": 0.41454081632653056,
+      "4": 0.19387755102040816,
+      "5": 0.09438775510204082
+    },
+    "sample_count": 784,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.7748344370860927,
+      "2": 0.1175496688741722,
+      "3": 0.07284768211920528,
+      "4": 0.02980132450331126,
+      "5": 0.004966887417218542
+    },
+    "sample_count": 604,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.681122448979592,
+      "2": 0.11224489795918369,
+      "3": 0.12627551020408165,
+      "4": 0.039540816326530615,
+      "5": 0.04081632653061224
+    },
+    "sample_count": 784,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.02977667493796526,
+      "2": 0.9702233250620347
+    },
+    "sample_count": 403,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.022429906542056073,
+      "2": 0.9775700934579439
+    },
+    "sample_count": 535,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.15960099750623444,
+      "2": 0.8403990024937656
+    },
+    "sample_count": 401,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.14953271028037382,
+      "2": 0.8504672897196262
+    },
+    "sample_count": 535,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.07769423558897243,
+      "2": 0.9223057644110275
+    },
+    "sample_count": 399,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.0749063670411985,
+      "2": 0.9250936329588014
+    },
+    "sample_count": 534,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.031141868512110725,
+      "2": 0.28027681660899656,
+      "3": 0.30103806228373703,
+      "4": 0.31833910034602075,
+      "5": 0.06920415224913494
+    },
+    "sample_count": 578,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.019337016574585635,
+      "2": 0.2776243093922652,
+      "3": 0.3011049723756906,
+      "4": 0.3383977900552486,
+      "5": 0.06353591160220994
+    },
+    "sample_count": 724,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.0288135593220339,
+      "2": 0.17288135593220338,
+      "3": 0.43220338983050843,
+      "4": 0.19491525423728814,
+      "5": 0.12711864406779663,
+      "6": 0.030508474576271188,
+      "7": 0.013559322033898306
+    },
+    "sample_count": 590,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.010526315789473684,
+      "2": 0.15921052631578947,
+      "3": 0.4210526315789473,
+      "4": 0.25000000000000006,
+      "5": 0.12368421052631579,
+      "6": 0.026315789473684213,
+      "7": 0.009210526315789475
+    },
+    "sample_count": 760,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.042316258351893093,
+      "2": 0.29398663697104677,
+      "3": 0.41648106904231624,
+      "4": 0.18262806236080176,
+      "5": 0.044543429844097995,
+      "6": 0.011135857461024499,
+      "7": 0.008908685968819599
+    },
+    "sample_count": 449,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.045454545454545456,
+      "2": 0.29058441558441556,
+      "3": 0.4123376623376624,
+      "4": 0.19155844155844157,
+      "5": 0.03896103896103897,
+      "6": 0.016233766233766236,
+      "7": 0.00487012987012987
+    },
+    "sample_count": 616,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.04736842105263158,
+      "2": 0.25789473684210523,
+      "3": 0.39473684210526316,
+      "4": 0.23684210526315788,
+      "5": 0.052631578947368425,
+      "6": 0.010526315789473684,
+      "7": 0.0
+    },
+    "sample_count": 190,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.02877697841726619,
+      "2": 0.2589928057553957,
+      "3": 0.2446043165467626,
+      "4": 0.3597122302158273,
+      "5": 0.07913669064748201,
+      "6": 0.014388489208633094,
+      "7": 0.014388489208633094
+    },
+    "sample_count": 139,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.33114754098360655,
+      "2": 0.419672131147541,
+      "3": 0.03278688524590164,
+      "4": 0.06393442622950819,
+      "5": 0.12459016393442623,
+      "6": 0.027868852459016394,
+      "7": 0.0
+    },
+    "sample_count": 610,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.7586206896551725,
+      "2": 0.1685823754789272,
+      "3": 0.006385696040868455,
+      "4": 0.024265644955300123,
+      "5": 0.03448275862068965,
+      "6": 0.006385696040868455,
+      "7": 0.001277139208173691
+    },
+    "sample_count": 783,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.540495867768595,
+      "2": 0.11074380165289255,
+      "3": 0.13388429752066114,
+      "4": 0.1041322314049587,
+      "5": 0.11074380165289258
+    },
+    "sample_count": 605,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.8177150192554556,
+      "2": 0.07060333761232349,
+      "3": 0.04621309370988447,
+      "4": 0.03594351732991014,
+      "5": 0.029525032092426188
+    },
+    "sample_count": 779,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.44333333333333336,
+      "2": 0.11333333333333333,
+      "3": 0.20333333333333328,
+      "4": 0.1766666666666666,
+      "5": 0.06333333333333332
+    },
+    "sample_count": 600,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.6128205128205129,
+      "2": 0.09102564102564102,
+      "3": 0.10897435897435899,
+      "4": 0.15128205128205127,
+      "5": 0.035897435897435895
+    },
+    "sample_count": 780,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.03814262023217247,
+      "2": 0.03316749585406301,
+      "3": 0.17412935323383083,
+      "4": 0.40630182421227196,
+      "5": 0.34825870646766166
+    },
+    "sample_count": 603,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.021711366538952746,
+      "2": 0.0140485312899106,
+      "3": 0.09067688378033206,
+      "4": 0.3614303959131545,
+      "5": 0.51213282247765
+    },
+    "sample_count": 783,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.046434494195688215,
+      "2": 0.15091210613598677,
+      "3": 0.5240464344941956,
+      "4": 0.2404643449419569,
+      "5": 0.03814262023217247
+    },
+    "sample_count": 603,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.02564102564102564,
+      "2": 0.14358974358974358,
+      "3": 0.5243589743589744,
+      "4": 0.2705128205128205,
+      "5": 0.035897435897435895
+    },
+    "sample_count": 780,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.486088379705401,
+      "2": 0.513911620294599
+    },
+    "sample_count": 611,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.4660691421254801,
+      "2": 0.5339308578745198
+    },
+    "sample_count": 781,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.35144927536231885,
+      "2": 0.46920289855072456,
+      "3": 0.11413043478260869,
+      "4": 0.06521739130434781
+    },
+    "sample_count": 552,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.3343108504398826,
+      "2": 0.5043988269794721,
+      "3": 0.12316715542521994,
+      "4": 0.03812316715542522
+    },
+    "sample_count": 682,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.4241379310344828,
+      "2": 0.496551724137931,
+      "3": 0.056896551724137934,
+      "4": 0.022413793103448276
+    },
+    "sample_count": 580,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.4600811907983761,
+      "2": 0.4776725304465494,
+      "3": 0.047361299052774024,
+      "4": 0.014884979702300405
+    },
+    "sample_count": 739,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.2687385740402194,
+      "2": 0.449725776965265,
+      "3": 0.14625228519195613,
+      "4": 0.13528336380255943
+    },
+    "sample_count": 547,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.24925816023738873,
+      "2": 0.4302670623145401,
+      "3": 0.21661721068249257,
+      "4": 0.10385756676557864
+    },
+    "sample_count": 674,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.6751700680272109,
+      "2": 0.2840136054421769,
+      "3": 0.028911564625850338,
+      "4": 0.011904761904761906
+    },
+    "sample_count": 588,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.7193675889328065,
+      "2": 0.24901185770750986,
+      "3": 0.021080368906455864,
+      "4": 0.010540184453227932
+    },
+    "sample_count": 759,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.5724020442930153,
+      "2": 0.3679727427597956,
+      "3": 0.040885860306643956,
+      "4": 0.018739352640545145
+    },
+    "sample_count": 587,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.6268456375838927,
+      "2": 0.3181208053691275,
+      "3": 0.03892617449664429,
+      "4": 0.016107382550335572
+    },
+    "sample_count": 745,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1264957264957265,
+      "2": 0.27521367521367524,
+      "3": 0.3282051282051282,
+      "4": 0.13675213675213674,
+      "5": 0.13333333333333336
+    },
+    "sample_count": 585,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.1581081081081081,
+      "2": 0.29729729729729726,
+      "3": 0.3648648648648649,
+      "4": 0.10945945945945947,
+      "5": 0.07027027027027027
+    },
+    "sample_count": 740,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.046153846153846156,
+      "2": 0.1487179487179487,
+      "3": 0.31794871794871793,
+      "4": 0.16239316239316237,
+      "5": 0.32478632478632474
+    },
+    "sample_count": 585,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Japan"
+    },
+    "p_real": {
+      "1": 0.046008119079837616,
+      "2": 0.13667117726657646,
+      "3": 0.3667117726657646,
+      "4": 0.20433017591339647,
+      "5": 0.2462787550744249
+    },
+    "sample_count": 739,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  }
+]

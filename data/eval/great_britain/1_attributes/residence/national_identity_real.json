@@ -1,0 +1,3142 @@
+[
+  {
+    "question_id": "v5",
+    "question_text": "Q1a How close do you feel to your town or city?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.2310030395136778,
+      "2": 0.5091185410334347,
+      "3": 0.22036474164133737,
+      "4": 0.03951367781155015
+    },
+    "sample_count": 658,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q1a How close do you feel to your town or city?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.15584415584415584,
+      "2": 0.551948051948052,
+      "3": 0.2337662337662338,
+      "4": 0.05844155844155844
+    },
+    "sample_count": 154,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q1b How close do you feel to your [County]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.16666666666666666,
+      "2": 0.5424528301886793,
+      "3": 0.24213836477987422,
+      "4": 0.04874213836477987
+    },
+    "sample_count": 636,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q1b How close do you feel to your [County]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.17763157894736842,
+      "2": 0.5592105263157895,
+      "3": 0.21710526315789475,
+      "4": 0.046052631578947366
+    },
+    "sample_count": 152,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q1c How close do you feel to your [Country]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.21875,
+      "2": 0.5484375,
+      "3": 0.196875,
+      "4": 0.03593750000000001
+    },
+    "sample_count": 640,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q1c How close do you feel to your [Country]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.2549019607843137,
+      "2": 0.5163398692810457,
+      "3": 0.18954248366013074,
+      "4": 0.0392156862745098
+    },
+    "sample_count": 153,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q1d How close do you feel to your [Continent]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.036977491961414796,
+      "2": 0.21543408360128619,
+      "3": 0.4437299035369775,
+      "4": 0.30385852090032156
+    },
+    "sample_count": 622,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q1d How close do you feel to your [Continent]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.02702702702702703,
+      "2": 0.18243243243243243,
+      "3": 0.4864864864864865,
+      "4": 0.30405405405405406
+    },
+    "sample_count": 148,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q2a Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have been born in [COUNTRY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.4084084084084084,
+      "2": 0.33633633633633636,
+      "3": 0.1921921921921922,
+      "4": 0.06306306306306306
+    },
+    "sample_count": 666,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q2a Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have been born in [COUNTRY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.4743589743589743,
+      "2": 0.3589743589743589,
+      "3": 0.1282051282051282,
+      "4": 0.03846153846153846
+    },
+    "sample_count": 156,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q2b Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] citizenship?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.5068078668683812,
+      "2": 0.3661119515885023,
+      "3": 0.10892586989409984,
+      "4": 0.018154311649016642
+    },
+    "sample_count": 661,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q2b Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] citizenship?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.5419354838709677,
+      "2": 0.31612903225806455,
+      "3": 0.12258064516129033,
+      "4": 0.01935483870967742
+    },
+    "sample_count": 155,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q2c Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have lived in [COUNTRY] for most of one's life?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.3990895295902883,
+      "2": 0.38694992412746587,
+      "3": 0.18816388467374812,
+      "4": 0.025796661608497723
+    },
+    "sample_count": 659,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q2c Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have lived in [COUNTRY] for most of one's life?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.4645161290322581,
+      "2": 0.3419354838709677,
+      "3": 0.16774193548387095,
+      "4": 0.025806451612903226
+    },
+    "sample_count": 155,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q2d Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be able to speak [COUNTRY LANGUAGE]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.7420333839150226,
+      "2": 0.22761760242792112,
+      "3": 0.0212443095599393,
+      "4": 0.009104704097116844
+    },
+    "sample_count": 659,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q2d Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be able to speak [COUNTRY LANGUAGE]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.7935483870967742,
+      "2": 0.16129032258064516,
+      "3": 0.025806451612903226,
+      "4": 0.01935483870967742
+    },
+    "sample_count": 155,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q2e Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be a [religion]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.13953488372093023,
+      "2": 0.13953488372093023,
+      "3": 0.26666666666666666,
+      "4": 0.4542635658914728
+    },
+    "sample_count": 645,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q2e Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be a [religion]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.19078947368421054,
+      "2": 0.15131578947368418,
+      "3": 0.256578947368421,
+      "4": 0.40131578947368424
+    },
+    "sample_count": 152,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q2f Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to respect [COUNTRY NATIONALITY] political institutions and laws?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.5936073059360731,
+      "2": 0.2983257229832572,
+      "3": 0.0821917808219178,
+      "4": 0.0258751902587519
+    },
+    "sample_count": 657,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q2f Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to respect [COUNTRY NATIONALITY] political institutions and laws?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.5695364238410595,
+      "2": 0.3046357615894039,
+      "3": 0.09933774834437085,
+      "4": 0.026490066225165563
+    },
+    "sample_count": 151,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q2g Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to feel [COUNTRY NATIONALITY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.4506828528072837,
+      "2": 0.35660091047040965,
+      "3": 0.14719271623672228,
+      "4": 0.04552352048558422
+    },
+    "sample_count": 659,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q2g Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to feel [COUNTRY NATIONALITY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.47019867549668865,
+      "2": 0.3576158940397351,
+      "3": 0.13907284768211922,
+      "4": 0.03311258278145695
+    },
+    "sample_count": 151,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q2h Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] ancestry?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.2698170731707317,
+      "2": 0.2682926829268293,
+      "3": 0.2759146341463415,
+      "4": 0.1859756097560976
+    },
+    "sample_count": 656,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q2h Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] ancestry?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.3464052287581699,
+      "2": 0.261437908496732,
+      "3": 0.2679738562091503,
+      "4": 0.12418300653594772
+    },
+    "sample_count": 153,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3a I would rather be a citizen of [COUNTRY] than of any other country in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.3363774733637747,
+      "2": 0.3272450532724505,
+      "3": 0.2617960426179604,
+      "4": 0.0654490106544901,
+      "5": 0.0091324200913242
+    },
+    "sample_count": 657,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3a I would rather be a citizen of [COUNTRY] than of any other country in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.40397350993377484,
+      "2": 0.304635761589404,
+      "3": 0.2119205298013245,
+      "4": 0.0662251655629139,
+      "5": 0.013245033112582783
+    },
+    "sample_count": 151,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3b There are some things about [COUNTRY] that make me feel ashamed of [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.18223583460949463,
+      "2": 0.5283307810107198,
+      "3": 0.1761102603369066,
+      "4": 0.09494640122511486,
+      "5": 0.018376722817764167
+    },
+    "sample_count": 653,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3b There are some things about [COUNTRY] that make me feel ashamed of [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.16339869281045755,
+      "2": 0.5294117647058822,
+      "3": 0.19607843137254904,
+      "4": 0.0849673202614379,
+      "5": 0.026143790849673203
+    },
+    "sample_count": 153,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3c The world would be a better place if people from other countries were more like the [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.09273570324574962,
+      "2": 0.2519319938176198,
+      "3": 0.428129829984544,
+      "4": 0.19165378670788255,
+      "5": 0.035548686244204014
+    },
+    "sample_count": 647,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3c The world would be a better place if people from other countries were more like the [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.06711409395973154,
+      "2": 0.22147651006711408,
+      "3": 0.4630872483221477,
+      "4": 0.20134228187919467,
+      "5": 0.04697986577181208
+    },
+    "sample_count": 149,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3d Generally speaking, [COUNTRY] is a better country than most other countries.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.12098009188361407,
+      "2": 0.444104134762634,
+      "3": 0.3062787136294028,
+      "4": 0.11332312404287903,
+      "5": 0.01531393568147014
+    },
+    "sample_count": 653,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3d Generally speaking, [COUNTRY] is a better country than most other countries.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.11764705882352942,
+      "2": 0.3594771241830066,
+      "3": 0.4117647058823529,
+      "4": 0.09150326797385622,
+      "5": 0.0196078431372549
+    },
+    "sample_count": 153,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3e People should support their country even if the country is in the wrong.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.05555555555555556,
+      "2": 0.1558641975308642,
+      "3": 0.2345679012345679,
+      "4": 0.41975308641975306,
+      "5": 0.13425925925925927
+    },
+    "sample_count": 648,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3e People should support their country even if the country is in the wrong.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.046979865771812075,
+      "2": 0.16778523489932884,
+      "3": 0.2684563758389261,
+      "4": 0.4093959731543624,
+      "5": 0.10738255033557048
+    },
+    "sample_count": 149,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3f When my country does well in international sports, it makes me proud to be [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.33333333333333337,
+      "2": 0.42272727272727273,
+      "3": 0.18333333333333335,
+      "4": 0.048484848484848485,
+      "5": 0.012121212121212121
+    },
+    "sample_count": 660,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3f When my country does well in international sports, it makes me proud to be [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.31818181818181823,
+      "2": 0.474025974025974,
+      "3": 0.18181818181818182,
+      "4": 0.025974025974025972,
+      "5": 0.0
+    },
+    "sample_count": 154,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3g I am often less proud of [COUNTRY] than I would like to be.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.07573415765069552,
+      "2": 0.36476043276661513,
+      "3": 0.347758887171561,
+      "4": 0.1901081916537867,
+      "5": 0.021638330757341576
+    },
+    "sample_count": 647,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3g I am often less proud of [COUNTRY] than I would like to be.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.05844155844155844,
+      "2": 0.3961038961038961,
+      "3": 0.34415584415584416,
+      "4": 0.16883116883116886,
+      "5": 0.032467532467532464
+    },
+    "sample_count": 154,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3h The world would be a better place if [COUNTRY NATIONALITY] acknowledged [COUNTRY's] shortcomings.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.12558869701726846,
+      "2": 0.4631083202511774,
+      "3": 0.34222919937205654,
+      "4": 0.06279434850863422,
+      "5": 0.006279434850863422
+    },
+    "sample_count": 637,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3h The world would be a better place if [COUNTRY NATIONALITY] acknowledged [COUNTRY's] shortcomings.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.12666666666666665,
+      "2": 0.41333333333333333,
+      "3": 0.3866666666666667,
+      "4": 0.06666666666666667,
+      "5": 0.006666666666666666
+    },
+    "sample_count": 150,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4a The way democracy works.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.18821603927986905,
+      "2": 0.5597381342062194,
+      "3": 0.23076923076923078,
+      "4": 0.021276595744680847
+    },
+    "sample_count": 611,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4a The way democracy works.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.22602739726027396,
+      "2": 0.5890410958904109,
+      "3": 0.14383561643835616,
+      "4": 0.0410958904109589
+    },
+    "sample_count": 146,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4b Its political influence in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.10631229235880396,
+      "2": 0.5249169435215947,
+      "3": 0.32558139534883723,
+      "4": 0.04318936877076412
+    },
+    "sample_count": 602,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4b Its political influence in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.10884353741496598,
+      "2": 0.6258503401360545,
+      "3": 0.21088435374149658,
+      "4": 0.05442176870748299
+    },
+    "sample_count": 147,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4c [COUNTRY's] economic achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.10227272727272728,
+      "2": 0.5016233766233766,
+      "3": 0.3409090909090909,
+      "4": 0.0551948051948052
+    },
+    "sample_count": 616,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4c [COUNTRY's] economic achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.15999999999999998,
+      "2": 0.4533333333333333,
+      "3": 0.3,
+      "4": 0.08666666666666667
+    },
+    "sample_count": 150,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4d Its social security system.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.13418530351437696,
+      "2": 0.4888178913738019,
+      "3": 0.29712460063897767,
+      "4": 0.07987220447284345
+    },
+    "sample_count": 626,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4d Its social security system.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.0958904109589041,
+      "2": 0.45890410958904104,
+      "3": 0.34246575342465746,
+      "4": 0.10273972602739725
+    },
+    "sample_count": 146,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4e Its scientific and technological achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.3984,
+      "2": 0.5008,
+      "3": 0.096,
+      "4": 0.0048000000000000004
+    },
+    "sample_count": 625,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4e Its scientific and technological achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.39999999999999997,
+      "2": 0.4933333333333333,
+      "3": 0.08666666666666667,
+      "4": 0.02
+    },
+    "sample_count": 150,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4f Its achievements in sports.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.3757861635220126,
+      "2": 0.5047169811320755,
+      "3": 0.10062893081761005,
+      "4": 0.01886792452830189
+    },
+    "sample_count": 636,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4f Its achievements in sports.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.41830065359477125,
+      "2": 0.49673202614379075,
+      "3": 0.0784313725490196,
+      "4": 0.0065359477124183
+    },
+    "sample_count": 153,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4g Its achievements in the arts and literature.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.3447154471544715,
+      "2": 0.5414634146341463,
+      "3": 0.1089430894308943,
+      "4": 0.004878048780487804
+    },
+    "sample_count": 615,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4g Its achievements in the arts and literature.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.3496503496503497,
+      "2": 0.5244755244755245,
+      "3": 0.10489510489510488,
+      "4": 0.020979020979020976
+    },
+    "sample_count": 143,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4h [COUNTRY's] armed forces.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.5623052959501557,
+      "2": 0.3146417445482866,
+      "3": 0.08411214953271028,
+      "4": 0.03894080996884735
+    },
+    "sample_count": 642,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4h [COUNTRY's] armed forces.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.6026490066225165,
+      "2": 0.304635761589404,
+      "3": 0.0728476821192053,
+      "4": 0.01986754966887417
+    },
+    "sample_count": 151,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4i Its history.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.5552099533437013,
+      "2": 0.35303265940902023,
+      "3": 0.07620528771384137,
+      "4": 0.015552099533437015
+    },
+    "sample_count": 643,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4i Its history.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.5973154362416109,
+      "2": 0.348993288590604,
+      "3": 0.05369127516778523,
+      "4": 0.0
+    },
+    "sample_count": 149,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4j Its fair and equal treatment of all groups in society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.21508828250401285,
+      "2": 0.5008025682182986,
+      "3": 0.2375601926163724,
+      "4": 0.04654895666131621
+    },
+    "sample_count": 623,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4j Its fair and equal treatment of all groups in society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.20689655172413796,
+      "2": 0.5172413793103449,
+      "3": 0.22758620689655173,
+      "4": 0.04827586206896552
+    },
+    "sample_count": 145,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5a [COUNTRY] should limit the import of foreign products in order to protect its national economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.14132104454685102,
+      "2": 0.3809523809523809,
+      "3": 0.28110599078341014,
+      "4": 0.16436251920122888,
+      "5": 0.03225806451612903
+    },
+    "sample_count": 651,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5a [COUNTRY] should limit the import of foreign products in order to protect its national economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.1045751633986928,
+      "2": 0.3529411764705882,
+      "3": 0.32679738562091504,
+      "4": 0.1830065359477124,
+      "5": 0.0326797385620915
+    },
+    "sample_count": 153,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5b For certain problems, like environment pollution, international bodies should have the right to enforce solutions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.1292834890965732,
+      "2": 0.46105919003115264,
+      "3": 0.22897196261682246,
+      "4": 0.1557632398753894,
+      "5": 0.024922118380062305
+    },
+    "sample_count": 642,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5b For certain problems, like environment pollution, international bodies should have the right to enforce solutions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.0794701986754967,
+      "2": 0.43046357615894043,
+      "3": 0.25165562913907286,
+      "4": 0.1920529801324503,
+      "5": 0.046357615894039736
+    },
+    "sample_count": 151,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5c [COUNTRY] should follow its own interests, even if this leads to conflicts with other nations.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.10714285714285714,
+      "2": 0.3835403726708075,
+      "3": 0.2562111801242236,
+      "4": 0.2251552795031056,
+      "5": 0.02795031055900621
+    },
+    "sample_count": 644,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5c [COUNTRY] should follow its own interests, even if this leads to conflicts with other nations.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.08666666666666666,
+      "2": 0.4066666666666667,
+      "3": 0.3,
+      "4": 0.18,
+      "5": 0.026666666666666665
+    },
+    "sample_count": 150,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5d Foreigners should not be allowed to buy land in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.09767441860465116,
+      "2": 0.18294573643410855,
+      "3": 0.3348837209302325,
+      "4": 0.28217054263565894,
+      "5": 0.10232558139534884
+    },
+    "sample_count": 645,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5d Foreigners should not be allowed to buy land in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.08666666666666667,
+      "2": 0.18666666666666668,
+      "3": 0.3,
+      "4": 0.30666666666666664,
+      "5": 0.12000000000000001
+    },
+    "sample_count": 150,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5e [COUNTRY's] television should give preference to [COUNTRY] films and programs.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.07339449541284404,
+      "2": 0.209480122324159,
+      "3": 0.3379204892966361,
+      "4": 0.2859327217125382,
+      "5": 0.09327217125382264
+    },
+    "sample_count": 654,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5e [COUNTRY's] television should give preference to [COUNTRY] films and programs.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.09090909090909091,
+      "2": 0.17532467532467533,
+      "3": 0.3896103896103897,
+      "4": 0.23376623376623376,
+      "5": 0.11038961038961038
+    },
+    "sample_count": 154,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a Large international companies are doing more and more damage to local businesses in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.16380655226209045,
+      "2": 0.4336973478939157,
+      "3": 0.2870514820592824,
+      "4": 0.09204368174726989,
+      "5": 0.0234009360374415
+    },
+    "sample_count": 641,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a Large international companies are doing more and more damage to local businesses in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.1776315789473684,
+      "2": 0.34868421052631576,
+      "3": 0.3223684210526315,
+      "4": 0.14473684210526316,
+      "5": 0.006578947368421052
+    },
+    "sample_count": 152,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b Free trade leads to better products becoming available in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.115689381933439,
+      "2": 0.532488114104596,
+      "3": 0.29477020602218695,
+      "4": 0.05388272583201268,
+      "5": 0.0031695721077654514
+    },
+    "sample_count": 631,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b Free trade leads to better products becoming available in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.0684931506849315,
+      "2": 0.643835616438356,
+      "3": 0.22602739726027396,
+      "4": 0.0547945205479452,
+      "5": 0.00684931506849315
+    },
+    "sample_count": 146,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6c In general, [COUNTRY] should follow the decisions of international organizations to which it belongs, even if the government does not  agree with them.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.03365384615384615,
+      "2": 0.21794871794871792,
+      "3": 0.36217948717948717,
+      "4": 0.33653846153846156,
+      "5": 0.049679487179487176
+    },
+    "sample_count": 624,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6c In general, [COUNTRY] should follow the decisions of international organizations to which it belongs, even if the government does not  agree with them.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.006896551724137931,
+      "2": 0.16551724137931031,
+      "3": 0.41379310344827586,
+      "4": 0.3448275862068966,
+      "5": 0.06896551724137931
+    },
+    "sample_count": 145,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6d International organizations are taking away too much power from the [COUNTRY NATIONALITY] government.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.1826771653543307,
+      "2": 0.3795275590551181,
+      "3": 0.3307086614173229,
+      "4": 0.09291338582677165,
+      "5": 0.014173228346456693
+    },
+    "sample_count": 635,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6d International organizations are taking away too much power from the [COUNTRY NATIONALITY] government.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.2137931034482759,
+      "2": 0.3793103448275862,
+      "3": 0.29655172413793107,
+      "4": 0.09655172413793103,
+      "5": 0.013793103448275862
+    },
+    "sample_count": 145,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6e I feel more like a citizen of the world than of any country.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.057722308892355696,
+      "2": 0.187207488299532,
+      "3": 0.29173166926677063,
+      "4": 0.35413416536661463,
+      "5": 0.109204368174727
+    },
+    "sample_count": 641,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6e I feel more like a citizen of the world than of any country.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.027027027027027025,
+      "2": 0.16216216216216214,
+      "3": 0.30405405405405406,
+      "4": 0.3851351351351352,
+      "5": 0.12162162162162161
+    },
+    "sample_count": 148,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7a It is impossible for people who do not share [COUNTRY'S] customs and traditions to become fully [COUNTRY'S NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.1702453987730061,
+      "2": 0.3558282208588957,
+      "3": 0.21165644171779138,
+      "4": 0.21165644171779138,
+      "5": 0.05061349693251533
+    },
+    "sample_count": 652,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7a It is impossible for people who do not share [COUNTRY'S] customs and traditions to become fully [COUNTRY'S NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.19463087248322147,
+      "2": 0.37583892617449666,
+      "3": 0.2953020134228188,
+      "4": 0.12080536912751677,
+      "5": 0.013422818791946308
+    },
+    "sample_count": 149,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7b Ethnic minorities should be given government assistance to preserve their customs and traditions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.017001545595054096,
+      "2": 0.1035548686244204,
+      "3": 0.2874806800618238,
+      "4": 0.40649149922720246,
+      "5": 0.18547140649149924
+    },
+    "sample_count": 647,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7b Ethnic minorities should be given government assistance to preserve their customs and traditions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.027027027027027025,
+      "2": 0.10135135135135136,
+      "3": 0.21621621621621623,
+      "4": 0.45270270270270263,
+      "5": 0.2027027027027027
+    },
+    "sample_count": 148,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q8 Some people say that it is better for a country if different racial and ethnic groups maintain their distinct customs and traditions. Others say that it is better if these groups adapt and blend into the large society.  Which of these views comes closer to your own? a) It is better for society if groups maintain their distinct customs and traditions. b) It is better if groups adapt and blend into the larger society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Maintain traditions",
+      "2": "Adapt into larger society"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.1793372319688109,
+      "2": 0.820662768031189
+    },
+    "sample_count": 513,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q8 Some people say that it is better for a country if different racial and ethnic groups maintain their distinct customs and traditions. Others say that it is better if these groups adapt and blend into the large society.  Which of these views comes closer to your own? a) It is better for society if groups maintain their distinct customs and traditions. b) It is better if groups adapt and blend into the larger society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Maintain traditions",
+      "2": "Adapt into larger society"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.1484375,
+      "2": 0.8515625
+    },
+    "sample_count": 128,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9a Immigrants increase crime rates.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.14197530864197533,
+      "2": 0.30401234567901236,
+      "3": 0.2870370370370371,
+      "4": 0.20370370370370372,
+      "5": 0.06327160493827161
+    },
+    "sample_count": 648,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9a Immigrants increase crime rates.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.13636363636363635,
+      "2": 0.31818181818181823,
+      "3": 0.3051948051948052,
+      "4": 0.2077922077922078,
+      "5": 0.032467532467532464
+    },
+    "sample_count": 154,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9b Immigrants are generally good for [COUNTRY'S] economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.027565084226646247,
+      "2": 0.3047473200612557,
+      "3": 0.35528330781010714,
+      "4": 0.2557427258805513,
+      "5": 0.056661562021439515
+    },
+    "sample_count": 653,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9b Immigrants are generally good for [COUNTRY'S] economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.026490066225165563,
+      "2": 0.2715231788079471,
+      "3": 0.4039735099337749,
+      "4": 0.2251655629139073,
+      "5": 0.0728476821192053
+    },
+    "sample_count": 151,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9c Immigrants take jobs away from people who were born in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.1803030303030303,
+      "2": 0.34393939393939393,
+      "3": 0.2545454545454545,
+      "4": 0.17727272727272728,
+      "5": 0.04393939393939394
+    },
+    "sample_count": 660,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9c Immigrants take jobs away from people who were born in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.15584415584415584,
+      "2": 0.31818181818181823,
+      "3": 0.27272727272727276,
+      "4": 0.2142857142857143,
+      "5": 0.03896103896103896
+    },
+    "sample_count": 154,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9d Immigrants improve [COUNTRY'S NATIONALITY] society by bringing new ideas and cultures.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.04281345565749235,
+      "2": 0.3730886850152906,
+      "3": 0.3119266055045872,
+      "4": 0.22018348623853215,
+      "5": 0.051987767584097865
+    },
+    "sample_count": 654,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9d Immigrants improve [COUNTRY'S NATIONALITY] society by bringing new ideas and cultures.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.0130718954248366,
+      "2": 0.3594771241830065,
+      "3": 0.3594771241830066,
+      "4": 0.19607843137254904,
+      "5": 0.0718954248366013
+    },
+    "sample_count": 153,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9e [COUNTRY'S] culture is generally undermined by immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.13384615384615384,
+      "2": 0.28615384615384615,
+      "3": 0.28,
+      "4": 0.23384615384615384,
+      "5": 0.06615384615384615
+    },
+    "sample_count": 650,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9e [COUNTRY'S] culture is generally undermined by immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.11184210526315791,
+      "2": 0.3092105263157895,
+      "3": 0.2960526315789474,
+      "4": 0.23026315789473684,
+      "5": 0.05263157894736842
+    },
+    "sample_count": 152,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9f Legal immigrants to [COUNTRY] who are not citizens should have the same rights as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.03215926493108729,
+      "2": 0.225114854517611,
+      "3": 0.24349157733537516,
+      "4": 0.3568147013782542,
+      "5": 0.14241960183767227
+    },
+    "sample_count": 653,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9f Legal immigrants to [COUNTRY] who are not citizens should have the same rights as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.0261437908496732,
+      "2": 0.21568627450980393,
+      "3": 0.23529411764705882,
+      "4": 0.4117647058823529,
+      "5": 0.1111111111111111
+    },
+    "sample_count": 153,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9g [COUNTRY] should take stronger measures to exclude illegal immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.5106707317073171,
+      "2": 0.31402439024390244,
+      "3": 0.11128048780487804,
+      "4": 0.039634146341463415,
+      "5": 0.024390243902439025
+    },
+    "sample_count": 656,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9g [COUNTRY] should take stronger measures to exclude illegal immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.5225806451612902,
+      "2": 0.36129032258064514,
+      "3": 0.0774193548387097,
+      "4": 0.01935483870967742,
+      "5": 0.01935483870967742
+    },
+    "sample_count": 155,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9h Legal immigrants should have equal access to public education as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.12079510703363915,
+      "2": 0.49235474006116203,
+      "3": 0.20795107033639143,
+      "4": 0.1162079510703364,
+      "5": 0.06269113149847094
+    },
+    "sample_count": 654,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9h Legal immigrants should have equal access to public education as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.08387096774193549,
+      "2": 0.6,
+      "3": 0.18064516129032257,
+      "4": 0.07096774193548387,
+      "5": 0.06451612903225806
+    },
+    "sample_count": 155,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q10 Do you think the number of immigrants to [COUNTRY] nowadays should be ...",
+    "category": "national_identity",
+    "options": {
+      "1": "Increased a lot",
+      "2": "Increased a little",
+      "3": "Remain the same as it is",
+      "4": "Reduced a little",
+      "5": "Reduced a lot"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.022388059701492536,
+      "2": 0.020895522388059702,
+      "3": 0.1791044776119403,
+      "4": 0.20597014925373133,
+      "5": 0.5716417910447762
+    },
+    "sample_count": 670,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q10 Do you think the number of immigrants to [COUNTRY] nowadays should be ...",
+    "category": "national_identity",
+    "options": {
+      "1": "Increased a lot",
+      "2": "Increased a little",
+      "3": "Remain the same as it is",
+      "4": "Reduced a little",
+      "5": "Reduced a lot"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.01935483870967742,
+      "2": 0.012903225806451613,
+      "3": 0.12903225806451613,
+      "4": 0.24516129032258063,
+      "5": 0.5935483870967742
+    },
+    "sample_count": 155,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q11 Which of these statements about immigrants comes closest to your view: - Immigrants should retain their culture of origin and not adopt COUNTRY's culture.  - Immigrants should retain their culture of origin and also adopt COUNTRY's culture.  - Immigrants should give up their culture of origin and adopt COUNTRY's culture.",
+    "category": "national_identity",
+    "options": {
+      "1": "Immigrants should retain their culture of origin and not adopt COUNTRY's culture",
+      "2": "Immigrants should retain their culture of origin and also adopt COUNTRY's culture",
+      "3": "Immigrants should give up their culture of origin and adopt COUNTRY's culture"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.027508090614886738,
+      "2": 0.8349514563106796,
+      "3": 0.13754045307443366
+    },
+    "sample_count": 618,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q11 Which of these statements about immigrants comes closest to your view: - Immigrants should retain their culture of origin and not adopt COUNTRY's culture.  - Immigrants should retain their culture of origin and also adopt COUNTRY's culture.  - Immigrants should give up their culture of origin and adopt COUNTRY's culture.",
+    "category": "national_identity",
+    "options": {
+      "1": "Immigrants should retain their culture of origin and not adopt COUNTRY's culture",
+      "2": "Immigrants should retain their culture of origin and also adopt COUNTRY's culture",
+      "3": "Immigrants should give up their culture of origin and adopt COUNTRY's culture"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.04929577464788732,
+      "2": 0.7676056338028169,
+      "3": 0.18309859154929575
+    },
+    "sample_count": 142,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q12 How proud are you of being [COUNTRY NATIONALITY]? (PLEASE, CHECK ONE BOX BELOW)",
+    "category": "national_identity",
+    "options": {
+      "0": "I am not [Country Nationality]",
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "0": 0.03363914373088685,
+      "1": 0.3776758409785933,
+      "2": 0.49082568807339455,
+      "3": 0.07951070336391437,
+      "4": 0.01834862385321101
+    },
+    "sample_count": 654,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q12 How proud are you of being [COUNTRY NATIONALITY]? (PLEASE, CHECK ONE BOX BELOW)",
+    "category": "national_identity",
+    "options": {
+      "0": "I am not [Country Nationality]",
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "0": 0.019999999999999997,
+      "1": 0.39333333333333337,
+      "2": 0.45999999999999996,
+      "3": 0.1,
+      "4": 0.026666666666666665
+    },
+    "sample_count": 150,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q13a How much do you agree or disagree that strong patriotic feelings in [COUNTRY] strengthen [COUNTRY's] place in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.16455696202531647,
+      "2": 0.4256329113924051,
+      "3": 0.29430379746835444,
+      "4": 0.09810126582278482,
+      "5": 0.01740506329113924
+    },
+    "sample_count": 632,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q13a How much do you agree or disagree that strong patriotic feelings in [COUNTRY] strengthen [COUNTRY's] place in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.17449664429530198,
+      "2": 0.4899328859060402,
+      "3": 0.25503355704697983,
+      "4": 0.0738255033557047,
+      "5": 0.006711409395973154
+    },
+    "sample_count": 149,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "Q13b How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to intolerance in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.05348460291734198,
+      "2": 0.31928687196110217,
+      "3": 0.4051863857374392,
+      "4": 0.20097244732576985,
+      "5": 0.021069692058346842
+    },
+    "sample_count": 617,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "Q13b How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to intolerance in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.028368794326241134,
+      "2": 0.35460992907801414,
+      "3": 0.3475177304964538,
+      "4": 0.23404255319148934,
+      "5": 0.03546099290780142
+    },
+    "sample_count": 141,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q13c How much do you agree or disagree that strong patriotic feelings in [COUNTRY] are needed for [COUNTRY] to remain united.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.1594896331738437,
+      "2": 0.4752791068580542,
+      "3": 0.2615629984051036,
+      "4": 0.09090909090909088,
+      "5": 0.012759170653907496
+    },
+    "sample_count": 627,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q13c How much do you agree or disagree that strong patriotic feelings in [COUNTRY] are needed for [COUNTRY] to remain united.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.163265306122449,
+      "2": 0.4965986394557823,
+      "3": 0.2653061224489796,
+      "4": 0.061224489795918366,
+      "5": 0.013605442176870748
+    },
+    "sample_count": 147,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q13d How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to negative attitudes towards immigrants in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Urban",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.0676328502415459,
+      "2": 0.3446054750402576,
+      "3": 0.37198067632850246,
+      "4": 0.19162640901771336,
+      "5": 0.02415458937198068
+    },
+    "sample_count": 621,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q13d How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to negative attitudes towards immigrants in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "residence": "Rural",
+      "country": "Great Britain"
+    },
+    "p_real": {
+      "1": 0.049295774647887314,
+      "2": 0.3028169014084507,
+      "3": 0.45774647887323944,
+      "4": 0.15492957746478875,
+      "5": 0.035211267605633804
+    },
+    "sample_count": 142,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "residence"
+    ]
+  }
+]

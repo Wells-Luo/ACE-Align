@@ -1,0 +1,6746 @@
+[
+  {
+    "question_id": "v5",
+    "question_text": "Q1a How close do you feel to your town or city?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2631578947368421,
+      "2": 0.4239766081871345,
+      "3": 0.24561403508771928,
+      "4": 0.06725146198830409
+    },
+    "sample_count": 342,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q1a How close do you feel to your town or city?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.240766073871409,
+      "2": 0.41997264021887826,
+      "3": 0.22708618331053354,
+      "4": 0.11217510259917922
+    },
+    "sample_count": 731,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q1a How close do you feel to your town or city?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.27586206896551724,
+      "2": 0.3793103448275862,
+      "3": 0.27586206896551724,
+      "4": 0.06896551724137931
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q1a How close do you feel to your town or city?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.27777777777777773,
+      "2": 0.4351851851851852,
+      "3": 0.20370370370370372,
+      "4": 0.08333333333333333
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q1b How close do you feel to your [County]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.20348837209302323,
+      "2": 0.4883720930232558,
+      "3": 0.2325581395348837,
+      "4": 0.07558139534883722
+    },
+    "sample_count": 344,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q1b How close do you feel to your [County]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2438692098092643,
+      "2": 0.444141689373297,
+      "3": 0.22207084468664848,
+      "4": 0.08991825613079019
+    },
+    "sample_count": 734,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q1b How close do you feel to your [County]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.23636363636363633,
+      "2": 0.4363636363636364,
+      "3": 0.2090909090909091,
+      "4": 0.11818181818181818
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q1b How close do you feel to your [County]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2413793103448276,
+      "2": 0.41379310344827586,
+      "3": 0.3103448275862069,
+      "4": 0.034482758620689655
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q1c How close do you feel to your [Country]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.43515850144092216,
+      "2": 0.452449567723343,
+      "3": 0.08933717579250722,
+      "4": 0.023054755043227668
+    },
+    "sample_count": 347,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q1c How close do you feel to your [Country]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.4480874316939891,
+      "2": 0.40163934426229514,
+      "3": 0.11065573770491803,
+      "4": 0.03961748633879781
+    },
+    "sample_count": 732,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q1c How close do you feel to your [Country]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3839285714285714,
+      "2": 0.41964285714285715,
+      "3": 0.16964285714285715,
+      "4": 0.026785714285714284
+    },
+    "sample_count": 112,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q1c How close do you feel to your [Country]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.33333333333333337,
+      "2": 0.4,
+      "3": 0.26666666666666666,
+      "4": 0.0
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q1d How close do you feel to your [Continent]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2359882005899705,
+      "2": 0.504424778761062,
+      "3": 0.19174041297935102,
+      "4": 0.06784660766961652
+    },
+    "sample_count": 339,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q1d How close do you feel to your [Continent]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.23291492329149233,
+      "2": 0.3891213389121339,
+      "3": 0.2384937238493724,
+      "4": 0.1394700139470014
+    },
+    "sample_count": 717,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q1d How close do you feel to your [Continent]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.19047619047619047,
+      "2": 0.3047619047619048,
+      "3": 0.3904761904761904,
+      "4": 0.11428571428571428
+    },
+    "sample_count": 105,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q1d How close do you feel to your [Continent]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.13793103448275862,
+      "2": 0.4482758620689656,
+      "3": 0.3103448275862069,
+      "4": 0.10344827586206898
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q2a Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have been born in [COUNTRY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.24057971014492754,
+      "2": 0.26956521739130435,
+      "3": 0.33333333333333337,
+      "4": 0.1565217391304348
+    },
+    "sample_count": 345,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q2a Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have been born in [COUNTRY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.5013513513513513,
+      "2": 0.2148648648648649,
+      "3": 0.18783783783783783,
+      "4": 0.09594594594594595
+    },
+    "sample_count": 740,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q2a Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have been born in [COUNTRY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.5765765765765766,
+      "2": 0.17117117117117117,
+      "3": 0.1891891891891892,
+      "4": 0.06306306306306306
+    },
+    "sample_count": 111,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q2a Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have been born in [COUNTRY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2,
+      "2": 0.26666666666666666,
+      "3": 0.43333333333333335,
+      "4": 0.1
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q2b Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] citizenship?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6418338108882522,
+      "2": 0.26074498567335247,
+      "3": 0.060171919770773644,
+      "4": 0.03724928366762177
+    },
+    "sample_count": 349,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q2b Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] citizenship?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.7526595744680851,
+      "2": 0.19148936170212766,
+      "3": 0.041223404255319146,
+      "4": 0.014627659574468085
+    },
+    "sample_count": 752,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q2b Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] citizenship?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.7636363636363637,
+      "2": 0.19090909090909092,
+      "3": 0.01818181818181818,
+      "4": 0.027272727272727275
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q2b Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] citizenship?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6,
+      "2": 0.33333333333333337,
+      "3": 0.03333333333333333,
+      "4": 0.03333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q2c Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have lived in [COUNTRY] for most of one's life?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.27011494252873564,
+      "2": 0.33620689655172414,
+      "3": 0.2844827586206896,
+      "4": 0.10919540229885058
+    },
+    "sample_count": 348,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q2c Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have lived in [COUNTRY] for most of one's life?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.4899328859060402,
+      "2": 0.25906040268456376,
+      "3": 0.1959731543624161,
+      "4": 0.05503355704697986
+    },
+    "sample_count": 745,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q2c Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have lived in [COUNTRY] for most of one's life?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.4545454545454546,
+      "2": 0.2818181818181818,
+      "3": 0.19999999999999998,
+      "4": 0.06363636363636363
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q2c Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have lived in [COUNTRY] for most of one's life?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.13333333333333333,
+      "2": 0.43333333333333335,
+      "3": 0.33333333333333337,
+      "4": 0.1
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q2d Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be able to speak [COUNTRY LANGUAGE]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6257142857142857,
+      "2": 0.27999999999999997,
+      "3": 0.06857142857142856,
+      "4": 0.02571428571428571
+    },
+    "sample_count": 350,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q2d Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be able to speak [COUNTRY LANGUAGE]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.7639257294429708,
+      "2": 0.18832891246684352,
+      "3": 0.030503978779840846,
+      "4": 0.017241379310344827
+    },
+    "sample_count": 754,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q2d Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be able to speak [COUNTRY LANGUAGE]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.8303571428571429,
+      "2": 0.13392857142857142,
+      "3": 0.017857142857142856,
+      "4": 0.017857142857142856
+    },
+    "sample_count": 112,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q2d Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be able to speak [COUNTRY LANGUAGE]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.5666666666666667,
+      "2": 0.26666666666666666,
+      "3": 0.1,
+      "4": 0.06666666666666667
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q2e Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be a [religion]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.15204678362573099,
+      "2": 0.08771929824561403,
+      "3": 0.26608187134502925,
+      "4": 0.4941520467836257
+    },
+    "sample_count": 342,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q2e Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be a [religion]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3983516483516484,
+      "2": 0.13598901098901098,
+      "3": 0.20054945054945056,
+      "4": 0.2651098901098901
+    },
+    "sample_count": 728,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q2e Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be a [religion]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.42592592592592593,
+      "2": 0.20370370370370372,
+      "3": 0.2407407407407407,
+      "4": 0.12962962962962962
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q2e Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to be a [religion]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2142857142857143,
+      "2": 0.03571428571428571,
+      "3": 0.21428571428571425,
+      "4": 0.5357142857142857
+    },
+    "sample_count": 28,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q2f Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to respect [COUNTRY NATIONALITY] political institutions and laws?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6340057636887608,
+      "2": 0.2968299711815562,
+      "3": 0.04899135446685879,
+      "4": 0.020172910662824207
+    },
+    "sample_count": 347,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q2f Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to respect [COUNTRY NATIONALITY] political institutions and laws?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6472184531886025,
+      "2": 0.2781546811397557,
+      "3": 0.04477611940298508,
+      "4": 0.029850746268656712
+    },
+    "sample_count": 737,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q2f Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to respect [COUNTRY NATIONALITY] political institutions and laws?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6396396396396397,
+      "2": 0.32432432432432434,
+      "3": 0.036036036036036036,
+      "4": 0.0
+    },
+    "sample_count": 111,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q2f Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to respect [COUNTRY NATIONALITY] political institutions and laws?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6896551724137931,
+      "2": 0.2413793103448276,
+      "3": 0.034482758620689655,
+      "4": 0.034482758620689655
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q2g Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to feel [COUNTRY NATIONALITY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.5148809523809523,
+      "2": 0.32738095238095244,
+      "3": 0.11904761904761904,
+      "4": 0.03869047619047619
+    },
+    "sample_count": 336,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q2g Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to feel [COUNTRY NATIONALITY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6096904441453567,
+      "2": 0.24091520861372814,
+      "3": 0.09959623149394346,
+      "4": 0.04979811574697174
+    },
+    "sample_count": 743,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q2g Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to feel [COUNTRY NATIONALITY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6822429906542056,
+      "2": 0.22429906542056072,
+      "3": 0.056074766355140186,
+      "4": 0.037383177570093455
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q2g Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to feel [COUNTRY NATIONALITY]?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.4444444444444444,
+      "2": 0.4074074074074074,
+      "3": 0.14814814814814814,
+      "4": 0.0
+    },
+    "sample_count": 27,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q2h Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] ancestry?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0953757225433526,
+      "2": 0.14450867052023122,
+      "3": 0.3786127167630058,
+      "4": 0.3815028901734104
+    },
+    "sample_count": 346,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q2h Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] ancestry?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3045822102425876,
+      "2": 0.18733153638814015,
+      "3": 0.30727762803234504,
+      "4": 0.20080862533692723
+    },
+    "sample_count": 742,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q2h Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] ancestry?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3394495412844037,
+      "2": 0.22935779816513763,
+      "3": 0.28440366972477066,
+      "4": 0.14678899082568808
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q2h Some people say that the following things are important for being truly [NATIONALITY].  Others say they are not important.  How important do you think each of the following is to have [COUNTRY NATIONALITY] ancestry?",
+    "category": "national_identity",
+    "options": {
+      "1": "Very important",
+      "2": "Fairly important",
+      "3": "Not very important",
+      "4": "Not important at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.10344827586206898,
+      "2": 0.10344827586206898,
+      "3": 0.5172413793103449,
+      "4": 0.27586206896551724
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3a I would rather be a citizen of [COUNTRY] than of any other country in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.5702005730659025,
+      "2": 0.2578796561604585,
+      "3": 0.11747851002865328,
+      "4": 0.04011461318051576,
+      "5": 0.014326647564469913
+    },
+    "sample_count": 349,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3a I would rather be a citizen of [COUNTRY] than of any other country in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6005361930294906,
+      "2": 0.2667560321715818,
+      "3": 0.09383378016085792,
+      "4": 0.03351206434316354,
+      "5": 0.005361930294906166
+    },
+    "sample_count": 746,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3a I would rather be a citizen of [COUNTRY] than of any other country in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.7297297297297298,
+      "2": 0.2072072072072072,
+      "3": 0.05405405405405406,
+      "4": 0.009009009009009009,
+      "5": 0.0
+    },
+    "sample_count": 111,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3a I would rather be a citizen of [COUNTRY] than of any other country in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6000000000000001,
+      "2": 0.2,
+      "3": 0.16666666666666669,
+      "4": 0.03333333333333333,
+      "5": 0.0
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3b There are some things about [COUNTRY] that make me feel ashamed of [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.1930835734870317,
+      "2": 0.521613832853026,
+      "3": 0.138328530259366,
+      "4": 0.11815561959654178,
+      "5": 0.02881844380403458
+    },
+    "sample_count": 347,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3b There are some things about [COUNTRY] that make me feel ashamed of [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.1875,
+      "2": 0.44836956521739135,
+      "3": 0.18342391304347827,
+      "4": 0.1277173913043478,
+      "5": 0.05298913043478261
+    },
+    "sample_count": 736,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3b There are some things about [COUNTRY] that make me feel ashamed of [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2,
+      "2": 0.5181818181818182,
+      "3": 0.1090909090909091,
+      "4": 0.1090909090909091,
+      "5": 0.06363636363636363
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3b There are some things about [COUNTRY] that make me feel ashamed of [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2,
+      "2": 0.6333333333333333,
+      "3": 0.03333333333333333,
+      "4": 0.1,
+      "5": 0.03333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3c The world would be a better place if people from other countries were more like the [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.04093567251461988,
+      "2": 0.19005847953216373,
+      "3": 0.3362573099415205,
+      "4": 0.3391812865497076,
+      "5": 0.0935672514619883
+    },
+    "sample_count": 342,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3c The world would be a better place if people from other countries were more like the [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.08599167822468792,
+      "2": 0.24410540915395285,
+      "3": 0.3384188626907073,
+      "4": 0.26768377253814146,
+      "5": 0.0638002773925104
+    },
+    "sample_count": 721,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3c The world would be a better place if people from other countries were more like the [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.07142857142857142,
+      "2": 0.14285714285714285,
+      "3": 0.42857142857142855,
+      "4": 0.3214285714285714,
+      "5": 0.03571428571428571
+    },
+    "sample_count": 28,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3c The world would be a better place if people from other countries were more like the [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.07476635514018691,
+      "2": 0.308411214953271,
+      "3": 0.38317757009345793,
+      "4": 0.17757009345794392,
+      "5": 0.05607476635514018
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3d Generally speaking, [COUNTRY] is a better country than most other countries.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.21574344023323616,
+      "2": 0.4897959183673469,
+      "3": 0.1924198250728863,
+      "4": 0.08163265306122448,
+      "5": 0.02040816326530612
+    },
+    "sample_count": 343,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3d Generally speaking, [COUNTRY] is a better country than most other countries.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2748299319727891,
+      "2": 0.4503401360544218,
+      "3": 0.18095238095238095,
+      "4": 0.0761904761904762,
+      "5": 0.017687074829931974
+    },
+    "sample_count": 735,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3d Generally speaking, [COUNTRY] is a better country than most other countries.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.26666666666666666,
+      "2": 0.30000000000000004,
+      "3": 0.23333333333333334,
+      "4": 0.19999999999999998,
+      "5": 0.0
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3d Generally speaking, [COUNTRY] is a better country than most other countries.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3177570093457944,
+      "2": 0.48598130841121495,
+      "3": 0.12149532710280374,
+      "4": 0.06542056074766354,
+      "5": 0.009345794392523364
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3e People should support their country even if the country is in the wrong.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.029239766081871343,
+      "2": 0.17251461988304093,
+      "3": 0.2309941520467836,
+      "4": 0.4239766081871345,
+      "5": 0.14327485380116958
+    },
+    "sample_count": 342,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3e People should support their country even if the country is in the wrong.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.08943089430894308,
+      "2": 0.23983739837398374,
+      "3": 0.2113821138211382,
+      "4": 0.36585365853658536,
+      "5": 0.09349593495934959
+    },
+    "sample_count": 738,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3e People should support their country even if the country is in the wrong.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.13636363636363635,
+      "2": 0.2909090909090909,
+      "3": 0.19090909090909092,
+      "4": 0.32727272727272727,
+      "5": 0.05454545454545454
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3e People should support their country even if the country is in the wrong.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.06666666666666667,
+      "2": 0.16666666666666669,
+      "3": 0.19999999999999998,
+      "4": 0.4666666666666667,
+      "5": 0.1
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3f When my country does well in international sports, it makes me proud to be [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.25862068965517243,
+      "2": 0.48275862068965525,
+      "3": 0.21264367816091956,
+      "4": 0.040229885057471264,
+      "5": 0.005747126436781609
+    },
+    "sample_count": 348,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3f When my country does well in international sports, it makes me proud to be [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.30655957161981257,
+      "2": 0.45247657295850063,
+      "3": 0.1820615796519411,
+      "4": 0.041499330655957165,
+      "5": 0.01740294511378849
+    },
+    "sample_count": 747,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3f When my country does well in international sports, it makes me proud to be [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2972972972972973,
+      "2": 0.5135135135135136,
+      "3": 0.16216216216216217,
+      "4": 0.02702702702702703,
+      "5": 0.0
+    },
+    "sample_count": 111,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3f When my country does well in international sports, it makes me proud to be [COUNTRY NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.27586206896551724,
+      "2": 0.4482758620689655,
+      "3": 0.2413793103448276,
+      "4": 0.034482758620689655,
+      "5": 0.0
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3g I am often less proud of [COUNTRY] than I would like to be.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.04927536231884058,
+      "2": 0.3246376811594203,
+      "3": 0.17101449275362318,
+      "4": 0.39420289855072466,
+      "5": 0.0608695652173913
+    },
+    "sample_count": 345,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3g I am often less proud of [COUNTRY] than I would like to be.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.06385869565217392,
+      "2": 0.32065217391304346,
+      "3": 0.2364130434782609,
+      "4": 0.32472826086956524,
+      "5": 0.05434782608695652
+    },
+    "sample_count": 736,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3g I am often less proud of [COUNTRY] than I would like to be.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.05504587155963303,
+      "2": 0.3486238532110092,
+      "3": 0.1559633027522936,
+      "4": 0.3486238532110092,
+      "5": 0.09174311926605505
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3g I am often less proud of [COUNTRY] than I would like to be.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.06896551724137931,
+      "2": 0.3793103448275863,
+      "3": 0.20689655172413793,
+      "4": 0.3103448275862069,
+      "5": 0.03448275862068966
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3h The world would be a better place if [COUNTRY NATIONALITY] acknowledged [COUNTRY's] shortcomings.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2099125364431487,
+      "2": 0.5276967930029155,
+      "3": 0.17492711370262393,
+      "4": 0.0728862973760933,
+      "5": 0.014577259475218658
+    },
+    "sample_count": 343,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3h The world would be a better place if [COUNTRY NATIONALITY] acknowledged [COUNTRY's] shortcomings.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.16689466484268126,
+      "2": 0.560875512995896,
+      "3": 0.20246238030095762,
+      "4": 0.06155950752393981,
+      "5": 0.008207934336525308
+    },
+    "sample_count": 731,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3h The world would be a better place if [COUNTRY NATIONALITY] acknowledged [COUNTRY's] shortcomings.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2314814814814815,
+      "2": 0.5555555555555556,
+      "3": 0.16666666666666669,
+      "4": 0.046296296296296294,
+      "5": 0.0
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q3 How much do you agree or disagree with the following statements?  Q3h The world would be a better place if [COUNTRY NATIONALITY] acknowledged [COUNTRY's] shortcomings.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.06666666666666667,
+      "2": 0.5,
+      "3": 0.2,
+      "4": 0.23333333333333334,
+      "5": 0.0
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4a The way democracy works.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.36257309941520466,
+      "2": 0.5175438596491229,
+      "3": 0.07309941520467836,
+      "4": 0.04678362573099415
+    },
+    "sample_count": 342,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4a The way democracy works.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.253294289897511,
+      "2": 0.5168374816983895,
+      "3": 0.19326500732064422,
+      "4": 0.036603221083455345
+    },
+    "sample_count": 683,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4a The way democracy works.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2815533980582524,
+      "2": 0.4854368932038835,
+      "3": 0.18446601941747573,
+      "4": 0.048543689320388356
+    },
+    "sample_count": 103,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4a The way democracy works.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.19999999999999998,
+      "2": 0.6666666666666667,
+      "3": 0.1,
+      "4": 0.03333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4b Its political influence in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.1317365269461078,
+      "2": 0.5898203592814371,
+      "3": 0.24850299401197606,
+      "4": 0.029940119760479042
+    },
+    "sample_count": 334,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4b Its political influence in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.13973799126637554,
+      "2": 0.5007278020378457,
+      "3": 0.2765647743813683,
+      "4": 0.08296943231441048
+    },
+    "sample_count": 687,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4b Its political influence in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.12962962962962962,
+      "2": 0.4814814814814815,
+      "3": 0.2962962962962963,
+      "4": 0.09259259259259259
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4b Its political influence in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.13333333333333333,
+      "2": 0.4666666666666667,
+      "3": 0.3666666666666667,
+      "4": 0.03333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4c [COUNTRY's] economic achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3005952380952381,
+      "2": 0.5148809523809523,
+      "3": 0.1488095238095238,
+      "4": 0.03571428571428571
+    },
+    "sample_count": 336,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4c [COUNTRY's] economic achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.22553191489361699,
+      "2": 0.5049645390070923,
+      "3": 0.20567375886524822,
+      "4": 0.06382978723404255
+    },
+    "sample_count": 705,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4c [COUNTRY's] economic achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.25,
+      "2": 0.3846153846153846,
+      "3": 0.25,
+      "4": 0.11538461538461539
+    },
+    "sample_count": 104,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4c [COUNTRY's] economic achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.41379310344827586,
+      "2": 0.41379310344827586,
+      "3": 0.1724137931034483,
+      "4": 0.0
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4d Its social security system.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.14984709480122324,
+      "2": 0.42201834862385323,
+      "3": 0.31498470948012236,
+      "4": 0.11314984709480122
+    },
+    "sample_count": 327,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4d Its social security system.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.12853107344632766,
+      "2": 0.3799435028248588,
+      "3": 0.3333333333333333,
+      "4": 0.1581920903954802
+    },
+    "sample_count": 708,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4d Its social security system.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.08333333333333333,
+      "2": 0.3425925925925926,
+      "3": 0.37962962962962965,
+      "4": 0.19444444444444445
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4d Its social security system.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.20689655172413793,
+      "2": 0.48275862068965514,
+      "3": 0.27586206896551724,
+      "4": 0.034482758620689655
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4e Its scientific and technological achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.5946745562130178,
+      "2": 0.38757396449704146,
+      "3": 0.014792899408284023,
+      "4": 0.0029585798816568047
+    },
+    "sample_count": 338,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4e Its scientific and technological achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.40682788051209107,
+      "2": 0.5120910384068279,
+      "3": 0.058321479374110946,
+      "4": 0.02275960170697013
+    },
+    "sample_count": 703,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4e Its scientific and technological achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.37142857142857144,
+      "2": 0.5714285714285715,
+      "3": 0.03809523809523809,
+      "4": 0.01904761904761905
+    },
+    "sample_count": 105,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4e Its scientific and technological achievements.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6666666666666666,
+      "2": 0.3333333333333333,
+      "3": 0.0,
+      "4": 0.0
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4f Its achievements in sports.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3777777777777778,
+      "2": 0.5079365079365079,
+      "3": 0.08253968253968254,
+      "4": 0.031746031746031744
+    },
+    "sample_count": 315,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4f Its achievements in sports.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3801169590643275,
+      "2": 0.5248538011695907,
+      "3": 0.06432748538011696,
+      "4": 0.030701754385964914
+    },
+    "sample_count": 684,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4f Its achievements in sports.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3846153846153846,
+      "2": 0.5576923076923077,
+      "3": 0.04807692307692308,
+      "4": 0.009615384615384616
+    },
+    "sample_count": 104,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4f Its achievements in sports.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3076923076923077,
+      "2": 0.6153846153846153,
+      "3": 0.07692307692307693,
+      "4": 0.0
+    },
+    "sample_count": 26,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4g Its achievements in the arts and literature.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3799392097264438,
+      "2": 0.5197568389057751,
+      "3": 0.08206686930091185,
+      "4": 0.018237082066869303
+    },
+    "sample_count": 329,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4g Its achievements in the arts and literature.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3616071428571429,
+      "2": 0.5476190476190477,
+      "3": 0.07589285714285714,
+      "4": 0.014880952380952382
+    },
+    "sample_count": 672,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4g Its achievements in the arts and literature.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.37254901960784315,
+      "2": 0.5980392156862745,
+      "3": 0.029411764705882353,
+      "4": 0.0
+    },
+    "sample_count": 102,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4g Its achievements in the arts and literature.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.39285714285714285,
+      "2": 0.6071428571428571,
+      "3": 0.0,
+      "4": 0.0
+    },
+    "sample_count": 28,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4h [COUNTRY's] armed forces.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.607669616519174,
+      "2": 0.32448377581120946,
+      "3": 0.05309734513274336,
+      "4": 0.014749262536873156
+    },
+    "sample_count": 339,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4h [COUNTRY's] armed forces.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6775956284153004,
+      "2": 0.2527322404371585,
+      "3": 0.0546448087431694,
+      "4": 0.015027322404371584
+    },
+    "sample_count": 732,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4h [COUNTRY's] armed forces.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.5666666666666667,
+      "2": 0.3666666666666667,
+      "3": 0.06666666666666667,
+      "4": 0.0
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4h [COUNTRY's] armed forces.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.8165137614678899,
+      "2": 0.1651376146788991,
+      "3": 0.009174311926605505,
+      "4": 0.009174311926605505
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4i Its history.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.5,
+      "2": 0.3941176470588236,
+      "3": 0.07352941176470588,
+      "4": 0.032352941176470584
+    },
+    "sample_count": 340,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4i Its history.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.5413223140495869,
+      "2": 0.37327823691460055,
+      "3": 0.06198347107438016,
+      "4": 0.023415977961432508
+    },
+    "sample_count": 726,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4i Its history.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.39999999999999997,
+      "2": 0.4666666666666667,
+      "3": 0.1,
+      "4": 0.03333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4i Its history.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.6055045871559633,
+      "2": 0.3486238532110092,
+      "3": 0.01834862385321101,
+      "4": 0.027522935779816515
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4j Its fair and equal treatment of all groups in society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.11746987951807228,
+      "2": 0.42469879518072284,
+      "3": 0.34337349397590355,
+      "4": 0.1144578313253012
+    },
+    "sample_count": 332,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4j Its fair and equal treatment of all groups in society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.20655270655270655,
+      "2": 0.4173789173789174,
+      "3": 0.27350427350427353,
+      "4": 0.10256410256410257
+    },
+    "sample_count": 702,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4j Its fair and equal treatment of all groups in society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.20588235294117643,
+      "2": 0.4019607843137255,
+      "3": 0.2549019607843137,
+      "4": 0.13725490196078433
+    },
+    "sample_count": 102,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q4 How proud are you of [COUNTRY] in each of the following?  Q4j Its fair and equal treatment of all groups in society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.24137931034482757,
+      "2": 0.27586206896551724,
+      "3": 0.41379310344827586,
+      "4": 0.06896551724137931
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5a [COUNTRY] should limit the import of foreign products in order to protect its national economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.11078717201166181,
+      "2": 0.34402332361516036,
+      "3": 0.239067055393586,
+      "4": 0.2478134110787172,
+      "5": 0.05830903790087463
+    },
+    "sample_count": 343,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5a [COUNTRY] should limit the import of foreign products in order to protect its national economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.21517241379310348,
+      "2": 0.423448275862069,
+      "3": 0.20275862068965517,
+      "4": 0.14344827586206899,
+      "5": 0.015172413793103448
+    },
+    "sample_count": 725,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5a [COUNTRY] should limit the import of foreign products in order to protect its national economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2777777777777778,
+      "2": 0.4537037037037037,
+      "3": 0.17592592592592593,
+      "4": 0.09259259259259259,
+      "5": 0.0
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5a [COUNTRY] should limit the import of foreign products in order to protect its national economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2,
+      "2": 0.3333333333333333,
+      "3": 0.2,
+      "4": 0.23333333333333334,
+      "5": 0.03333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5b For certain problems, like environment pollution, international bodies should have the right to enforce solutions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.1497005988023952,
+      "2": 0.4491017964071856,
+      "3": 0.16766467065868262,
+      "4": 0.15568862275449102,
+      "5": 0.07784431137724551
+    },
+    "sample_count": 334,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5b For certain problems, like environment pollution, international bodies should have the right to enforce solutions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.14183381088825214,
+      "2": 0.502865329512894,
+      "3": 0.20630372492836677,
+      "4": 0.11031518624641834,
+      "5": 0.03868194842406877
+    },
+    "sample_count": 698,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5b For certain problems, like environment pollution, international bodies should have the right to enforce solutions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.09999999999999999,
+      "2": 0.47,
+      "3": 0.24,
+      "4": 0.13,
+      "5": 0.06
+    },
+    "sample_count": 100,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5b For certain problems, like environment pollution, international bodies should have the right to enforce solutions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.06666666666666667,
+      "2": 0.4,
+      "3": 0.16666666666666669,
+      "4": 0.16666666666666666,
+      "5": 0.2
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5c [COUNTRY] should follow its own interests, even if this leads to conflicts with other nations.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.07396449704142012,
+      "2": 0.2692307692307692,
+      "3": 0.22485207100591717,
+      "4": 0.35798816568047337,
+      "5": 0.07396449704142012
+    },
+    "sample_count": 338,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5c [COUNTRY] should follow its own interests, even if this leads to conflicts with other nations.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.10504201680672269,
+      "2": 0.3963585434173669,
+      "3": 0.23249299719887953,
+      "4": 0.22408963585434172,
+      "5": 0.04201680672268908
+    },
+    "sample_count": 714,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5c [COUNTRY] should follow its own interests, even if this leads to conflicts with other nations.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.10185185185185185,
+      "2": 0.4351851851851852,
+      "3": 0.2685185185185185,
+      "4": 0.18518518518518517,
+      "5": 0.009259259259259259
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5c [COUNTRY] should follow its own interests, even if this leads to conflicts with other nations.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.1,
+      "2": 0.3666666666666667,
+      "3": 0.16666666666666666,
+      "4": 0.3666666666666667,
+      "5": 0.0
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5d Foreigners should not be allowed to buy land in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.03529411764705882,
+      "2": 0.09999999999999999,
+      "3": 0.19999999999999998,
+      "4": 0.4970588235294118,
+      "5": 0.16764705882352943
+    },
+    "sample_count": 340,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5d Foreigners should not be allowed to buy land in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.09793103448275861,
+      "2": 0.17379310344827584,
+      "3": 0.20551724137931035,
+      "4": 0.41517241379310343,
+      "5": 0.10758620689655171
+    },
+    "sample_count": 725,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5d Foreigners should not be allowed to buy land in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.10344827586206896,
+      "2": 0.06896551724137931,
+      "3": 0.24137931034482757,
+      "4": 0.5517241379310345,
+      "5": 0.034482758620689655
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5d Foreigners should not be allowed to buy land in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.14678899082568808,
+      "2": 0.2018348623853211,
+      "3": 0.22018348623853212,
+      "4": 0.3853211009174312,
+      "5": 0.045871559633027525
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5e [COUNTRY's] television should give preference to [COUNTRY] films and programs.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.029154518950437316,
+      "2": 0.16909620991253643,
+      "3": 0.27113702623906705,
+      "4": 0.37609329446064144,
+      "5": 0.15451895043731778
+    },
+    "sample_count": 343,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5e [COUNTRY's] television should give preference to [COUNTRY] films and programs.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0626740947075209,
+      "2": 0.25348189415041783,
+      "3": 0.33008356545961,
+      "4": 0.2910863509749304,
+      "5": 0.06267409470752089
+    },
+    "sample_count": 718,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5e [COUNTRY's] television should give preference to [COUNTRY] films and programs.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.10091743119266056,
+      "2": 0.3486238532110092,
+      "3": 0.26605504587155965,
+      "4": 0.23853211009174313,
+      "5": 0.045871559633027525
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q5 How much do you agree or disagree with the following statements?  Q5e [COUNTRY's] television should give preference to [COUNTRY] films and programs.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.10344827586206896,
+      "2": 0.13793103448275862,
+      "3": 0.20689655172413793,
+      "4": 0.3793103448275862,
+      "5": 0.1724137931034483
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a Large international companies are doing more and more damage to local businesses in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.15976331360946744,
+      "2": 0.4319526627218934,
+      "3": 0.2485207100591716,
+      "4": 0.1420118343195266,
+      "5": 0.01775147928994083
+    },
+    "sample_count": 338,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a Large international companies are doing more and more damage to local businesses in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.18321678321678325,
+      "2": 0.4783216783216784,
+      "3": 0.2251748251748252,
+      "4": 0.1020979020979021,
+      "5": 0.011188811188811189
+    },
+    "sample_count": 715,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a Large international companies are doing more and more damage to local businesses in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2018348623853211,
+      "2": 0.5688073394495413,
+      "3": 0.1559633027522936,
+      "4": 0.05504587155963303,
+      "5": 0.01834862385321101
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a Large international companies are doing more and more damage to local businesses in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.27586206896551724,
+      "2": 0.48275862068965514,
+      "3": 0.1724137931034483,
+      "4": 0.06896551724137931,
+      "5": 0.0
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b Free trade leads to better products becoming available in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.10818713450292397,
+      "2": 0.543859649122807,
+      "3": 0.20760233918128654,
+      "4": 0.1023391812865497,
+      "5": 0.038011695906432746
+    },
+    "sample_count": 342,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b Free trade leads to better products becoming available in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.08504398826979473,
+      "2": 0.48240469208211145,
+      "3": 0.2697947214076246,
+      "4": 0.13636363636363635,
+      "5": 0.026392961876832845
+    },
+    "sample_count": 682,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b Free trade leads to better products becoming available in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.05607476635514018,
+      "2": 0.43925233644859807,
+      "3": 0.34579439252336447,
+      "4": 0.1308411214953271,
+      "5": 0.02803738317757009
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b Free trade leads to better products becoming available in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.1,
+      "2": 0.4,
+      "3": 0.3,
+      "4": 0.13333333333333333,
+      "5": 0.06666666666666667
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6c In general, [COUNTRY] should follow the decisions of international organizations to which it belongs, even if the government does not  agree with them.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.03273809523809523,
+      "2": 0.2946428571428571,
+      "3": 0.29464285714285715,
+      "4": 0.29761904761904756,
+      "5": 0.08035714285714285
+    },
+    "sample_count": 336,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6c In general, [COUNTRY] should follow the decisions of international organizations to which it belongs, even if the government does not  agree with them.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.03167420814479638,
+      "2": 0.28959276018099545,
+      "3": 0.31070889894419307,
+      "4": 0.3076923076923077,
+      "5": 0.06033182503770739
+    },
+    "sample_count": 663,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6c In general, [COUNTRY] should follow the decisions of international organizations to which it belongs, even if the government does not  agree with them.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.028846153846153848,
+      "2": 0.25,
+      "3": 0.3942307692307693,
+      "4": 0.27884615384615385,
+      "5": 0.04807692307692308
+    },
+    "sample_count": 104,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6c In general, [COUNTRY] should follow the decisions of international organizations to which it belongs, even if the government does not  agree with them.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.03333333333333333,
+      "2": 0.33333333333333337,
+      "3": 0.16666666666666666,
+      "4": 0.33333333333333337,
+      "5": 0.13333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6d International organizations are taking away too much power from the [COUNTRY NATIONALITY] government.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.043209876543209874,
+      "2": 0.1728395061728395,
+      "3": 0.25308641975308643,
+      "4": 0.48148148148148145,
+      "5": 0.04938271604938271
+    },
+    "sample_count": 324,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6d International organizations are taking away too much power from the [COUNTRY NATIONALITY] government.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.07227138643067847,
+      "2": 0.3185840707964602,
+      "3": 0.33480825958702065,
+      "4": 0.252212389380531,
+      "5": 0.022123893805309734
+    },
+    "sample_count": 678,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6d International organizations are taking away too much power from the [COUNTRY NATIONALITY] government.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.06730769230769232,
+      "2": 0.3942307692307692,
+      "3": 0.3173076923076923,
+      "4": 0.2019230769230769,
+      "5": 0.019230769230769232
+    },
+    "sample_count": 104,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6d International organizations are taking away too much power from the [COUNTRY NATIONALITY] government.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.14285714285714285,
+      "2": 0.21428571428571425,
+      "3": 0.21428571428571427,
+      "4": 0.3928571428571428,
+      "5": 0.03571428571428571
+    },
+    "sample_count": 28,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6e I feel more like a citizen of the world than of any country.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.03206997084548105,
+      "2": 0.12536443148688048,
+      "3": 0.20991253644314867,
+      "4": 0.4723032069970845,
+      "5": 0.16034985422740525
+    },
+    "sample_count": 343,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6e I feel more like a citizen of the world than of any country.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.07346938775510205,
+      "2": 0.2748299319727891,
+      "3": 0.17551020408163268,
+      "4": 0.39727891156462586,
+      "5": 0.07891156462585035
+    },
+    "sample_count": 735,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6e I feel more like a citizen of the world than of any country.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.25688073394495414,
+      "3": 0.1651376146788991,
+      "4": 0.45871559633027525,
+      "5": 0.11926605504587157
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6e I feel more like a citizen of the world than of any country.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.2,
+      "3": 0.03333333333333333,
+      "4": 0.6666666666666666,
+      "5": 0.1
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7a It is impossible for people who do not share [COUNTRY'S] customs and traditions to become fully [COUNTRY'S NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.028735632183908046,
+      "2": 0.21839080459770116,
+      "3": 0.1235632183908046,
+      "4": 0.4683908045977012,
+      "5": 0.16091954022988506
+    },
+    "sample_count": 348,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7a It is impossible for people who do not share [COUNTRY'S] customs and traditions to become fully [COUNTRY'S NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.05955678670360111,
+      "2": 0.23961218836565096,
+      "3": 0.17590027700831024,
+      "4": 0.45013850415512463,
+      "5": 0.07479224376731301
+    },
+    "sample_count": 722,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7a It is impossible for people who do not share [COUNTRY'S] customs and traditions to become fully [COUNTRY'S NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.046296296296296294,
+      "2": 0.35185185185185186,
+      "3": 0.1388888888888889,
+      "4": 0.3981481481481482,
+      "5": 0.06481481481481483
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7a It is impossible for people who do not share [COUNTRY'S] customs and traditions to become fully [COUNTRY'S NATIONALITY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.1,
+      "3": 0.13333333333333333,
+      "4": 0.6333333333333333,
+      "5": 0.13333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7b Ethnic minorities should be given government assistance to preserve their customs and traditions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0028901734104046246,
+      "2": 0.14739884393063585,
+      "3": 0.1763005780346821,
+      "4": 0.47398843930635837,
+      "5": 0.1994219653179191
+    },
+    "sample_count": 346,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7b Ethnic minorities should be given government assistance to preserve their customs and traditions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.016689847009735744,
+      "2": 0.16133518776077885,
+      "3": 0.21140472878998606,
+      "4": 0.4200278164116829,
+      "5": 0.1905424200278164
+    },
+    "sample_count": 719,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7b Ethnic minorities should be given government assistance to preserve their customs and traditions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.12962962962962962,
+      "3": 0.2037037037037037,
+      "4": 0.47222222222222215,
+      "5": 0.19444444444444445
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q7 How much do you agree or disagree with the following statements?  Q7b Ethnic minorities should be given government assistance to preserve their customs and traditions.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.06896551724137931,
+      "3": 0.13793103448275862,
+      "4": 0.5517241379310345,
+      "5": 0.2413793103448276
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q8 Some people say that it is better for a country if different racial and ethnic groups maintain their distinct customs and traditions. Others say that it is better if these groups adapt and blend into the large society.  Which of these views comes closer to your own? a) It is better for society if groups maintain their distinct customs and traditions. b) It is better if groups adapt and blend into the larger society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Maintain traditions",
+      "2": "Adapt into larger society"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.4766666666666667,
+      "2": 0.5233333333333333
+    },
+    "sample_count": 300,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q8 Some people say that it is better for a country if different racial and ethnic groups maintain their distinct customs and traditions. Others say that it is better if these groups adapt and blend into the large society.  Which of these views comes closer to your own? a) It is better for society if groups maintain their distinct customs and traditions. b) It is better if groups adapt and blend into the larger society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Maintain traditions",
+      "2": "Adapt into larger society"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.4294573643410853,
+      "2": 0.5705426356589147
+    },
+    "sample_count": 645,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q8 Some people say that it is better for a country if different racial and ethnic groups maintain their distinct customs and traditions. Others say that it is better if these groups adapt and blend into the large society.  Which of these views comes closer to your own? a) It is better for society if groups maintain their distinct customs and traditions. b) It is better if groups adapt and blend into the larger society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Maintain traditions",
+      "2": "Adapt into larger society"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.43010752688172044,
+      "2": 0.5698924731182795
+    },
+    "sample_count": 93,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q8 Some people say that it is better for a country if different racial and ethnic groups maintain their distinct customs and traditions. Others say that it is better if these groups adapt and blend into the large society.  Which of these views comes closer to your own? a) It is better for society if groups maintain their distinct customs and traditions. b) It is better if groups adapt and blend into the larger society.",
+    "category": "national_identity",
+    "options": {
+      "1": "Maintain traditions",
+      "2": "Adapt into larger society"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.45833333333333337,
+      "2": 0.5416666666666666
+    },
+    "sample_count": 24,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9a Immigrants increase crime rates.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.02046783625730994,
+      "2": 0.1023391812865497,
+      "3": 0.26023391812865493,
+      "4": 0.45614035087719296,
+      "5": 0.1608187134502924
+    },
+    "sample_count": 342,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9a Immigrants increase crime rates.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.051034482758620686,
+      "2": 0.19172413793103446,
+      "3": 0.24413793103448275,
+      "4": 0.4055172413793104,
+      "5": 0.10758620689655173
+    },
+    "sample_count": 725,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9a Immigrants increase crime rates.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.03669724770642202,
+      "2": 0.23853211009174313,
+      "3": 0.3211009174311927,
+      "4": 0.3761467889908257,
+      "5": 0.027522935779816515
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9a Immigrants increase crime rates.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.03333333333333333,
+      "2": 0.03333333333333333,
+      "3": 0.23333333333333334,
+      "4": 0.6,
+      "5": 0.1
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9b Immigrants are generally good for [COUNTRY'S] economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.12138728323699421,
+      "2": 0.5578034682080926,
+      "3": 0.21676300578034682,
+      "4": 0.09826589595375723,
+      "5": 0.005780346820809248
+    },
+    "sample_count": 346,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9b Immigrants are generally good for [COUNTRY'S] economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.08275862068965519,
+      "2": 0.4110344827586207,
+      "3": 0.28551724137931034,
+      "4": 0.19310344827586207,
+      "5": 0.027586206896551727
+    },
+    "sample_count": 725,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9b Immigrants are generally good for [COUNTRY'S] economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.027777777777777776,
+      "2": 0.32407407407407407,
+      "3": 0.3611111111111111,
+      "4": 0.2592592592592593,
+      "5": 0.027777777777777776
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9b Immigrants are generally good for [COUNTRY'S] economy.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.13333333333333333,
+      "2": 0.5333333333333333,
+      "3": 0.2,
+      "4": 0.13333333333333333,
+      "5": 0.0
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9c Immigrants take jobs away from people who were born in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.020172910662824207,
+      "2": 0.2363112391930836,
+      "3": 0.23919308357348706,
+      "4": 0.4121037463976946,
+      "5": 0.09221902017291067
+    },
+    "sample_count": 347,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9c Immigrants take jobs away from people who were born in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.10040705563093621,
+      "2": 0.30393487109905015,
+      "3": 0.21438263229308005,
+      "4": 0.31614654002713705,
+      "5": 0.06512890094979647
+    },
+    "sample_count": 737,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9c Immigrants take jobs away from people who were born in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.102803738317757,
+      "2": 0.32710280373831774,
+      "3": 0.16822429906542055,
+      "4": 0.3644859813084112,
+      "5": 0.037383177570093455
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9c Immigrants take jobs away from people who were born in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.03333333333333333,
+      "2": 0.2,
+      "3": 0.26666666666666666,
+      "4": 0.4666666666666667,
+      "5": 0.03333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9d Immigrants improve [COUNTRY'S NATIONALITY] society by bringing new ideas and cultures.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.16379310344827586,
+      "2": 0.6350574712643678,
+      "3": 0.15229885057471262,
+      "4": 0.04597701149425287,
+      "5": 0.0028735632183908046
+    },
+    "sample_count": 348,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9d Immigrants improve [COUNTRY'S NATIONALITY] society by bringing new ideas and cultures.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.09028727770177838,
+      "2": 0.5075239398084815,
+      "3": 0.240766073871409,
+      "4": 0.13679890560875513,
+      "5": 0.024623803009575923
+    },
+    "sample_count": 731,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9d Immigrants improve [COUNTRY'S NATIONALITY] society by bringing new ideas and cultures.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.07272727272727272,
+      "2": 0.4545454545454546,
+      "3": 0.29090909090909095,
+      "4": 0.16363636363636364,
+      "5": 0.01818181818181818
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9d Immigrants improve [COUNTRY'S NATIONALITY] society by bringing new ideas and cultures.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.13333333333333333,
+      "2": 0.6666666666666667,
+      "3": 0.13333333333333333,
+      "4": 0.06666666666666667,
+      "5": 0.0
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9e [COUNTRY'S] culture is generally undermined by immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.020348837209302327,
+      "2": 0.11046511627906977,
+      "3": 0.13372093023255813,
+      "4": 0.5697674418604651,
+      "5": 0.16569767441860464
+    },
+    "sample_count": 344,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9e [COUNTRY'S] culture is generally undermined by immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.035211267605633804,
+      "2": 0.1816901408450704,
+      "3": 0.2563380281690141,
+      "4": 0.4605633802816901,
+      "5": 0.06619718309859154
+    },
+    "sample_count": 710,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9e [COUNTRY'S] culture is generally undermined by immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.027777777777777776,
+      "2": 0.12962962962962962,
+      "3": 0.28703703703703703,
+      "4": 0.537037037037037,
+      "5": 0.018518518518518517
+    },
+    "sample_count": 108,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9e [COUNTRY'S] culture is generally undermined by immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.1,
+      "3": 0.13333333333333333,
+      "4": 0.5666666666666667,
+      "5": 0.2
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9f Legal immigrants to [COUNTRY] who are not citizens should have the same rights as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.07780979827089338,
+      "2": 0.30835734870317005,
+      "3": 0.10951008645533142,
+      "4": 0.42939481268011526,
+      "5": 0.07492795389048992
+    },
+    "sample_count": 347,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9f Legal immigrants to [COUNTRY] who are not citizens should have the same rights as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.06359945872801083,
+      "2": 0.3071718538565629,
+      "3": 0.11772665764546685,
+      "4": 0.3924221921515561,
+      "5": 0.11907983761840325
+    },
+    "sample_count": 739,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9f Legal immigrants to [COUNTRY] who are not citizens should have the same rights as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.05454545454545455,
+      "2": 0.26363636363636367,
+      "3": 0.15454545454545454,
+      "4": 0.40909090909090906,
+      "5": 0.11818181818181818
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v53",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9f Legal immigrants to [COUNTRY] who are not citizens should have the same rights as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.06896551724137931,
+      "2": 0.1724137931034483,
+      "3": 0.27586206896551724,
+      "4": 0.4482758620689655,
+      "5": 0.034482758620689655
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9g [COUNTRY] should take stronger measures to exclude illegal immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.23303834808259588,
+      "2": 0.3716814159292035,
+      "3": 0.17699115044247787,
+      "4": 0.17994100294985252,
+      "5": 0.038348082595870206
+    },
+    "sample_count": 339,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9g [COUNTRY] should take stronger measures to exclude illegal immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2334254143646409,
+      "2": 0.35220994475138123,
+      "3": 0.16988950276243092,
+      "4": 0.20027624309392267,
+      "5": 0.04419889502762431
+    },
+    "sample_count": 724,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9g [COUNTRY] should take stronger measures to exclude illegal immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.308411214953271,
+      "2": 0.4672897196261682,
+      "3": 0.11214953271028036,
+      "4": 0.10280373831775699,
+      "5": 0.009345794392523364
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v54",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9g [COUNTRY] should take stronger measures to exclude illegal immigrants.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2,
+      "2": 0.4666666666666667,
+      "3": 0.16666666666666669,
+      "4": 0.1,
+      "5": 0.06666666666666667
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9h Legal immigrants should have equal access to public education as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3065902578796562,
+      "2": 0.5873925501432664,
+      "3": 0.05157593123209169,
+      "4": 0.04011461318051576,
+      "5": 0.014326647564469913
+    },
+    "sample_count": 349,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9h Legal immigrants should have equal access to public education as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.20509383378016086,
+      "2": 0.6058981233243967,
+      "3": 0.09249329758713136,
+      "4": 0.07506702412868632,
+      "5": 0.021447721179624665
+    },
+    "sample_count": 746,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9h Legal immigrants should have equal access to public education as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.16822429906542058,
+      "2": 0.6822429906542056,
+      "3": 0.06542056074766354,
+      "4": 0.056074766355140186,
+      "5": 0.02803738317757009
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q9 There are different opinions about immigrants from other countries living in [COUNTRY]. (By 'immigrants' we mean people who come to settle  in [COUNTRY]). How much do you agree or disagree with each of the following statements?  Q9h Legal immigrants should have equal access to public education as [COUNTRY NATIONALITY] citizens.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.2,
+      "2": 0.6333333333333333,
+      "3": 0.06666666666666667,
+      "4": 0.06666666666666667,
+      "5": 0.03333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q10 Do you think the number of immigrants to [COUNTRY] nowadays should be ...",
+    "category": "national_identity",
+    "options": {
+      "1": "Increased a lot",
+      "2": "Increased a little",
+      "3": "Remain the same as it is",
+      "4": "Reduced a little",
+      "5": "Reduced a lot"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.042345276872964174,
+      "2": 0.17589576547231273,
+      "3": 0.4397394136807818,
+      "4": 0.2052117263843648,
+      "5": 0.13680781758957655
+    },
+    "sample_count": 307,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q10 Do you think the number of immigrants to [COUNTRY] nowadays should be ...",
+    "category": "national_identity",
+    "options": {
+      "1": "Increased a lot",
+      "2": "Increased a little",
+      "3": "Remain the same as it is",
+      "4": "Reduced a little",
+      "5": "Reduced a lot"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.03313253012048193,
+      "2": 0.07379518072289157,
+      "3": 0.41716867469879515,
+      "4": 0.26506024096385544,
+      "5": 0.21084337349397592
+    },
+    "sample_count": 664,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q10 Do you think the number of immigrants to [COUNTRY] nowadays should be ...",
+    "category": "national_identity",
+    "options": {
+      "1": "Increased a lot",
+      "2": "Increased a little",
+      "3": "Remain the same as it is",
+      "4": "Reduced a little",
+      "5": "Reduced a lot"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.05376344086021505,
+      "2": 0.05376344086021505,
+      "3": 0.3763440860215054,
+      "4": 0.27956989247311825,
+      "5": 0.23655913978494622
+    },
+    "sample_count": 93,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q10 Do you think the number of immigrants to [COUNTRY] nowadays should be ...",
+    "category": "national_identity",
+    "options": {
+      "1": "Increased a lot",
+      "2": "Increased a little",
+      "3": "Remain the same as it is",
+      "4": "Reduced a little",
+      "5": "Reduced a lot"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.125,
+      "3": 0.4583333333333333,
+      "4": 0.20833333333333331,
+      "5": 0.20833333333333331
+    },
+    "sample_count": 24,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q11 Which of these statements about immigrants comes closest to your view: - Immigrants should retain their culture of origin and not adopt COUNTRY's culture.  - Immigrants should retain their culture of origin and also adopt COUNTRY's culture.  - Immigrants should give up their culture of origin and adopt COUNTRY's culture.",
+    "category": "national_identity",
+    "options": {
+      "1": "Immigrants should retain their culture of origin and not adopt COUNTRY's culture",
+      "2": "Immigrants should retain their culture of origin and also adopt COUNTRY's culture",
+      "3": "Immigrants should give up their culture of origin and adopt COUNTRY's culture"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.01764705882352941,
+      "2": 0.9588235294117646,
+      "3": 0.023529411764705882
+    },
+    "sample_count": 340,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q11 Which of these statements about immigrants comes closest to your view: - Immigrants should retain their culture of origin and not adopt COUNTRY's culture.  - Immigrants should retain their culture of origin and also adopt COUNTRY's culture.  - Immigrants should give up their culture of origin and adopt COUNTRY's culture.",
+    "category": "national_identity",
+    "options": {
+      "1": "Immigrants should retain their culture of origin and not adopt COUNTRY's culture",
+      "2": "Immigrants should retain their culture of origin and also adopt COUNTRY's culture",
+      "3": "Immigrants should give up their culture of origin and adopt COUNTRY's culture"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.032904148783977114,
+      "2": 0.9027181688125894,
+      "3": 0.06437768240343347
+    },
+    "sample_count": 699,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q11 Which of these statements about immigrants comes closest to your view: - Immigrants should retain their culture of origin and not adopt COUNTRY's culture.  - Immigrants should retain their culture of origin and also adopt COUNTRY's culture.  - Immigrants should give up their culture of origin and adopt COUNTRY's culture.",
+    "category": "national_identity",
+    "options": {
+      "1": "Immigrants should retain their culture of origin and not adopt COUNTRY's culture",
+      "2": "Immigrants should retain their culture of origin and also adopt COUNTRY's culture",
+      "3": "Immigrants should give up their culture of origin and adopt COUNTRY's culture"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0396039603960396,
+      "2": 0.8415841584158417,
+      "3": 0.1188118811881188
+    },
+    "sample_count": 101,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q11 Which of these statements about immigrants comes closest to your view: - Immigrants should retain their culture of origin and not adopt COUNTRY's culture.  - Immigrants should retain their culture of origin and also adopt COUNTRY's culture.  - Immigrants should give up their culture of origin and adopt COUNTRY's culture.",
+    "category": "national_identity",
+    "options": {
+      "1": "Immigrants should retain their culture of origin and not adopt COUNTRY's culture",
+      "2": "Immigrants should retain their culture of origin and also adopt COUNTRY's culture",
+      "3": "Immigrants should give up their culture of origin and adopt COUNTRY's culture"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q12 How proud are you of being [COUNTRY NATIONALITY]? (PLEASE, CHECK ONE BOX BELOW)",
+    "category": "national_identity",
+    "options": {
+      "0": "I am not [Country Nationality]",
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "0": 0.02046783625730994,
+      "1": 0.6491228070175439,
+      "2": 0.30409356725146197,
+      "3": 0.02046783625730994,
+      "4": 0.0058479532163742695
+    },
+    "sample_count": 342,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q12 How proud are you of being [COUNTRY NATIONALITY]? (PLEASE, CHECK ONE BOX BELOW)",
+    "category": "national_identity",
+    "options": {
+      "0": "I am not [Country Nationality]",
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "0": 0.02275769745649264,
+      "1": 0.7028112449799198,
+      "2": 0.24899598393574296,
+      "3": 0.018741633199464522,
+      "4": 0.006693440428380187
+    },
+    "sample_count": 747,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q12 How proud are you of being [COUNTRY NATIONALITY]? (PLEASE, CHECK ONE BOX BELOW)",
+    "category": "national_identity",
+    "options": {
+      "0": "I am not [Country Nationality]",
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "0": 0.0,
+      "1": 0.7636363636363637,
+      "2": 0.23636363636363636,
+      "3": 0.0,
+      "4": 0.0
+    },
+    "sample_count": 110,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q12 How proud are you of being [COUNTRY NATIONALITY]? (PLEASE, CHECK ONE BOX BELOW)",
+    "category": "national_identity",
+    "options": {
+      "0": "I am not [Country Nationality]",
+      "1": "Very proud",
+      "2": "Somewhat proud",
+      "3": "Not very proud",
+      "4": "Not proud at all"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "0": 0.0,
+      "1": 0.5517241379310345,
+      "2": 0.41379310344827586,
+      "3": 0.034482758620689655,
+      "4": 0.0
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q13a How much do you agree or disagree that strong patriotic feelings in [COUNTRY] strengthen [COUNTRY's] place in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3023255813953488,
+      "2": 0.39534883720930236,
+      "3": 0.20348837209302328,
+      "4": 0.08430232558139536,
+      "5": 0.014534883720930232
+    },
+    "sample_count": 344,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q13a How much do you agree or disagree that strong patriotic feelings in [COUNTRY] strengthen [COUNTRY's] place in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.38741258741258733,
+      "2": 0.4013986013986014,
+      "3": 0.16783216783216784,
+      "4": 0.03776223776223776,
+      "5": 0.005594405594405594
+    },
+    "sample_count": 715,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q13a How much do you agree or disagree that strong patriotic feelings in [COUNTRY] strengthen [COUNTRY's] place in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.47706422018348627,
+      "2": 0.3394495412844037,
+      "3": 0.12844036697247707,
+      "4": 0.05504587155963303,
+      "5": 0.0
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q13a How much do you agree or disagree that strong patriotic feelings in [COUNTRY] strengthen [COUNTRY's] place in the world.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.26666666666666666,
+      "2": 0.4,
+      "3": 0.23333333333333334,
+      "4": 0.06666666666666667,
+      "5": 0.03333333333333333
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "Q13b How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to intolerance in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.05934718100890208,
+      "2": 0.39762611275964393,
+      "3": 0.24629080118694363,
+      "4": 0.258160237388724,
+      "5": 0.03857566765578635
+    },
+    "sample_count": 337,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "Q13b How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to intolerance in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0855457227138643,
+      "2": 0.359882005899705,
+      "3": 0.28023598820059,
+      "4": 0.2359882005899705,
+      "5": 0.038348082595870206
+    },
+    "sample_count": 678,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "Q13b How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to intolerance in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.049019607843137254,
+      "2": 0.4215686274509804,
+      "3": 0.2549019607843137,
+      "4": 0.20588235294117646,
+      "5": 0.06862745098039216
+    },
+    "sample_count": 102,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v60",
+    "question_text": "Q13b How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to intolerance in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.5666666666666667,
+      "3": 0.2,
+      "4": 0.16666666666666669,
+      "5": 0.06666666666666667
+    },
+    "sample_count": 30,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q13c How much do you agree or disagree that strong patriotic feelings in [COUNTRY] are needed for [COUNTRY] to remain united.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.19710144927536233,
+      "2": 0.5565217391304348,
+      "3": 0.1391304347826087,
+      "4": 0.09565217391304348,
+      "5": 0.011594202898550725
+    },
+    "sample_count": 345,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q13c How much do you agree or disagree that strong patriotic feelings in [COUNTRY] are needed for [COUNTRY] to remain united.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3160762942779292,
+      "2": 0.4809264305177112,
+      "3": 0.11989100817438691,
+      "4": 0.0762942779291553,
+      "5": 0.006811989100817439
+    },
+    "sample_count": 734,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q13c How much do you agree or disagree that strong patriotic feelings in [COUNTRY] are needed for [COUNTRY] to remain united.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.3551401869158879,
+      "2": 0.514018691588785,
+      "3": 0.09345794392523364,
+      "4": 0.037383177570093455,
+      "5": 0.0
+    },
+    "sample_count": 107,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q13c How much do you agree or disagree that strong patriotic feelings in [COUNTRY] are needed for [COUNTRY] to remain united.",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.13793103448275862,
+      "2": 0.5172413793103448,
+      "3": 0.24137931034482757,
+      "4": 0.10344827586206896,
+      "5": 0.0
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q13d How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to negative attitudes towards immigrants in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.05555555555555555,
+      "2": 0.39766081871345027,
+      "3": 0.22807017543859648,
+      "4": 0.30116959064327486,
+      "5": 0.017543859649122806
+    },
+    "sample_count": 342,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q13d How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to negative attitudes towards immigrants in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Urban",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.07692307692307693,
+      "2": 0.33986013986013985,
+      "3": 0.24615384615384614,
+      "4": 0.2951048951048951,
+      "5": 0.04195804195804196
+    },
+    "sample_count": 715,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q13d How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to negative attitudes towards immigrants in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "No_College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.07339449541284404,
+      "2": 0.3211009174311927,
+      "3": 0.22018348623853212,
+      "4": 0.3302752293577982,
+      "5": 0.05504587155963303
+    },
+    "sample_count": 109,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q13d How much do you agree or disagree that strong patriotic feelings in [COUNTRY] lead to negative attitudes towards immigrants in [COUNTRY].",
+    "category": "national_identity",
+    "options": {
+      "1": "Agree strongly",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Disagree strongly"
+    },
+    "demographics": {
+      "education": "College",
+      "residence": "Rural",
+      "country": "United States"
+    },
+    "p_real": {
+      "1": 0.0,
+      "2": 0.5862068965517242,
+      "3": 0.13793103448275862,
+      "4": 0.1724137931034483,
+      "5": 0.10344827586206896
+    },
+    "sample_count": 29,
+    "aggregated_from": 4,
+    "attributes_used": [
+      "education",
+      "residence"
+    ]
+  }
+]

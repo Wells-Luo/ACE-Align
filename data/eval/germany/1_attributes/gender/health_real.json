@@ -1,0 +1,3438 @@
+[
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.05526315789473685,
+      "2": 0.2736842105263158,
+      "3": 0.42894736842105263,
+      "4": 0.2026315789473684,
+      "5": 0.031578947368421054,
+      "6": 0.005263157894736842,
+      "7": 0.002631578947368421
+    },
+    "sample_count": 760,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v1",
+    "question_text": "Q1 If you were to consider your life in general these days, how happy or unhappy would you say you are, on the whole? ",
+    "category": "health",
+    "options": {
+      "1": "Completely happy",
+      "2": "Very happy",
+      "3": "Fairly happy",
+      "4": "Neither happy nor unhappy",
+      "5": "Fairly unhappy",
+      "6": "Very unhappy",
+      "7": "Completely unhappy"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.04328018223234624,
+      "2": 0.2733485193621868,
+      "3": 0.4407744874715261,
+      "4": 0.21298405466970388,
+      "5": 0.02277904328018223,
+      "6": 0.00683371298405467,
+      "7": 0.0
+    },
+    "sample_count": 878,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.0849673202614379,
+      "2": 0.5830065359477125,
+      "3": 0.24967320261437903,
+      "4": 0.07320261437908497,
+      "5": 0.009150326797385621
+    },
+    "sample_count": 765,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v2",
+    "question_text": "Q2 In general, how much confidence do you have in the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Complete confidence",
+      "2": "A great deal of confidence",
+      "3": "Some confidence",
+      "4": "Very little confidence",
+      "5": "No confidence at all"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.05714285714285714,
+      "2": 0.6125714285714285,
+      "3": 0.2674285714285714,
+      "4": 0.05714285714285714,
+      "5": 0.005714285714285713
+    },
+    "sample_count": 875,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.028871391076115485,
+      "2": 0.13123359580052493,
+      "3": 0.19291338582677164,
+      "4": 0.3832020997375328,
+      "5": 0.26377952755905515
+    },
+    "sample_count": 762,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v3",
+    "question_text": "Q3 Is it fair or unfair that people with higher incomes can afford better health care than people with lower incomes? ",
+    "category": "health",
+    "options": {
+      "1": "Very fair",
+      "2": "Somewhat fair",
+      "3": "Neither fair nor unfair",
+      "4": "Somewhat unfair",
+      "5": "Very unfair"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.008027522935779817,
+      "2": 0.07912844036697247,
+      "3": 0.19724770642201836,
+      "4": 0.41284403669724773,
+      "5": 0.30275229357798167
+    },
+    "sample_count": 872,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10589812332439678,
+      "2": 0.38471849865951746,
+      "3": 0.2680965147453084,
+      "4": 0.2278820375335121,
+      "5": 0.013404825737265416
+    },
+    "sample_count": 746,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v4",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4a People use health care services more than necessary.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1266375545851528,
+      "2": 0.46142649199417757,
+      "3": 0.22707423580786026,
+      "4": 0.16739446870451238,
+      "5": 0.017467248908296942
+    },
+    "sample_count": 687,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.0899182561307902,
+      "2": 0.12806539509536785,
+      "3": 0.06267029972752043,
+      "4": 0.4277929155313352,
+      "5": 0.2915531335149864
+    },
+    "sample_count": 734,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v5",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4b The government should provide only limited health care services.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.05162064825930372,
+      "2": 0.08883553421368547,
+      "3": 0.06362545018007203,
+      "4": 0.4597839135654262,
+      "5": 0.33613445378151263
+    },
+    "sample_count": 833,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.04819277108433735,
+      "2": 0.1713520749665328,
+      "3": 0.15930388219544844,
+      "4": 0.5020080321285141,
+      "5": 0.11914323962516733
+    },
+    "sample_count": 747,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v6",
+    "question_text": "Q4 How much do you agree or disagree with the following statements?  Q4c In general, the health care system in [country] is inefficient.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.03229665071770335,
+      "2": 0.16985645933014354,
+      "3": 0.16267942583732056,
+      "4": 0.5083732057416268,
+      "5": 0.12679425837320574
+    },
+    "sample_count": 836,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06524633821571238,
+      "2": 0.25299600532623173,
+      "3": 0.16644474034620507,
+      "4": 0.31691078561917446,
+      "5": 0.19840213049267644
+    },
+    "sample_count": 751,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v7",
+    "question_text": "Q5 How willing would you be to pay higher taxes to improve the level of health care for all people in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Very willing",
+      "2": "Fairly willing",
+      "3": "Neither willing nor unwilling",
+      "4": "Fairly unwilling",
+      "5": "Very unwilling"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06666666666666667,
+      "2": 0.2714285714285714,
+      "3": 0.15595238095238095,
+      "4": 0.3345238095238096,
+      "5": 0.17142857142857146
+    },
+    "sample_count": 840,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.12182061579651941,
+      "2": 0.36813922356091033,
+      "3": 0.1285140562248996,
+      "4": 0.26639892904953144,
+      "5": 0.11512717536813921
+    },
+    "sample_count": 747,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v8",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6a People should have access to publicly funded health care even if they do not hold citizenship of [country].",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.16090584028605484,
+      "2": 0.45053635280095344,
+      "3": 0.1072705601907032,
+      "4": 0.19547079856972585,
+      "5": 0.08581644815256256
+    },
+    "sample_count": 839,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07307171853856563,
+      "2": 0.2828146143437077,
+      "3": 0.18809201623815966,
+      "4": 0.33558863328822736,
+      "5": 0.12043301759133963
+    },
+    "sample_count": 739,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v9",
+    "question_text": "Q6 How much do you agree or disagree with the following statements?  Q6b People should have access to publicly funded health care even if they behave in ways that damage their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.061893203883495146,
+      "2": 0.30218446601941745,
+      "3": 0.18325242718446602,
+      "4": 0.33131067961165045,
+      "5": 0.12135922330097086
+    },
+    "sample_count": 824,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.568758344459279,
+      "2": 0.2590120160213618,
+      "3": 0.1268357810413885,
+      "4": 0.02937249666221629,
+      "5": 0.01602136181575434
+    },
+    "sample_count": 749,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v10",
+    "question_text": "Q7a In [country], do you think it is easier or harder to get access to health care for rich people than for poor people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5652680652680653,
+      "2": 0.2657342657342658,
+      "3": 0.11305361305361307,
+      "4": 0.03846153846153846,
+      "5": 0.01748251748251748
+    },
+    "sample_count": 858,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.01928374655647383,
+      "2": 0.14462809917355374,
+      "3": 0.6652892561983471,
+      "4": 0.1487603305785124,
+      "5": 0.02203856749311295
+    },
+    "sample_count": 726,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v11",
+    "question_text": "Q7b In [country], do you think it is easier or harder to get access to health care for old people than for young people?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.02264600715137068,
+      "2": 0.1263408820023838,
+      "3": 0.6471990464839095,
+      "4": 0.16448152562574492,
+      "5": 0.03933253873659118
+    },
+    "sample_count": 839,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.008522727272727272,
+      "2": 0.03835227272727272,
+      "3": 0.9232954545454546,
+      "4": 0.02698863636363636,
+      "5": 0.002840909090909091
+    },
+    "sample_count": 704,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v12",
+    "question_text": "Q7c In [country], do you think it is easier or harder to get access to health care for women than for men?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.006053268765133173,
+      "2": 0.029055690072639223,
+      "3": 0.9164648910411621,
+      "4": 0.0423728813559322,
+      "5": 0.006053268765133173
+    },
+    "sample_count": 826,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.0909090909090909,
+      "2": 0.25115562403697994,
+      "3": 0.4391371340523883,
+      "4": 0.17257318952234207,
+      "5": 0.04622496147919876
+    },
+    "sample_count": 649,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v13",
+    "question_text": "Q7d In [country], do you think it is easier or harder to get access to health care for citizens of [country] than for people who do not hold [country's] citizenship?",
+    "category": "health",
+    "options": {
+      "1": "Much easier",
+      "2": "Somewhat easier",
+      "3": "About the same",
+      "4": "Somewhat harder",
+      "5": "Much harder"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.12307692307692308,
+      "2": 0.262937062937063,
+      "3": 0.3650349650349651,
+      "4": 0.1888111888111888,
+      "5": 0.06013986013986015
+    },
+    "sample_count": 715,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.12768817204301075,
+      "2": 0.5981182795698924,
+      "3": 0.15725806451612903,
+      "4": 0.10887096774193547,
+      "5": 0.008064516129032258
+    },
+    "sample_count": 744,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v14",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8a People suffer from severe health problems because they behaved in ways that damaged their health.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.13053892215568863,
+      "2": 0.5365269461077845,
+      "3": 0.16886227544910182,
+      "4": 0.13892215568862276,
+      "5": 0.025149700598802397
+    },
+    "sample_count": 835,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.15081521739130435,
+      "2": 0.6154891304347826,
+      "3": 0.14945652173913046,
+      "4": 0.07744565217391304,
+      "5": 0.006793478260869565
+    },
+    "sample_count": 736,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v15",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8b People suffer from severe health problems because of the environment they are exposed to at work or where they live.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.132387706855792,
+      "2": 0.6654846335697401,
+      "3": 0.1276595744680851,
+      "4": 0.0673758865248227,
+      "5": 0.0070921985815602835
+    },
+    "sample_count": 846,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.08974358974358973,
+      "2": 0.6153846153846154,
+      "3": 0.19658119658119663,
+      "4": 0.08404558404558404,
+      "5": 0.014245014245014245
+    },
+    "sample_count": 702,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v16",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8c People suffer from severe health problems because of their genes.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.13516896120150187,
+      "2": 0.6608260325406758,
+      "3": 0.12765957446808512,
+      "4": 0.06758448060075094,
+      "5": 0.008760951188986234
+    },
+    "sample_count": 799,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.0989010989010989,
+      "2": 0.4134615384615385,
+      "3": 0.1923076923076923,
+      "4": 0.23076923076923073,
+      "5": 0.06456043956043957
+    },
+    "sample_count": 728,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v17",
+    "question_text": "Q8 Severe health problems may have many causes. How much do you agree or disagree with the following statements?  Q8d People suffer from severe health problems because they are poor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10633213859020312,
+      "2": 0.40860215053763443,
+      "3": 0.1768219832735962,
+      "4": 0.25448028673835127,
+      "5": 0.05376344086021505
+    },
+    "sample_count": 837,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.024793388429752067,
+      "2": 0.12672176308539945,
+      "3": 0.3085399449035813,
+      "4": 0.3953168044077136,
+      "5": 0.14462809917355374
+    },
+    "sample_count": 726,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v18",
+    "question_text": "Q9 To what extent do you agree or disagree with the following statement: [Alternative/traditional/folk] medicine provides better solutions for health problems than [mainstream/Western conventional] medicine? ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.037082818294190356,
+      "2": 0.10877626699629171,
+      "3": 0.3745364647713226,
+      "4": 0.3634116192830655,
+      "5": 0.1161928306551298
+    },
+    "sample_count": 809,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.09043927648578812,
+      "2": 0.7183462532299743,
+      "3": 0.124031007751938,
+      "4": 0.05555555555555556,
+      "5": 0.011627906976744186
+    },
+    "sample_count": 774,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v19",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10a All things considered, doctors can be trusted.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07900677200902934,
+      "2": 0.6839729119638824,
+      "3": 0.13769751693002255,
+      "4": 0.09255079006772009,
+      "5": 0.006772009029345372
+    },
+    "sample_count": 886,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.027662517289073305,
+      "2": 0.2572614107883817,
+      "3": 0.20885200553250347,
+      "4": 0.45643153526970953,
+      "5": 0.04979253112033195
+    },
+    "sample_count": 723,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v20",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10b The medical skills of doctors are not as good as they should be.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.04079110012360938,
+      "2": 0.29666254635352285,
+      "3": 0.20519159456118666,
+      "4": 0.41161928306551293,
+      "5": 0.04573547589616811
+    },
+    "sample_count": 809,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06741573033707865,
+      "2": 0.24438202247191013,
+      "3": 0.25280898876404495,
+      "4": 0.38623595505617975,
+      "5": 0.04915730337078652
+    },
+    "sample_count": 712,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v21",
+    "question_text": "Q10 How much do you agree or disagree with the following statements about doctors in general in [country]?  Q10c Doctors care more about their earnings than about their patients.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.060301507537688426,
+      "2": 0.24371859296482415,
+      "3": 0.2876884422110552,
+      "4": 0.35175879396984927,
+      "5": 0.05653266331658291
+    },
+    "sample_count": 796,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1012311901504788,
+      "2": 0.02188782489740082,
+      "3": 0.07934336525307797,
+      "4": 0.21067031463748287,
+      "5": 0.28727770177838574,
+      "6": 0.2995896032831737
+    },
+    "sample_count": 731,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v22",
+    "question_text": "Q11 During the past 12 months, how often, if at all, did you use the internet on any device (such as computers, tablets and smartphones) to look for health or medical information for yourself or someone else?",
+    "category": "health",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times a week",
+      "4": "Several times a month",
+      "5": "Several times a year",
+      "6": "Never or almost never"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10526315789473685,
+      "2": 0.01835985312117503,
+      "3": 0.15667074663402694,
+      "4": 0.2472460220318237,
+      "5": 0.27662178702570384,
+      "6": 0.19583843329253367
+    },
+    "sample_count": 817,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2681258549931601,
+      "2": 0.23666210670314639,
+      "3": 0.3214774281805745,
+      "4": 0.14774281805745554,
+      "5": 0.025991792065663474
+    },
+    "sample_count": 731,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v23",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12a Information on healthy lifestyle?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.16341463414634147,
+      "2": 0.19878048780487803,
+      "3": 0.3390243902439024,
+      "4": 0.22926829268292684,
+      "5": 0.06951219512195123
+    },
+    "sample_count": 820,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5426997245179063,
+      "2": 0.23002754820936638,
+      "3": 0.12809917355371903,
+      "4": 0.081267217630854,
+      "5": 0.01790633608815427
+    },
+    "sample_count": 726,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v24",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12b Information related to anxiety, stress, or similar problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.39580764488286063,
+      "2": 0.2305795314426634,
+      "3": 0.21578298397040688,
+      "4": 0.12577065351418001,
+      "5": 0.03205918618988903
+    },
+    "sample_count": 811,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.19178082191780824,
+      "2": 0.21643835616438362,
+      "3": 0.24931506849315063,
+      "4": 0.24657534246575344,
+      "5": 0.0958904109589041
+    },
+    "sample_count": 730,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v25",
+    "question_text": "Q12 During the past 12 months, how often, if at all, have you used the internet to look for information on the following topics? Q12c Information on vaccinations?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes ",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.18048780487804875,
+      "2": 0.20365853658536587,
+      "3": 0.28658536585365857,
+      "4": 0.21829268292682927,
+      "5": 0.11097560975609755
+    },
+    "sample_count": 820,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.021961932650073207,
+      "2": 0.24158125915080528,
+      "3": 0.38213762811127383,
+      "4": 0.21522693997071743,
+      "5": 0.1390922401171303
+    },
+    "sample_count": 683,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v26",
+    "question_text": "Q13a To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet affected my health behaviour in a positive way. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.020486555697823303,
+      "2": 0.2535211267605634,
+      "3": 0.3854033290653009,
+      "4": 0.23431498079385407,
+      "5": 0.10627400768245839
+    },
+    "sample_count": 781,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.03134328358208955,
+      "2": 0.3567164179104478,
+      "3": 0.2835820895522388,
+      "4": 0.19999999999999998,
+      "5": 0.12835820895522387
+    },
+    "sample_count": 670,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v27",
+    "question_text": "Q13b To what extent do you agree or disagree with the following statements? During the past 12 months, information on the internet helped me understand what a doctor tried to explain to me. ",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.052219321148825056,
+      "2": 0.3433420365535248,
+      "3": 0.2885117493472585,
+      "4": 0.19190600522193213,
+      "5": 0.12402088772845954
+    },
+    "sample_count": 766,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.057103064066852366,
+      "2": 0.42896935933147634,
+      "3": 0.17548746518105848,
+      "4": 0.2423398328690808,
+      "5": 0.09610027855153205
+    },
+    "sample_count": 718,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v28",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14a The internet is useful to help people decide if their symptoms are serious enough to go to the doctor.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.03549571603427172,
+      "2": 0.41248470012239896,
+      "3": 0.15299877600979192,
+      "4": 0.29620563035495723,
+      "5": 0.10281517747858018
+    },
+    "sample_count": 817,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.022695035460992906,
+      "2": 0.3446808510638298,
+      "3": 0.22411347517730498,
+      "4": 0.3134751773049645,
+      "5": 0.0950354609929078
+    },
+    "sample_count": 705,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v29",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14b The internet is useful to check that the doctor is giving people appropriate advice.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.017521902377972465,
+      "2": 0.34918648310387984,
+      "3": 0.22027534418022532,
+      "4": 0.3254067584480601,
+      "5": 0.08760951188986234
+    },
+    "sample_count": 799,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.28389830508474573,
+      "2": 0.5084745762711864,
+      "3": 0.11723163841807911,
+      "4": 0.07485875706214691,
+      "5": 0.015536723163841809
+    },
+    "sample_count": 708,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v30",
+    "question_text": "Q14 To what extent do you agree or disagree with the following statements?  Q14c It is not easy to distinguish between reliable and unreliable health information on the internet.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.25609756097560976,
+      "2": 0.5560975609756098,
+      "3": 0.09390243902439024,
+      "4": 0.07560975609756099,
+      "5": 0.01829268292682927
+    },
+    "sample_count": 820,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.01342281879194631,
+      "2": 0.036241610738255034,
+      "3": 0.10201342281879194,
+      "4": 0.4013422818791947,
+      "5": 0.44697986577181203
+    },
+    "sample_count": 745,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v31",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15a Overall, vaccinations do more harm than good.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.010477299185098952,
+      "2": 0.016298020954598372,
+      "3": 0.07101280558789291,
+      "4": 0.4342258440046565,
+      "5": 0.46798603026775315
+    },
+    "sample_count": 859,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.033426183844011144,
+      "2": 0.10167130919220055,
+      "3": 0.13649025069637882,
+      "4": 0.3579387186629527,
+      "5": 0.3704735376044568
+    },
+    "sample_count": 718,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v32",
+    "question_text": "Q15 How much do you agree or disagree with the following statements about vaccinations?  Q15b It is better to develop immunity by getting ill than having a vaccination.",
+    "category": "health",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.02545454545454546,
+      "2": 0.0715151515151515,
+      "3": 0.12121212121212119,
+      "4": 0.423030303030303,
+      "5": 0.35878787878787877
+    },
+    "sample_count": 825,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.29411764705882354,
+      "2": 0.2718954248366013,
+      "3": 0.265359477124183,
+      "4": 0.10718954248366012,
+      "5": 0.06143790849673204
+    },
+    "sample_count": 765,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v33",
+    "question_text": "Q16a During the past 4 weeks how often have you had difficulties with work or household activities because of health problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.22073578595317722,
+      "2": 0.26198439241917504,
+      "3": 0.3010033444816054,
+      "4": 0.1415830546265329,
+      "5": 0.07469342251950947
+    },
+    "sample_count": 897,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.13127413127413126,
+      "2": 0.3153153153153153,
+      "3": 0.3166023166023166,
+      "4": 0.17117117117117114,
+      "5": 0.06563706563706564
+    },
+    "sample_count": 777,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v34",
+    "question_text": "Q16b During the past 4 weeks how often have you had bodily aches or pains?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.11098779134295225,
+      "2": 0.28412874583795783,
+      "3": 0.31742508324084345,
+      "4": 0.19089900110987792,
+      "5": 0.09655937846836848
+    },
+    "sample_count": 901,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2625482625482626,
+      "2": 0.35006435006435005,
+      "3": 0.24324324324324323,
+      "4": 0.11068211068211069,
+      "5": 0.03346203346203346
+    },
+    "sample_count": 777,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v35",
+    "question_text": "Q16c During the past 4 weeks how often have you felt unhappy and depressed?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.20044543429844097,
+      "2": 0.30178173719376394,
+      "3": 0.30512249443207123,
+      "4": 0.1391982182628062,
+      "5": 0.053452115812917596
+    },
+    "sample_count": 898,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5271317829457365,
+      "2": 0.25452196382428943,
+      "3": 0.14599483204134367,
+      "4": 0.05167958656330749,
+      "5": 0.020671834625323002
+    },
+    "sample_count": 774,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v36",
+    "question_text": "Q16d During the past 4 weeks how often have you lost confidence in yourself?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.4544419134396355,
+      "2": 0.2505694760820046,
+      "3": 0.2072892938496583,
+      "4": 0.0580865603644647,
+      "5": 0.0296127562642369
+    },
+    "sample_count": 878,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.4896373056994818,
+      "2": 0.26813471502590674,
+      "3": 0.15544041450777202,
+      "4": 0.05958549222797928,
+      "5": 0.027202072538860103
+    },
+    "sample_count": 772,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v37",
+    "question_text": "Q16e During the past 4 weeks how often have you felt you could not overcome your problems?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.4138702460850112,
+      "2": 0.27181208053691275,
+      "3": 0.20357941834451904,
+      "4": 0.07382550335570472,
+      "5": 0.03691275167785235
+    },
+    "sample_count": 894,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.09266409266409266,
+      "2": 0.3822393822393823,
+      "3": 0.3075933075933076,
+      "4": 0.18404118404118402,
+      "5": 0.03346203346203346
+    },
+    "sample_count": 777,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v38",
+    "question_text": "Q17a During the past 12 months, how often did you visit or were visited by a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06131549609810479,
+      "2": 0.40468227424749165,
+      "3": 0.3288740245261984,
+      "4": 0.16164994425863993,
+      "5": 0.043478260869565216
+    },
+    "sample_count": 897,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.8436692506459949,
+      "2": 0.1098191214470284,
+      "3": 0.029715762273901807,
+      "4": 0.014211886304909558,
+      "5": 0.0025839793281653744
+    },
+    "sample_count": 774,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v39",
+    "question_text": "Q17b During the past 12 months, how often did you visit or were visited by an [alternative/ traditional/ folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Seldom",
+      "3": "Sometimes",
+      "4": "Often",
+      "5": "Very often"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.7799097065462754,
+      "2": 0.12866817155756208,
+      "3": 0.05191873589164786,
+      "4": 0.03160270880361174,
+      "5": 0.007900677200902935
+    },
+    "sample_count": 886,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.047976011994003,
+      "2": 0.9520239880059971
+    },
+    "sample_count": 667,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v40",
+    "question_text": "Q18a During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not pay for it?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.06317204301075269,
+      "2": 0.9368279569892473
+    },
+    "sample_count": 744,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.08792846497764531,
+      "2": 0.9120715350223546
+    },
+    "sample_count": 671,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v41",
+    "question_text": "Q18b During the past 12 months did it ever happen that you did not get the medical treatment you needed because you could not take the time off work or had other commitments?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10185185185185185,
+      "2": 0.8981481481481481
+    },
+    "sample_count": 756,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.21068249258160238,
+      "2": 0.7893175074183976
+    },
+    "sample_count": 674,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v42",
+    "question_text": "Q18c During the past 12 months did it ever happen that you did not get the medical treatment you needed because the waiting list was too long?",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.22483660130718952,
+      "2": 0.7751633986928105
+    },
+    "sample_count": 765,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1363040629095675,
+      "2": 0.4377457404980341,
+      "3": 0.2883355176933159,
+      "4": 0.11140235910878113,
+      "5": 0.02621231979030144
+    },
+    "sample_count": 763,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v43",
+    "question_text": "Q19 How likely is it that if you become seriously ill, you would get or not get the best treatment available in [country] ",
+    "category": "health",
+    "options": {
+      "1": "It's certain I would get",
+      "2": "It's likely I would get",
+      "3": "Equal chance of getting or not getting",
+      "4": "It's likely I would not get",
+      "5": "It's certain I would not get"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.152,
+      "2": 0.41028571428571425,
+      "3": 0.32114285714285706,
+      "4": 0.09714285714285714,
+      "5": 0.019428571428571427
+    },
+    "sample_count": 875,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.04774193548387097,
+      "2": 0.25935483870967746,
+      "3": 0.4309677419354839,
+      "4": 0.18580645161290324,
+      "5": 0.054193548387096765,
+      "6": 0.015483870967741935,
+      "7": 0.0064516129032258064
+    },
+    "sample_count": 775,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v44",
+    "question_text": "Q20 In general, how satisfied or dissatisfied are you with the health care system in [country]? ",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.0556792873051225,
+      "2": 0.21826280623608016,
+      "3": 0.48106904231625836,
+      "4": 0.16369710467706014,
+      "5": 0.060133630289532294,
+      "6": 0.015590200445434299,
+      "7": 0.005567928730512249
+    },
+    "sample_count": 898,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.17624020887728462,
+      "2": 0.3681462140992167,
+      "3": 0.31984334203655357,
+      "4": 0.08877284595300261,
+      "5": 0.03785900783289817,
+      "6": 0.0026109660574412533,
+      "7": 0.006527415143603133
+    },
+    "sample_count": 766,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v45",
+    "question_text": "Q21a How satisfied or dissatisfied were you with the treatment you received when you last visited a doctor?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.18468468468468466,
+      "2": 0.2882882882882883,
+      "3": 0.36148648648648646,
+      "4": 0.09684684684684683,
+      "5": 0.05405405405405405,
+      "6": 0.011261261261261262,
+      "7": 0.0033783783783783786
+    },
+    "sample_count": 888,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.14028776978417268,
+      "2": 0.37050359712230224,
+      "3": 0.27697841726618705,
+      "4": 0.12589928057553956,
+      "5": 0.0539568345323741,
+      "6": 0.021582733812949638,
+      "7": 0.01079136690647482
+    },
+    "sample_count": 278,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v46",
+    "question_text": "Q21b How satisfied or dissatisfied were you with the treatment you received when you last visited an [alternative /traditional/folk] health care practitioner?",
+    "category": "health",
+    "options": {
+      "1": "Completely satisfied",
+      "2": "Very satisfied",
+      "3": "Fairly satisfied",
+      "4": "Neither satisfied nor dissatisfied",
+      "5": "Fairly dissatisfied",
+      "6": "Very dissatisfied",
+      "7": "Completely dissatisfied"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.12903225806451613,
+      "2": 0.2903225806451613,
+      "3": 0.2849462365591398,
+      "4": 0.14516129032258063,
+      "5": 0.10215053763440861,
+      "6": 0.03763440860215054,
+      "7": 0.010752688172043012
+    },
+    "sample_count": 186,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.3911917098445596,
+      "2": 0.39507772020725385,
+      "3": 0.04404145077720207,
+      "4": 0.05569948186528498,
+      "5": 0.08549222797927461,
+      "6": 0.02849740932642487,
+      "7": 0.0
+    },
+    "sample_count": 772,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v47",
+    "question_text": "Q22 Do you smoke cigarettes, and if so about how many cigarettes a day? ",
+    "category": "health",
+    "options": {
+      "1": "Do not smoke and never did",
+      "2": "Do not smoke now but smoked in the past",
+      "3": "Smoke 1-5 cigarettes per day",
+      "4": "Smoke 6-10 cigarettes per day",
+      "5": "Smoke 11-20 cigarettes per day",
+      "6": "Smoke 21-40 cigarettes per day",
+      "7": "Smoke more than 40 cigarettes per day"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5462653288740245,
+      "2": 0.29765886287625415,
+      "3": 0.033444816053511704,
+      "4": 0.04793756967670011,
+      "5": 0.060200668896321065,
+      "6": 0.014492753623188406,
+      "7": 0.0
+    },
+    "sample_count": 897,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.43669250645994834,
+      "2": 0.31524547803617575,
+      "3": 0.17958656330749356,
+      "4": 0.05426356589147286,
+      "5": 0.014211886304909561
+    },
+    "sample_count": 774,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v48",
+    "question_text": "Q23a How often do you drink 4 or more alcoholic drinks on the same day?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.6145251396648045,
+      "2": 0.270391061452514,
+      "3": 0.09273743016759776,
+      "4": 0.020111731843575415,
+      "5": 0.00223463687150838
+    },
+    "sample_count": 895,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07068062827225131,
+      "2": 0.11387434554973823,
+      "3": 0.2356020942408377,
+      "4": 0.40445026178010474,
+      "5": 0.17539267015706805
+    },
+    "sample_count": 764,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v49",
+    "question_text": "Q23b How often do you do physical activity for at least 20 minutes that makes you sweat or breathe more heavily than usual?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.09410430839002266,
+      "2": 0.11224489795918367,
+      "3": 0.22902494331065762,
+      "4": 0.39115646258503406,
+      "5": 0.173469387755102
+    },
+    "sample_count": 882,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.005128205128205128,
+      "2": 0.02564102564102564,
+      "3": 0.14999999999999997,
+      "4": 0.39615384615384613,
+      "5": 0.42307692307692313
+    },
+    "sample_count": 780,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v50",
+    "question_text": "Q23c How often do you eat fresh fruit or vegetables?",
+    "category": "health",
+    "options": {
+      "1": "Never",
+      "2": "Once a month or less often",
+      "3": "Several times a month",
+      "4": "Several times a week",
+      "5": "Daily"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.0033296337402885685,
+      "2": 0.008879023307436182,
+      "3": 0.05216426193118757,
+      "4": 0.28412874583795783,
+      "5": 0.6514983351831298
+    },
+    "sample_count": 901,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.02570694087403599,
+      "2": 0.20951156812339333,
+      "3": 0.4550128534704371,
+      "4": 0.24935732647814912,
+      "5": 0.06041131105398458
+    },
+    "sample_count": 778,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v51",
+    "question_text": "Q24 In general, would you say your health is … ",
+    "category": "health",
+    "options": {
+      "1": "Excellent",
+      "2": "Very good",
+      "3": "Good",
+      "4": "Fair",
+      "5": "Poor"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.027839643652561245,
+      "2": 0.21714922048997776,
+      "3": 0.4565701559020045,
+      "4": 0.24832962138084633,
+      "5": 0.05011135857461024
+    },
+    "sample_count": 898,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5019255455712451,
+      "2": 0.4980744544287548
+    },
+    "sample_count": 779,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v52",
+    "question_text": "Q25 Do you have a long-standing illness, a chronic condition, or a disability? ",
+    "category": "health",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.4855233853006681,
+      "2": 0.5144766146993318
+    },
+    "sample_count": 898,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.30039525691699603,
+      "2": 0.42424242424242425,
+      "3": 0.1791831357048748,
+      "4": 0.09617918313570488
+    },
+    "sample_count": 759,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v55",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27a Shut down businesses and places of employment.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.29128440366972475,
+      "2": 0.40137614678899086,
+      "3": 0.2201834862385321,
+      "4": 0.0871559633027523
+    },
+    "sample_count": 872,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.30668414154652685,
+      "2": 0.4521625163826998,
+      "3": 0.14678899082568808,
+      "4": 0.0943643512450852
+    },
+    "sample_count": 763,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v56",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27b Demand that people stay at home.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.30454545454545445,
+      "2": 0.4488636363636363,
+      "3": 0.175,
+      "4": 0.07159090909090908
+    },
+    "sample_count": 880,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.20838971583220567,
+      "2": 0.2733423545331529,
+      "3": 0.28416779431664413,
+      "4": 0.2341001353179973
+    },
+    "sample_count": 739,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v57",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27c Use digital (mobile phone) surveillance to track infected people.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.1676575505350773,
+      "2": 0.32223543400713434,
+      "3": 0.28656361474435194,
+      "4": 0.2235434007134364
+    },
+    "sample_count": 841,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5182291666666666,
+      "2": 0.34375,
+      "3": 0.08463541666666666,
+      "4": 0.053385416666666664
+    },
+    "sample_count": 768,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v58",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27d Require people to wear face masks.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.510662177328844,
+      "2": 0.3849607182940516,
+      "3": 0.07182940516273849,
+      "4": 0.032547699214365886
+    },
+    "sample_count": 891,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5116883116883116,
+      "2": 0.32987012987012987,
+      "3": 0.1,
+      "4": 0.05844155844155845
+    },
+    "sample_count": 770,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v59",
+    "question_text": "Q27 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics?  Q27e Ban public gatherings.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5164585698070374,
+      "2": 0.36549375709421117,
+      "3": 0.08172531214528944,
+      "4": 0.036322360953461974
+    },
+    "sample_count": 881,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5312499999999999,
+      "2": 0.38671875000000006,
+      "3": 0.05729166666666666,
+      "4": 0.024739583333333332
+    },
+    "sample_count": 768,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v61",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29a Place people known to carry the disease in isolation.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5753114382785957,
+      "2": 0.36693091732729327,
+      "3": 0.040770101925254806,
+      "4": 0.016987542468856167
+    },
+    "sample_count": 883,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.30026455026455023,
+      "2": 0.3756613756613757,
+      "3": 0.2394179894179894,
+      "4": 0.08465608465608465
+    },
+    "sample_count": 756,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v62",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29b Suspend compulsory education and close schools and kindergartens.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.2563218390804598,
+      "2": 0.3816091954022988,
+      "3": 0.26436781609195403,
+      "4": 0.09770114942528735
+    },
+    "sample_count": 870,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.5212903225806452,
+      "2": 0.352258064516129,
+      "3": 0.0929032258064516,
+      "4": 0.03354838709677419
+    },
+    "sample_count": 775,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v63",
+    "question_text": "Q29 Do you think the [country] government should or should not have the right to do the following at times of severe epidemics? Q29c Close borders to other countries.",
+    "category": "health",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.4880273660205245,
+      "2": 0.40820980615735464,
+      "3": 0.07753705815279363,
+      "4": 0.026225769669327253
+    },
+    "sample_count": 877,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.08485639686684072,
+      "2": 0.2885117493472585,
+      "3": 0.3838120104438642,
+      "4": 0.16971279373368148,
+      "5": 0.07310704960835511
+    },
+    "sample_count": 766,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v64",
+    "question_text": "Q30a Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the health care system",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.10309278350515465,
+      "2": 0.24054982817869416,
+      "3": 0.4536082474226804,
+      "4": 0.14318442153493702,
+      "5": 0.059564719358533795
+    },
+    "sample_count": 873,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "gender": "Male",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.03655352480417755,
+      "2": 0.19451697127937337,
+      "3": 0.30678851174934724,
+      "4": 0.24673629242819844,
+      "5": 0.2154046997389034
+    },
+    "sample_count": 766,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  },
+  {
+    "question_id": "v65",
+    "question_text": "Q30b Did the way the Covid-19 pandemic was handled in [country] increase or decrease your confidence in the government",
+    "category": "health",
+    "options": {
+      "1": "Increased it a lot",
+      "2": "Increased it a little",
+      "3": "Neither increased nor decreased it",
+      "4": "Decreased it a little",
+      "5": "Decreased it a lot"
+    },
+    "demographics": {
+      "gender": "Female",
+      "country": "Germany"
+    },
+    "p_real": {
+      "1": 0.07110091743119266,
+      "2": 0.18463302752293576,
+      "3": 0.3371559633027523,
+      "4": 0.2339449541284404,
+      "5": 0.17316513761467892
+    },
+    "sample_count": 872,
+    "aggregated_from": 8,
+    "attributes_used": [
+      "gender"
+    ]
+  }
+]

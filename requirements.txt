@@ -1,0 +1,11 @@
+# Tested with Python 3.11 and CUDA 12.4.
+# The extra index is needed for the CUDA-specific PyTorch wheel below.
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch==2.5.1+cu124
+transformers==4.57.1
+accelerate==1.11.0
+peft==0.17.1
+vllm==0.7.3
+tqdm==4.67.1
+safetensors==0.6.2
