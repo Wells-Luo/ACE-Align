@@ -1,7 +1,24 @@
-# Causal EMD
+# ACE-Align
 
-This repository trains and evaluates a LoRA adapter for survey distribution
-simulation with a causal Earth Mover's Distance (EMD) objective.
+Official implementation of **ACE-Align: Attribute Causal Effect Alignment for
+Cultural Values under Varying Persona Granularities**.
+
+ACE-Align trains and evaluates a LoRA adapter for survey-distribution
+simulation. It aligns the response shifts induced by controlled demographic
+attribute edits with the corresponding shifts observed in human survey data.
+
+## Method Overview
+
+<p align="center">
+  <img src="assets/ace-align-framework.png" alt="Overview of the ACE-Align framework" width="100%">
+</p>
+
+ACE-Align constructs counterfactual persona pairs by changing one treatment
+attribute while holding the remaining persona attributes fixed. It then
+compares the resulting model-side and data-side response shifts and minimizes
+their distance in cumulative-distribution space.
+
+## Repository Contents
 
 The public code is intentionally minimal:
 
@@ -15,6 +32,8 @@ The public code is intentionally minimal:
 
 ```text
 .
+├── assets/
+│   └── ace-align-framework.png # Method overview
 ├── configs/default.env          # Local paths and run defaults
 ├── data/
 │   ├── train/                   # Per-country training jsonl files
